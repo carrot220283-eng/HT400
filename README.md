@@ -6,4 +6,4 @@
 - `cards/*.html`：单张卡片网页（开启 GitHub Pages 后可直接访问）
 - `img/*.jpg`：原书页面截图（卡片里用 jsDelivr CDN 地址引用）
 
-CDN 前缀：`https://cdn.jsdelivr.net/gh/YOUR_GITHUB_NAME/magic-kb@main`
+CDN 前缀：`https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main`
