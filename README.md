@@ -1,4 +1,4 @@
-# magic-kb
+# HT400
 
 400 Tricks You Can Do 卡片知识库（魔术社团内部使用）。
 
