@@ -1,0 +1,636 @@
+# 四个三角形（FOUR TRIANGLES）
+
+原书：p.150 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-001
+
+道具：六根火柴
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+桌上六根火柴，要求摆出四个大小相同、不能折断也不能交叉的三角形。
+
+## 方法
+
+1. 先用三根火柴在桌面上摆成一个三角形。
+2. 另外三根分别从三角形的三个顶点向上搭起，形成一个三脚架。
+3. 每个侧面都是一个完整的三角形，共三个立面加一个底面，正好四个。
+4. 这些三角形同样大小，火柴没有折断也没有交叉。
+
+## 提示
+
+四个三角形不全在桌面上，有一个是立起来的。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-001-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is more of a puzzle than a trick but it is so perplexing that it deserves mention. Six matches are laid on the table, to be made into four triangles. All the triangles must be the same size and the matches must not be broken or crossed. The solution is to lay three matches in the form of a triangle and set the other three so they form a tripod, each leg starting from an apex of the triangle. Thus four perfect triangles are formed, but only one is on the horizontal plane.
+
+<<<KBCARD>>>
+
+# 火柴互穿（PENETRATING MATCHES）
+
+原书：p.150-151 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-002
+
+道具：两根硫火柴
+难度：进阶
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+两手各捏一根火柴，两手一合，两根火柴竟然互相穿过、扣在一起，拉开再推回都分不开。
+
+## 方法
+
+1. 双手各用拇指和食指捏住一根火柴的两端。
+2. 把右手食指指尖沾湿，按在一根火柴头上，火柴就会粘在指尖。
+3. 两手靠拢的瞬间，右手食指微微抬起，火柴跟着升起，让左手那根火柴从下方穿过。
+4. 两手拉开时同样让火柴错开，看起来就像两根火柴互相穿透。
+5. 整个穿插过程中，双手要保持连续移动。
+
+## 提示
+
+火柴必须在移动中交错，停住就容易被看出是抬手。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-002-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-002-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Each hand holds a match, by the ends, between the thumb and forefinger. The hands are brought together, and the matches apparently pass through one another, becoming linked. They are drawn apart, and pushed back and forth.
+Use sulphur matches for this trick. Moisten the tip of the right forefinger, and when it is pressed against the head of one match, the match will stick to it. When the hands are brought together, the right forefinger is raised for an instant; the match comes up with it, and permits the passage of the left hand match. The matches are drawn apart in the same manner. The hands should be kept in continuous motion during the "penetration."
+
+<<<KBCARD>>>
+
+# 消失的火光（THE MISSING LIGHT）
+
+原书：p.151 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-003
+
+道具：火柴
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师划燃一根火柴递给观众，观众却只拿到没有火的那一截，火还留在魔术师手里。
+
+## 方法
+
+1. 事先把一根火柴从中间折断。
+2. 划火柴时把两截并在一起拿，看起来像一根完整的火柴。
+3. 把火柴递向观众，观众自然抓住没有火的那一截断端。
+4. 魔术师拿着带火的一截走开，观众手里只剩一截火柴杆。
+
+## 提示
+
+两截要并紧，火头那截朝向自己，观众才不会拿到火。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-003-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+When a person wants a lighted match, try this little trick. You light a match and hold it out to him. Of course he takes the unlighted end. So you walk away, carrying the light, while he has nothing but the stump of a match. The match is previously broken in the center. Hold the two portions together when you light the match. Extend your hand and the person will take the broken end while you still have the light.
+
+<<<KBCARD>>>
+
+# 鞋底划火柴（MYSTIC SAFETY MATCHES）
+
+原书：p.151 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-004
+
+道具：安全火柴、火柴盒
+难度：入门
+时长：1 分钟
+场合：任意
+需要助手：否
+
+## 效果
+
+安全火柴本来只能在盒子上划着，魔术师却在自己的鞋底上一下划燃了。
+
+## 方法
+
+1. 先取一个火柴盒，用盒子侧面的砂纸在脚背处的鞋底上摩擦。
+2. 砂纸上的引火物质会蹭到鞋底上。
+3. 表演时拿一根安全火柴，在鞋底蹭过的地方一划。
+4. 火柴就点燃了，看上去像是在鞋底上划着的。
+
+## 提示
+
+要在脚背位置的鞋底上蹭，表演时把鞋底朝上才顺手。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-004-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Safety matches can only be struck on the box. Everyone knows that. Therefore they will be surprised to see you blissfully light a safety match on the sole of your shoe! This requires a little previous preparation. Take a match box and rub the side of it against the sole of your shoe, at the instep. Enough of the striking substance will be transferred so that you can light a match on your shoe.
+
+<<<KBCARD>>>
+
+# 一根根消失（ONE AT A TIME）
+
+原书：p.151-152 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-005
+
+道具：两三根火柴、戒指
+难度：进阶
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把两三根火柴一根根拿在手里，上下移动之间火柴接连消失，最后摊开手指，手里空空如也。
+
+## 方法
+
+1. 右手无名指上戴一枚戒指。
+2. 把无名指和小指弯向掌心。
+3. 拇指和食指、中指捏着火柴，把火柴往下推进戒指下面、手指背后。
+4. 手保持移动，火柴藏好后把五指张开给观众看。
+5. 一根接一根重复，火柴便一根根消失。
+
+## 提示
+
+手不能停，藏火柴要在上下移动的节奏里完成。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-005-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-005-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a very pretty trick with matches. Two or three matches are used. The right hand takes them one at a time, and, moving up and down, causes the matches to disappear, the hand being shown empty with the fingers wide apart.
+Method: You must wear a finger ring on your third finger. Bend in the third and fourth fingers, while the thumb and first two fingers, which are holding the match, push it down in under the ring, and in back of the finger. The hand is kept in motion, and when the match is in place the fingers are spread wide apart.
+
+<<<KBCARD>>>
+
+# 立在拇指上（BALANCING A MATCH）
+
+原书：p.152 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-006
+
+道具：火柴
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+一根火柴竟能斜立在拇指背上，晃来晃去却不倒。
+
+## 方法
+
+1. 把火柴底端放在一只手的拇指关节上。
+2. 把拇指往内弯。
+3. 再伸直拇指，火柴便卡进皮肤的一道皱褶里。
+4. 轻轻移动手掌，火柴就能保持直立不倒。
+
+## 提示
+
+让火柴卡在拇指关节的皱纹里，比平放更容易立住。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-006-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Here is a clever method of balancing a match on the back of the thumb. Set the bottom of the match upon the knuckle of one thumb and bend the thumb inward. Then extend your thumb and the match will be set in a wrinkle or crease in the skin. By moving the hand slightly it is an easy matter to keep the match in an upright position.
+
+<<<KBCARD>>>
+
+# 一划就灭的火柴（BURN-OUT MATCHES）
+
+原书：p.152 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-007
+
+道具：火柴、硅酸钠（水玻璃）
+难度：入门
+时长：1 分钟
+场合：任意
+需要助手：否
+
+## 效果
+
+火柴一划就着，可火苗刚烧起来就立刻熄灭了。
+
+## 方法
+
+1. 准备一些硅酸钠，也就是常见的水玻璃。
+2. 在火柴头下方涂上一小圈水玻璃，不需要涂太多。
+3. 晾干后，火柴划得着。
+4. 但火苗一烧到水玻璃那一段就会立刻熄灭。
+
+## 提示
+
+水玻璃只涂头下窄窄一圈，涂太多会影响点着。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-007-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Matches that go out as soon as they are lighted always create considerable amusement. These matches are very easily prepared. Obtain some sodium silicate, which is commonly known as water glass, and paint the matches with it, just below the heads. Only a narrow strip needs to be painted around each match. The matches will light when they are struck, but will go out as soon as the flame encounters the water glass.
+
+<<<KBCARD>>>
+
+# 火柴方阵（THE MATCH SQUARE）
+
+原书：p.152-153 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-008
+
+道具：四根火柴
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+四根火柴摆成一个十字，只移动其中一根，就让它们围成一个正方形。
+
+## 方法
+
+1. 把四根火柴摆成十字形。
+2. 问题：只移动一根火柴，让四根火柴围成一个正方形。
+3. 把其中一根火柴挪动约十六分之一英寸。
+4. 四根火柴的间隙就围成一个极小的正方形。
+
+## 提示
+
+答案是一个极小的正方形，移动的距离要非常微细。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-008-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-008-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a puzzle with matches but it is so novel that it is quite as interesting as the average match trick. Lay four matches in the form of a cross, as illustrated in Fig. i. The problem is to move one match and make the matches form the sides of a perfect square.
+Solution: Move one match about a sixteenth of an inch, as shown in Fig. 2. Thus the matches will form the sides of a square, but it will be a very tiny square indeed! Nevertheless it fulfills the conditions of the problem to the letter.
+
+<<<KBCARD>>>
+
+# 口袋里的火（LIGHTED MATCH FROM POCKET）
+
+原书：p.153-154 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-009
+
+道具：空安全火柴盒、火柴、假蜡烛（进阶版）
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把手伸进口袋，取出来时手里已是一根点燃的火柴。
+
+## 方法
+
+1. 口袋里放一个空的火柴盒，盒边躺一根散火柴。
+2. 伸手进口袋取火柴时，顺势把火柴在盒侧砂纸上划着。
+3. 火柴离开口袋时火苗正好燃起，不会烧到手。
+4. 进阶版：把蜡烛放在外套内袋，烛芯位置换成一根蓝头火柴，右手按住口袋外侧固定火柴盒，左手取出蜡烛时在盒上划着。
+
+## 提示
+
+火柴要在出袋的一瞬间划着，动作太快反而容易划空。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-009-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-009-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Taking a lighted match from the pocket is a very surprising little trick. All that is necessary is to have an empty box of safety matches in the pocket, with a loose match lying beside it. In taking the match from your pocket, strike it on the box by merely sliding it out. There is no danger from the match as it comes clear of the pocket just as the flame breaks forth. A more elaborate trick is the "Lighted Candle From Pocket," which is performed in the same way. The candle is in the inside coat pocket, and instead of the wick it has a blue-tipped match in its end. While the right hand presses the outside of the pocket and holds the match-box steady, the left hand reaches in, obtains
+the candle and strikes it on the box, immediately bringing it from the pocket. Wooden candles, made in imitation of the usual wax candle, are often used in this trick.
+
+<<<KBCARD>>>
+
+# 自己点燃的火柴（SELF-LIGHTING MATCH）
+
+原书：p.154 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-010
+
+道具：火柴盒、火柴、砂纸小方块
+难度：进阶
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师只打开一盒安全火柴，抽出来的那一根却已经是点燃的。
+
+## 方法
+
+1. 另取一个火柴盒，从侧面砂纸处剪下一小块方形。
+2. 把这小方块粘在要用的盒子盖内侧、靠近顶部的位置。
+3. 把内屉装好，让火柴没有头的那一端正对着这块砂纸。
+4. 把内屉拉开约三分之一，露出火柴的杆端。
+5. 取一根火柴往外抽，把火柴杆压在屉口上当支点，并向下压，让火柴头蹭到藏在盖内的砂纸。
+6. 火柴在抽出来的同时就燃了。
+
+## 提示
+
+火柴头要正好蹭到盖内那一小方块砂纸，角度差一点就划不着。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-010-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is even more surprising than the trick just described, inasmuch as the magician merely opens a box of safety matches, and draws out a lighted match! Take another match box and cut a square piece out of the side. Glue the little square just inside the cover of the box you intend to use, under the top of the cover. Then insert the drawer, with the blank ends of the matches directly under the litde square of striking material. Push the drawer about one-third open so that the blank ends of the matches come into view. Take one of the matches and start to withdraw it from the box. In so doing, "lever" the match on the end of the drawer, and press downward so that the head of the match is drawn against the hidden square of striking material. The match will burst into flame just as you draw it from the box.
+
+<<<KBCARD>>>
+
+# 一根变两根（THE MULTIPLYING MATCH）
+
+原书：p.154-155 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-011
+
+道具：蓝头火柴、刀片
+难度：进阶
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师两手之间只捏着一根火柴，两手一合再分开，每只手里都有一根火柴。
+
+## 方法
+
+1. 用快刀或剃须刀片把一根蓝头火柴从头到尾竖着劈成两半。
+2. 把两半小心地对齐按紧，捏住中部展示，看起来仍是一根完整的火柴。
+3. 两手靠拢时各取一半。
+4. 两手上下挥动，同时把火柴转成扁平的一面朝向观众。
+5. 每只手的火柴都捏在底部、拇指与食指之间；从两英尺外看，两半都像完整的火柴。
+
+## 提示
+
+两半要劈得对称、对得严丝合缝，从正面看不出拼合的缝。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-011-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-011-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician holds a blue-tipped match between the thumb and forefinger of his right hand. There is nothing else in either hand. The hands are brought together and the match immediately is joined by another match so that each hand holds a single match. Only one match is used, but it is previously prepared. Take a sharp knife or a razor blade and split the match down the center, head and all. Press the two halves carefully together, holding them at the center, and they can be exhibited as a single match. When the hands are brought together, each hand takes a section of the match, and, while the hands are waving up and down, the
+matches are turned so that the flat sides are away from the audience. The matches should be held at the base, one between the thumb and forefinger of each hand. The spectators can see only one side of each section, and from two feet away, the halves look like perfect matches. If the match has been carefully split, each half may be lighted.
+
+<<<KBCARD>>>
+
+# 站立的火柴（THE STANDING MATCH）
+
+原书：p.155 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-012
+
+道具：火柴
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+一根火柴竟能直立在木桌面上，别人怎么试都立不住。
+
+## 方法
+
+1. 悄悄把左手拇指和食指的指尖沾湿。
+2. 让几个人先试，他们都无法把火柴立起来。
+3. 左手从火柴底端捏起火柴，让火柴末端也沾上一点湿气。
+4. 把火柴换到右手，只要往桌面上一按，它就能立住。
+
+## 提示
+
+湿气只要一点点，太湿火柴会打滑立不住。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-012-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Making a match stand upright on the surface of a wooden table seems to be a feat of very careful balancing. Anyone who tries it will give it up as impossible, but you can do it with very little difficulty. There is a trick to it. Secretly moisten the tips of your left thumb and forefinger. After various persons have been unable to make the match stand, take it (by the bottom) between your left thumb and forefinger, thus moistening the end of the match. Transfer the match to your right hand and you can make it stand upright by simply pressing it against the table.
+
+<<<KBCARD>>>
+
+# 火柴射击（SHOOTING THE MATCH）
+
+原书：p.155-156 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-013
+
+道具：火柴数根、火柴盒
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+两根火柴点燃后立刻被吹灭，一根竖起作靶；魔术师把另一根火柴弹向空中，让它边飞边转，准确打落靶上最上面那根。
+
+## 方法
+
+1. 点燃一根火柴，把第二根火柴头对头地架在它上面；第二根一着火，就把两根都吹灭。
+2. 把一根火柴竖插在火柴盒的抽屉里，用抽屉把它夹稳，当作靶子。
+3. 另取一根火柴平放在左手，用右手指猛地一弹，让火柴飞向靶子。
+4. 弹出时对准目标，让火柴在空中一边飞行一边旋转。
+5. 多加练习，几乎每次都能直接命中。
+
+## 提示
+
+火柴要弹得直、转得匀，飞行才稳；原文对靶子的具体摆法描述略含混。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-013-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-013-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A match is lighted, and another match is placed head to head with it. The instant the second match is ignited, the magician blows out both matches. Then he sets one match upright in the drawer of the matchbox, using the drawer to wedge it in place. He sets another match on his left hand and flicks it with his right. It flies through the air and knocks off the uppermost of the two matches. The secret of this bit of markmanship is to aim the match straight for the target; then flick it so that it revolves while going through the air. With a little practice a direct hit will be scored nearly every time.
+
+<<<KBCARD>>>
+
+# 十一的一半（SIX AND ELEVEN）
+
+原书：p.156 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-014
+
+道具：六根火柴
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+六根火柴摆成罗马数字 XI，取走下半部分后，剩下的上半部分正好成了 VI——也就是六。
+
+## 方法
+
+1. 用六根火柴摆出罗马数字 XI：X 用四根，I 用两根。
+2. 告诉观众：在古罗马人看来，十一的一半是六。
+3. 只把摆好的 XI 的下半部分取走。
+4. X 的上半部分正好是 V，I 的上半部分仍是一竖，合起来就是 VI。
+5. 向观众展示结果：六。
+
+## 提示
+
+这是借「数字」和「根数」做文字游戏，先别急着解释，让观众自己上当。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-014-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Place six matches so that they form the Roman number n, namely XI. State that in Rome, half of eleven was supposed to be six; so half of the number will be six. To prove this, take away half of the matches the lower half. The figure X is formed by four matches, and I is formed by two. Taking away the lower half leaves VI, the Roman number for 6.
+
+<<<KBCARD>>>
+
+# 红头变蓝头（RED AND BLUE）
+
+原书：p.156 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-015
+
+道具：蓝头火柴、红火柴头、一点蜡
+难度：进阶
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把一根红头火柴放进左手，打开手时，火柴头却变成了蓝色。
+
+## 方法
+
+1. 用一点蜡把一枚红火柴头粘在蓝头火柴的底端。
+2. 右手拇指和食指捏住蓝头，把整根火柴当作「红头火柴」展示。
+3. 把火柴放进左手，把手翻过来，假装把火柴再往里推一推。
+4. 借这个动作用拇指和食指夹住红头，把它从手里抽出来。
+5. 张开左手，展示那根蓝头火柴，并可交给观众检查。
+
+## 提示
+
+抽走红头时要跟着「推火柴」的假动作走，手别停。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-015-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A red-tipped match is shown and is placed in the left hand. When the hand is opened, the tip of the match is blue. With a bit of wax attach a red tip to the bottom of a bluetipped match. Hold the blue tip between your right thumb and forefinger, and exhibit the match as a red-tipped one. Lay the match in the left hand. Turn the hand over, and pretend to push the match further in. This enables you to grip the red tip between the thumb and forefinger, and to draw it from the hand. Open the hand and show the blue-tipped match, which may be examined.
+
+<<<KBCARD>>>
+
+# 纸火柴复原（APPEARING PAPER MATCHES）
+
+原书：p.156-157 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-016
+
+道具：一包纸火柴、口袋
+难度：进阶
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把一包纸火柴全部撕下来丢进口袋，随手合上纸包；再打开时，火柴竟然又满满一包。
+
+## 方法
+
+1. 打开一包纸火柴，把能看到的火柴全部撕下来，丢进口袋，随即合上纸包。
+2. 这包纸火柴有四层：把前两层和后两层分开，留出一道小缝。
+3. 假装把翻盖塞回纸包，实际上把它从前后两层之间滑进去。
+4. 这个动作要在展示火柴时做；观众以为看到了全部，其实封套挡住了另一半。
+5. 把露在外面的火柴撕掉装进口袋，把翻盖滑到残根上方，然后把纸包放在桌上。
+6. 再打开纸包，看起来又是一整包火柴。
+
+## 提示
+
+翻盖要顺着层缝滑进去，不能让纸包看上去被撑开。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-016-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-016-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician opens a package of paper matches. He tears out all of the paper matches and drops them in his pocket, immediately closing the package. When the package is reopened, the matches are back again! This is a very clever trick. The package of paper matches has four layers. Separate the front two from the rear two, leaving
+slight gap. Open the package and pretend to tuck back the flap, but really slide it in between the front and rear layers. This is done as you are about to show the matches. You then apparently show all the matches; but the cover hides half of them. Tear off the matches that are in view and pocket them. Slide the flap over the stumps and lay the package on the table. When you open it, it appears to be filled with matches again.
+
+<<<KBCARD>>>
+
+# 十字变正方形（CROSS TO SQUARE）
+
+原书：p.157-158 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-017
+
+道具：两根火柴
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+两根火柴在手里摆成一个十字，魔术师说不用折断就能变出正方形，往桌上一放，果然成了方。
+
+## 方法
+
+1. 事先把两根火柴各折出一个直角，但不要完全折断，让木纤维连着。
+2. 表演时把两根火柴拿在手里，拇指和食指挡住折口，看上去只是一个十字。
+3. 声称不用折断火柴也能摆成正方形。
+4. 把火柴放到桌上时，每根的两段自然展开，各成一个直角。
+5. 两根直角火柴拼在一起，正方形就出现了。
+
+## 提示
+
+折口一定要藏在指间，拿起和放下时手指别松开。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-017-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-017-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Two matches are held in the form of a cross, the thumb and forefinger hiding the join. The magician says that he can form a square with those two matches using them just as they are, without breaking them. ^vVHKfc When he lays the matches on the table the trick is done. The matches have been broken beforehand so that each one forms a right angle, but the matches are not completely broken. What looks like a cross of two matches, when held in the hand, is really the two right angled matches. When they are laid on the table, each one is two sided, and the formation of the square is easy.
+
+<<<KBCARD>>>
+
+# 火柴变香烟（MATCH TO CIGARETTE）
+
+原书：p.158-159 ｜ 章：MATCH TRICKS（火柴魔术） ｜ 卡片编号：MT-018
+
+道具：火柴、香烟
+难度：进阶
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师右手拿一根火柴，把它推进左手；再抽出来时，火柴已经变成了一支香烟。
+
+## 方法
+
+1. 右手拇指和食指竖着捏住火柴，展示给观众。
+2. 把一支香烟藏在右手拇指与第二根手指后面。
+3. 左手从上方覆上右手，同时抓住香烟和火柴。
+4. 抽出来时抽的是香烟而不是火柴，装作火柴变成了香烟。
+5. 也可以把火柴从左手取出来，再往拳里推；推的时候把火柴塞进事先掏空部分烟丝的香烟里。
+
+## 提示
+
+藏香烟的角度要跟着火柴的方向走，烟头别从指缝露出来。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-018-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mt-018-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician holds a match in his right hand. He pushes it through his left hand and a cigarette comes out instead of the match. The match is held between the right thumb and forefinger in an upright position. This enables the magician to conceal the cigarette in back of his thumb and second finger. (See Figs. I and 2.) He brings his left hand over the right and grips the cigarette and the match. Then he draws out the cigarette instead of the match. If he wishes he can remove the match from the left hand and push it up into the fist with the right hand. In doing this he pushes the match into the cigarette, which has previously been relieved of some of its contents.

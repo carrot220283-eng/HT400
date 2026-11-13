@@ -1,0 +1,242 @@
+# 磁力骰子（THE MAGNETIC DICE）
+
+原书：p.113 ｜ 章：DICE AND DOMINO TRICKS（骰子与多米诺魔术） ｜ 卡片编号：DD-001
+
+道具：两枚骰子、一点水
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+一枚骰子叠在另一枚上，提起上面那枚时，下面那枚像被磁化了一样跟着一起起来。
+
+## 方法
+
+1. 事先把食指指尖沾湿。
+2. 把水抹在上面那枚骰子的底面。
+3. 把两枚骰子叠压在一起，让水把骰面粘住。
+4. 提起上面的骰子：下面那枚被一起带起。
+
+## 提示
+
+水只要一点点，骰面压实时不要太用力，免得水被挤出来。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-001-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A pair of dice are placed on the table, and one die is set upon the other. When the upper die is lifted, the lower one clings to it;s though magnetized. a ^Method: Previously moisten the tip of your forefinger, and to the under side of the upper die. When the dice are CO "ply it essed together, they will stick, and they may be lifted as one.
+
+<<<KBCARD>>>
+
+# 报出总点数（NAMING THE TOTAL）
+
+原书：p.113-114 ｜ 章：DICE AND DOMINO TRICKS（骰子与多米诺魔术） ｜ 卡片编号：DD-002
+
+道具：两枚骰子
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众背对魔术师掷两枚骰子、加总、翻一枚加底面、再掷一枚加顶面，魔术师回头看一眼就能说出他算出的总数。
+
+## 方法
+
+1. 请观众背对你掷两枚骰子，把两枚顶面的点数相加。
+2. 让他拿起一枚骰子翻个面，把底面的点数加进去。
+3. 让他再掷那一枚骰子，把新出现的顶面点数加进去。
+4. 你转过身，只看桌上两枚骰子的顶面点数，相加后再加 7，就是他的总数。
+
+## 提示
+
+骰子相对两面的点数之和恒为 7，这是全部秘密；加 7 的时候别算错。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-002-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-002-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Tell a person to roll a pair of dice on the table, while your back turned. He must add the total made by the dice. Then he should pick up one die and, turning it over, should add the number on the bottom of the die. Having done this, he must roll the single die and add the number that appears on the top side. When you look at the dice as they lie on the table, you can immediately name the total that the spectator has reached! Method: Simply count the spots on the dice as they lie on the table, and add seven to the total. You will then have the grand Here the reason why: The opposite sides of a die always total. is total seven. The roller let one die remain on the table. But when he picked up the second die and added both the top and bottom into his total, he was merely adding on seven. When he rolled the die again, new number lay there for you to see, along with that its of the first die.
+
+<<<KBCARD>>>
+
+# 预言两端（THE END NUMBERS）
+
+原书：p.114 ｜ 章：DICE AND DOMINO TRICKS（骰子与多米诺魔术） ｜ 卡片编号：DD-003
+
+道具：一副多米诺骨牌、纸笔
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+两三个人把多米诺骨牌接龙排成一列，排完时两端的点数，正好和魔术师事先写在纸上的数字一样。
+
+## 方法
+
+1. 游戏开始前，暗中拿走一张不是对子（double）的骨牌。
+2. 把这张骨牌两端的点数写在纸上，折好放在大家都看得到的地方。
+3. 请人把剩下的骨牌接龙排成一列，排到接不上为止。
+4. 展开纸条：上面写的正是这一列两端的点数。
+
+## 提示
+
+被拿走那张牌的两端数字就是最后两端的数字；拿牌时别让人发现牌少了一张。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-003-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Place a set of dominoes on the table, and invite two or three persons to line up the dominoes, as though playing a game; but as the dominoes are all face up, the game can be finished in a few minutes. Before they start, you write something on a piece of paper and lay it where all can see. When the game is finished, there will be two ends to the row of dominoes. Suppose the end number on one row is five; on the other row, three. When the piece of paper is unfolded, it will bear the numbers five and three. You have foretold what the end numbers will be! Method: Secretly remove one of the dominoes (not a double) before the game begins. The numbers on the domino (in this case 3 and 5) will tell you what the end numbers will be.
+
+<<<KBCARD>>>
+
+# 排不完的局（THE INCOMPLETE GAME）
+
+原书：p.114 ｜ 章：DICE AND DOMINO TRICKS（骰子与多米诺魔术） ｜ 卡片编号：DD-004
+
+道具：一副多米诺骨牌
+难度：进阶
+时长：5 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+两人用骨牌接龙，怎么也排不完，总会剩几张接不上；等魔术师把牌混一混，他们再玩就顺利排完了。
+
+## 方法
+
+1. 事先拿走两张骨牌，两张牌上共四个不同的点数，例如 3 与 5、6 与 1。
+2. 请两人用剩下的骨牌玩接龙，他们会发现排不下去，总有牌剩着。
+3. 等他们意识到排不完，把骨牌混一混，趁机把拿走的两张放回去。
+4. 宣布魔法解除，请他们重新玩，这次就能顺利排完。
+
+## 提示
+
+若这一招接在上一招之后表演，只需再多拿一张牌；放回时要自然，别让人盯着你的手。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-004-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+In this case, two people are invited to play a game of dominoes, but somehow or other they cannot finish it. Several dominoes will be left over. For this trick, you take away two dominoes, bearing four different numbers, say 3 5 and 6 1. If this trick follows the last, simply take away one domino besides the one you already have. The game cannot be completed. As soon as the players have realized this, mix up the dominoes and slip back the two you have taken. Then tell them that the magic spell has been lifted and that they can go ahead without interruption.
+
+<<<KBCARD>>>
+
+# 十六牌读数（SIXTEEN DOMINOES）
+
+原书：p.114-115 ｜ 章：DICE AND DOMINO TRICKS（骰子与多米诺魔术） ｜ 卡片编号：DD-005
+
+道具：十六张多米诺骨牌
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众背对魔术师，把若干张骨牌从右端逐张移到左端；魔术师回来翻一张牌，牌面点数就说出移了几张。
+
+## 方法
+
+1. 把 16 张骨牌从左到右排好，让牌面点数依次为 12、11、10、9……直到 0（双空白），最右边三张另放。
+2. 背对观众，请他把若干张骨牌从右端一张一张移到左端，最多移十二张。
+3. 转回来后，翻起从右数第四张骨牌。
+4. 这张牌牌面的点数，就是观众移动的张数。
+
+## 提示
+
+排列时点数必须严格递减，翻第四张时按牌面点数直接报数即可。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-005-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-005-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Lay sixteen dominoes in a row on the table. While your back is turned, any person may move as many dominoes as he chooses
+from the right to the left of the line. The dominoes must be moved one by one, and not more than a dozen may be moved. When you come back, you immediately turn a domino with the spots up, and the spots on the domino tell how many have been moved! Method: Arrange the dominoes from left to right so that the spots total 12, ii, 10, 9, etc., down to o (the double blank). The three dominoes on the right of the row are odd ones. Now, if no dominoes are moved, and you turn up the fourth domino from the right, it will register zero double blank. If one domino is moved, the fourth from the right will be i if two are moved it will be 2, etc. Simply turn up the fourth domino from the right of the row.
+
+<<<KBCARD>>>
+
+# 隔杯报点（TOTALLING THREE DICE）
+
+原书：p.115 ｜ 章：DICE AND DOMINO TRICKS（骰子与多米诺魔术） ｜ 卡片编号：DD-006
+
+道具：三枚骰子、一个平底杯
+难度：进阶
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把三枚骰子装在平底杯里摇动，请观众从杯侧数出杯底的点数；他看不见杯底，却能立刻报出底面点数之和。
+
+## 方法
+
+1. 把三枚骰子放进平底杯，双手夹住杯身，掌心盖住杯口。
+2. 走到坐着的观众面前摇杯，请他从杯侧看杯底，数出三枚骰子底面的点数。
+3. 趁他低头看时，记住三枚骰子的顶面点数。
+4. 顶面三个点数相加，再用 21 去减，差就是底面三个点数之和。
+
+## 提示
+
+骰子顶面与底面之和恒为 7，三枚合计 21；记住顶面再减，动作要快。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-006-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Place three dice in a tumbler and put your hand over the open end, holding the glass between your palms. Approach a person who is seated, and shake the glass so the dice jump about; then ask him to look up through the side of the glass and count the spots on the bottom of the dice. He has hardly done so before you tell him the total; although you cannot see the bottom sides of the dice. Method Add the top sides of the dice, which you can see, and subtract your total from 21. That will give you the total of the bottoms.
+
+<<<KBCARD>>>
+
+# 骰盅吸骰（DICE IN CUP）
+
+原书：p.115-117 ｜ 章：DICE AND DOMINO TRICKS（骰子与多米诺魔术） ｜ 卡片编号：DD-007
+
+道具：两枚骰子、骰盅或纸杯、一根木火柴
+难度：高手
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+骰子装进杯中倒出来，几次之后骰子却像被吸住一样留在杯里；再翻一次，骰子又掉出来。
+
+## 方法
+
+1. 事先把一根木火柴横卡在杯子内壁靠近底部的一侧。
+2. 骰子放入杯中，手掌盖住杯口；翻杯时朝卡火柴那一侧倾斜，骰子便滑到火柴上方卡住不掉。
+3. 把杯子朝另一侧倾斜，骰子越过火柴掉落出来。
+4. 前几次故意让它“失败”，效果更可信；演完后用掌侧压杯壁松开火柴，让它悄悄落地。
+
+## 提示
+
+火柴卡在近杯底的一侧，倾斜方向决定骰子卡住还是掉落；动作要自然，别让火柴露出来。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-007-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-007-2.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/dd-007-3.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This trick requires a pair of dice and a "shaker" or dice-cup, either the large leather type used with standard size dice, or one of the small cardboard dice-cups that come with parlor games utilizing small dice. If no dice-cup is available, a paper drinking cup can be used.
+A pair of dice are dropped into the cup and the magician puts his hand over the mouth of the cup, turning it to create a vacuum. He then inverts the cup and the dice fall out. He tries again and after about the third try, to everyone's wonderment, the dice do not fall, but for some unexplainable reason remain up in the cup. Pressing his hand to the cup's mouth, the magician turns his hand the other way; this time, when the cup is inverted, the dice drop. The "vacuum" has nothing to do with it. Beforehand, the magician wedges a wooden match-stick or a portion of one if a small cup is used across the interior of the cup, near the bottom and toward one side. By simply tilting the cup that direction when inverting the cup, the dice will slide above the wedge and stay there, only to drop later when the cup is tilted the other way. A few "failures" make the trick more convincing and afterward, pressure on the side of the cup will release the match so it can be dropped unnoticed on the floor.
+Inasmuch as Christopher Columbus has been given credit for performing the first known trick with an egg, this chapter will begin with an explanation of how that famous feat might have been accomplished. According to the story, Columbus balanced an egg on end. The trick is a very interesting dinner table experiment, so here are three methods of performing it

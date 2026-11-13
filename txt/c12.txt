@@ -1,0 +1,287 @@
+# 消失的火柴（THE VANISHING MATCHES）
+
+原书：p.145 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-001
+
+道具：装满的火柴盒、空火柴盒、半满的火柴盒
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师展示一只装满火柴的盒子，放到桌上；过一会儿拿起来一摇，哗啦作响，请人打开盒子，里面却空空如也。
+
+## 方法
+
+1. 表演前用一只空盒子换掉那只装满火柴的盒子。
+2. 袖子里另藏一只装了一半火柴的小盒子。
+3. 拿起桌上的空盒子摇晃时，声音其实来自袖子里的盒子。
+4. 观众听见响声，便以为手里的盒子仍然是满的。
+5. 请人打开盒子，里面什么都没有。
+
+## 提示
+
+摇盒子的动作要自然，让声音和动作完全同步。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-001-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A box is shown full of matches, and is laid on the table. After a time the magician picks it up, and shakes it so the matches rattle. "Plenty ofmatches there," he remarks. "Take one out." Someone opens the box. It is empty! Before performing the trick the magician substitutes an empty box for the full one. Up his sleeve he has a pardy filled box of matches (preferably a half size box). When he shakes the empty box, the audience hears the sound of the matches in the hidden box and supposes the visible box is still full of matches.
+
+<<<KBCARD>>>
+
+# 火柴盒三张牌（MONTE WITH MATCHES）
+
+原书：p.145-146 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-002
+
+道具：三个火柴盒、火柴、橡皮筋
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+三个火柴盒在桌上倒来倒去，只有一个装着火柴，可无论观众怎么挑，拿到的总是空盒。
+
+## 方法
+
+1. 用三个火柴盒，其中一个装满火柴，其余两个是空的。
+2. 把满盒用橡皮筋固定在袖子里，桌上的三个盒子其实都是空的。
+3. 在桌上把三个空盒倒来倒去，让观众挑选。
+4. 需要让某个盒子听起来是满的时候，就摇它，声音其实来自袖子里的满盒。
+5. 观众凭声音追着满盒走，最后拿到的自然总是空盒。
+
+## 提示
+
+摇盒子的时机要跟观众的目光配合，声音才能误导他们。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-002-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-002-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A trick that rivals the famous "Three Card Monte" may be performed with match-boxes. Three boxes are used one of which contains matches. The magician mixes them around on the table and asks someone to pick up the full box. Somehow or other, the spectator always gets an empty box. This is due to an application of the method used in the preceding trick. A full box, held in place, up the magician's sleeve, by a rubber band, makes one of the empty boxes appear to be full when the magician shakes it. The spectators follow the box in which they hear the matches rattle. The trick can be worked with three empty boxes; but the audience supposes one is full, and
+the magician keeps up the delusion by occasionally shaking a box.
+
+<<<KBCARD>>>
+
+# 牌穿火柴盒（CUTTING THROUGH A MATCH-BOX）
+
+原书：p.146 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-003
+
+道具：火柴盒、扑克牌、纸块或卡纸块
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+一张扑克牌被按进火柴盒顶上的缝里，像把整盒火柴从中间切开，可把盒子一推一拉，两端都还能看到火柴。
+
+## 方法
+
+1. 火柴盒的内屉预先横着隔成三段，中间一段的两侧剪掉。
+2. 两端各粘一块纸或卡纸，上面再粘火柴：一端露出火柴头，另一端露出火柴杆。
+3. 把内屉稍微拉开，看上去就像满满一盒火柴。
+4. 盒盖顶面与两侧事先开一道横缝，把扑克牌慢慢按进缝里，像在切开整盒火柴。
+5. 随后把内屉前后推拉，两端都能看到火柴；牌正好挡住内屉，不会露出中间的空腔。
+6. 把盒子连同牌一起收进口袋，或抽走牌扔给观众检查，口袋里可另备一个没处理过的盒子应付检查。
+
+## 提示
+
+牌插入要慢，推拉内屉时别超过牌挡住的位置。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-003-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is an up to date novelty in match tricks. match-box is shown with a crosswise slit in the middle of the top and the sides. The magician opens the box slightly, showing the heads of the matches; then he closes it and pushes a playing card down into the slit. To the surprise of everyone the card apparently cuts right through the matches to the bottom of the box. Then the magician pushes the drawer of the box back and forth, showing the heads at one end and the blanks at the other! Method The drawer of the box is previously divided into three sections, crosswise and the sides of the middle section are cut away. The end sections are provided with little blocks of paper or cardboard, which are glued in place, and on top of these are glued the ends of matches, heads at one end, blanks at the other. Thus if the drawer is opened slightly, it appears to be full of matches. The card is inserted slowly as though cutting through a box full of matches. Then the drawer may be pushed back and forth, showing matches at both ends. The card stops the progress of the drawer, so there is no danger of revealing the hollow center. The box should be pocketed with the card still through it; or the card may be withdrawn and tossed for examination while the box is pocketed. duplicate (unprepared) box can be kept in the pocket to be brought out later on.
+
+<<<KBCARD>>>
+
+# 出现的火柴（APPEARING MATCHES）
+
+原书：p.146-147 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-004
+
+道具：火柴盒、火柴
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师展示一个半开的火柴盒，里面是空的；把内屉合上再拉开，盒子里竟多出一层火柴。
+
+## 方法
+
+1. 火柴其实一直藏在盒里，被卡在内屉末端与盒盖内侧之间。
+2. 拉开内屉展示时，火柴卡在盖子里，看上去盒子是空的。
+3. 把内屉合上，合的时候手指按住盒口，免得火柴被推出来。
+4. 再拉开内屉，火柴已经落进内屉里，一整层火柴就出现了。
+
+## 提示
+
+半高的火柴盒更适合这个魔术，火柴层显得更多。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-004-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-004-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A match-box is shown with the drawer half opened. The box is empty. The drawer is closed and when it is reopened, a number of matches are within.
+The matches are in the box all the time but they are wedged between the end of the drawer and the inside of the cover. Thus the box may be shown apparently empty. When the drawer is closed, (the fingers being held at the end to prevent the matches from pushing out), the matches will fall in the drawer. A whole layer of matches may be produced in this manner. Some match-boxes are sold which are only half the height of the usual match-box. They are especially suited for this trick, as the layer of matches makes a greater showing.
+
+<<<KBCARD>>>
+
+# 火柴穿桌（MATCHES THROUGH THE TABLE）
+
+原书：p.147-148 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-005
+
+道具：火柴盒、火柴、假内屉
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+满满一盒火柴立在桌上，魔术师右手把内屉推进去，左手伸到桌下再拿上来时，竟抓出一大把火柴，盒子却空了。
+
+## 方法
+
+1. 把一个火柴盒内屉的末端切下约三分之一。
+2. 把火柴剪成同样长度，粘在这截内屉里，做成一个假内屉。
+3. 拿一个空火柴盒，把假内屉粘在盒口一端，看起来就像满盒火柴拉出了一截。
+4. 把盒子立在桌上，左手扶住；右手拍打假内屉把它推进盒里，同时把假内屉藏在手指弯里带走。
+5. 观众看到的是真内屉的末端，以为盒子只是被关上了。
+6. 左手伸到桌下，取出事先藏好的散火柴；把空盒交给观众检查，同时把假内屉悄悄收进口袋。
+
+## 提示
+
+拍打和内屉的掉包要在同一个动作里完成。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-005-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-005-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a very surprising trick with matches, and one that is quite new. A box of matches is stood on end, on the table, the drawer being part way open, showing the box filled with matches. Holding the box with his left hand, the magician strikes the open drawer with his right hand and drives it shut. Then he reaches under the table with the left hand and brings up all the matches. The drawer is opened, and found to be quite empty. For this trick you require a little contrivance which can be made very easily. Cut about one third off the end of a drawer of a match box. Cut a number of matches to the same size, and glue them in the portion of the drawer. Then take an empty match-box, and stick the imitation drawer on the end. To all appearances you have a full box of matches, which pushed part way open. Stand the box on the table; hold it with the left hand. Then strike the imitation drawer with the right hand, and carry it away in the bend of the fingers. The spectators see the end of the genuine drawer, and think you have merely driven the box shut. Reach under the table, and bring up a lot of loose matches, which you have concealed there. Then let the people examine the empty box while you quietly pocket the imitation drawer.
+
+<<<KBCARD>>>
+
+# 粘袖子的火柴盒（THE ADHESIVE MATCH-BOX）
+
+原书：p.148 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-006
+
+道具：侧面带砂纸的蓝头火柴盒
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把一盒火柴往外套袖子上一按，盒子就粘在袖子上不掉下来，还可以拿下来给观众检查。
+
+## 方法
+
+1. 选一种侧面贴有砂纸的蓝头火柴盒。
+2. 把盒子贴砂纸的一侧按在袖子上。
+3. 砂纸面会挂住衣料，盒子就粘在那里。
+4. 取下盒子交给观众检查，看不出任何机关。
+
+## 提示
+
+要让贴砂纸的那一面对着袖子，衣料粗糙一些更易粘住。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-006-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is an interesting little item in connection with match tricks. Taking a box of matches, you set it against your coat sleeve and it sticks there. The box may be examined. Use a box of blue-tipped matches, which has sandpaper on the sides. Place the side of the box against the sleeve and it will adhere there.
+
+<<<KBCARD>>>
+
+# 缩小的火柴盒（THE DIMINISHING MATCH-BOX）
+
+原书：p.148-149 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-007
+
+道具：普通火柴盒、半尺寸小火柴盒、火柴
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师把一只半开的满盒火柴推进左拳，再摊开左手，手里的火柴盒竟缩小成原来的一半。
+
+## 方法
+
+1. 大盒塞满火柴，合上时不发出响声；小盒只装到不满。
+2. 把大盒内屉拉开到接近全开，盒盖内有一块空位，正好藏进小盒。
+3. 让突出的内屉朝向观众，左手用拇指捏住盒子的里端，收进拳中。
+4. 右手盖住突出的内屉，把它往里推合，同时把小盒顶进左拳里。
+5. 右手握紧大盒并把它带走，藏在握起的右手中。
+6. 同时抬起左手，观众目光跟随，左手轻晃，听到火柴响、瞥见盒角，便以为大盒推进了左拳。
+7. 坐着时右手放低，让大盒落进膝上；站着时立即左转，晃小盒并扔到桌上，右手顺势把大盒收进口袋。
+
+## 提示
+
+右拳不能松，大盒要在推合内屉的一瞬间被完全握住。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-007-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-007-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The following trick requires a slight amount of skill, but it is worth the practice. You have a half-opened box of matches, which is filled. The left hand is closed in a fist, and the box is held in the end of the fist. The right hand shuts the drawer of the box and pushes the box into the left fist. But when the left fist is opened, the match-box is only one-half its original size! All you need is an ordinary match box and a half-size box such as can be purchased at many novelty or cigar stores. The large box should be tightly filled with matches so that they will not rattle when the box is closed, but the small box is not quite full. Push the drawer of the large box nearly open and you will find a large hiding place inside the cover where you can conceal the small box. Of course the protruding drawer of the large box is towards the audience. Then you are ready for business. Show the box, and grip the inner end in your left fist, by the thumb. Turn your right side towards your audience. Now the right hand is placed squarely over the protruding drawer, and it pushes the drawer shut, thus ejecting the small box into the left fist. The right hand firmly grips the large box and carries it away, the box being hidden in the closed right hand. At the same instant, the left hand is raised, the eyes follow it, and it is shaken slightly. The spectators hear the matches rattle,
+and they catch a glimpse of the box in the left fist, so they think the large box has been pushed in there. If the magician is seated at a table, he should lower his right hand and let the large box fall in his lap. If he is standing, he should immediately turn his left side towards the audience, while shaking the little box and then throw the box on the table, while the right hand pockets the large box.
+
+<<<KBCARD>>>
+
+# 火柴里拉出丝带（RIBBON FROM THE MATCH）
+
+原书：p.149-150 ｜ 章：MATCH BOX TRICKS（火柴盒魔术） ｜ 卡片编号：MB-008
+
+道具：火柴盒、火柴、卷好的丝带
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师展示空手，取出一根火柴划燃，竟从燃烧的火柴里拉出一长卷丝带。
+
+## 方法
+
+1. 把火柴盒内屉推出一半，把卷紧的丝带塞到内屉后面。
+2. 把火柴盒放在桌上，开口一端朝向观众，并展示双手空空。
+3. 左手拿起盒子，右手取出一根火柴。
+4. 右手把内屉推合，这个自然动作会把丝带顶进左手。
+5. 右手划燃火柴，左手靠近把火掐灭，假装从烟雾里拉出丝带。
+
+## 提示
+
+丝带要卷紧、藏稳，推内屉的动作要自然得像随手关盒。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-008-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/mb-008-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes a box of matches, after showing his hands empty. He removes a match and strikes it, and then produces a long coil of ribbon from the lighted match. To do this, push the drawer of the match-box halfway open and insert the coiled-up ribbon in back of the drawer. The matchbox is laid on the table with the open end towards the audience. The hands are shown empty. The left hand picks up the box, while the right hand extracts the match. The drawer of the box is then pushed shut a most natural procedure which ejects the ribbon into the left hand. The right hand lights the match, and the left approaches, extinguishes the match and pretends to draw the ribbon from the smoke.

@@ -1,0 +1,318 @@
+# 杯中的硬币（THE COIN IN THE GLASS）
+
+原书：p.170-171 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-001
+
+道具：玻璃杯、水、小盘子、一角硬币
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+杯里丢一枚硬币、倒水盖盘再倒扣，从侧面看竟出现两枚硬币，其中一枚显得大如两角五分。
+
+## 方法
+
+1. 在玻璃杯里丢一枚一角硬币，倒入大半杯水。
+2. 用盘子盖住杯口，小心地把杯子和盘子一起倒扣过来。
+3. 请人从玻璃杯的侧面往里看。
+4. 由于水的折射，会看到两枚硬币：一枚在上，另一枚显得更大、像两角五分硬币。
+
+## 提示
+
+水别装太满，盘子要压紧，倒扣时动作要慢。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-001-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-001-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Partly fill a glass of water, and place a plate upon it, after you have dropped a dime in the glass.
+Then invert the glass and the plate. The water will not come out if you are careful. Now invite someone to look through the side of the glass. To his surprise he will see two coins; the dime will be apparendy above the other, which will appear to be the size of a quarter. This is a good way to make money!
+
+<<<KBCARD>>>
+
+# 神秘圆圈（MYSTIC CIRCLES）
+
+原书：p.171-172 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-002
+
+道具：印有圆圈图案的纸、圆规或硬币
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+图上几个圆圈看起来歪歪扭扭、像蛋形，可用圆规或硬币一验，全都是正圆。
+
+## 方法
+
+1. 出示画着圆圈的图：背景格子的弯曲线条让圆看起来变了形。
+2. 观众多半会说这些圆不圆、像鸡蛋。
+3. 你声明它们都是完美的圆。
+4. 用圆规或把硬币放进圆心来验证。
+5. 对比之下，圆圈确实分毫不差。
+
+## 提示
+
+这是背景线条造成的视觉错觉，别让观众先拿尺子量。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-002-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-002-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The circles shown in the drawing are obviously imperfect. No one would accuse them of being true circles, for they are almost egg shaped at least they appear to be. But you can safely state that they are perfect circles. This fact
+can De demonstrated with the aid of a compass, or by laying coins in the center of the circles. The curving checker-board effect confuses the eyes-
+
+<<<KBCARD>>>
+
+# 不见的硬币（A MISSING COIN）
+
+原书：p.172 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-003
+
+道具：玻璃杯、水、小盘子、硬币
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+装满水的玻璃杯盖盘倒扣在硬币上，人从侧面看却怎么也看不见杯下的钱；杯子一拿开，硬币赫然在目。
+
+## 方法
+
+1. 把玻璃杯倒满水，几乎到杯口。
+2. 用小盘子盖住杯口，把杯子倒扣在一枚硬币上。
+3. 请人从侧面往杯里看，问杯下有没有东西。
+4. 因为观看角度和水的折射，硬币会完全看不见。
+5. 拿开杯子，硬币出现，观众惊讶。
+
+## 提示
+
+水要满、盘子要平，观看角度必须从侧面。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-003-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Fill a glass of water to the brim, cover it with a small plate, and set it upon a coin. Then invite people to look into the glass and tell you if there is anything beneath it. As they must look in the side of glass, they will not see the coin, for it will be absolutely invisible. When you lift the glass and reveal the coin, everyone will wonder where it came from!
+
+<<<KBCARD>>>
+
+# 照镜画图（DRAWING WITH A MIRROR）
+
+原书：p.172 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-004
+
+道具：镜子、纸、笔、挡板
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+让人照着镜子画一个带对角交叉的正方形，谁都画不成；魔术师却能画得工工整整。
+
+## 方法
+
+1. 在纸上画一个正方形，中间再画一个对角交叉，作为样本。
+2. 请对方用镜子照着画，同时用手或挡板遮住他直接看纸的视线。
+3. 他只能看镜中影像来引导笔，结果线条乱成一团。
+4. 轮到魔术师时，他事先练过，或者干脆不看镜子、只凭手的感觉画。
+5. 画完展示，图形工整。
+
+## 提示
+
+诀窍是不理会镜中影像、只靠手感，或者提前练熟。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-004-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Show a person a simple diagram of a square with a diagonal cross in the center. He is supposed to draw this simple diagram; but he must do so with the aid of a mirror, guiding his hand by looking in the glass, while the performer covers his hand so he cannot see it directly. The person will be unable to draw the diagram. He will go in all sorts of directions, and the result will be very poor. If the magician is called upon to draw the diagram, he can do so, by one of two methods. First, by practicing beforehand; and second by drawing the diagram by the aid of his hand alone, and paying no attention to what he sees in the mirror.
+
+<<<KBCARD>>>
+
+# 看穿实心物（SEEING THROUGH SOLID）
+
+原书：p.172-173 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-005
+
+道具：纸筒（约一英寸粗）、火柴盒或扑克牌
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+把纸筒贴在右眼上，左眼旁举着火柴盒，两眼同时睁开，竟像透过火柴盒看见东西。
+
+## 方法
+
+1. 用纸卷一个约一英寸粗的纸筒，贴在右眼前。
+2. 左手把火柴盒或一张扑克牌竖在纸筒左侧，紧挨着纸筒。
+3. 两只眼睛都睁开，同时看纸筒和火柴盒。
+4. 大脑把两眼的图像合并，就会看到火柴盒中间仿佛有个洞。
+
+## 提示
+
+两眼必须同时看，纸筒和物体要贴得够近。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-005-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-005-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+There is a very simple method whereby a person can apparently see through a solid object. All that is required is a tube of paper, about an inch in diameter. The tube is held to the right eye, while the left hand holds the ob-
+ject a match-box or a playing card, for example alongside of the tube, on the left. Both eyes are kept open, and a remarkable illusion results. It appears as though one is looking right through a hole in the center of the object.
+
+<<<KBCARD>>>
+
+# 墙上的幽灵（A GHOST）
+
+原书：p.173 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-006
+
+道具：印有图案的图、强光
+难度：入门
+时长：2 分钟
+场合：任意
+需要助手：否
+
+## 效果
+
+让人盯着图上的小十字看半分钟，再把目光移向白墙，墙上就浮现出一个巨大的幽灵影像。
+
+## 方法
+
+1. 让对方在强光下盯着图上的小十字看约半分钟。
+2. 提醒他眼睛不要眨、也不要移开。
+3. 然后让他把目光转向墙面。
+4. 墙上会浮现一个巨大的、与图对应的幽灵影像。
+5. 多眨几下眼，影像有时会更清楚。
+
+## 提示
+
+这是视觉后像，盯的时间要足、光线要强。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-006-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Here is a way to make a person see a ghost! Tell him to gaze steadily at the picture shown herewith. He must look at it for about half a minute, under a strong light, keeping his eyes on the tiny cross in the picture. Then he must turn his gaze toward the wall. As he looks there, a large ghostly image of the picture will appear before his eyes. Sometimes the image is very clear, and it is often intensified by blinking the eyes a few times.
+
+<<<KBCARD>>>
+
+# 奇怪的线条（STRANGE LINES）
+
+原书：p.173-174 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-007
+
+道具：印有线条图案的纸、直尺或卡片
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+图中两条粗线看起来是弯的，其实和边框一样笔直。
+
+## 方法
+
+1. 出示图案：边框是直线，中间两条粗线却看起来弯了。
+2. 声明这两条线其实是直的。
+3. 观众多半不信。
+4. 用直尺或卡片边缘往线上一靠，就能证明它们笔直。
+
+## 提示
+
+这是线条与背景造成的视觉错觉，用尺子验证最直接。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-007-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-007-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A really remarkable optical illusion is shown here. It is certain that the border lines of the drawing are straight;
+but the two center lines that are as heavy as the borders seem curved. As a matter of fact they are straight, although no one will believe you if you say so. A ruler or the edge of a card, when laid upon the lines, will demonstrate that they are straight.
+
+<<<KBCARD>>>
+
+# 蛇吞鸟（THE SNAKE AND THE BIRD）
+
+原书：p.174-175 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-008
+
+道具：印有蛇与鸟图案的书页
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+把书页凑近眼前，图上的鸟就会笔直飞进蛇的嘴里。
+
+## 方法
+
+1. 出示图案：一条蛇正等着吞下小鸟。
+2. 把书页慢慢移近眼睛。
+3. 移到合适距离时，鸟会像沿直线飞进蛇嘴里。
+4. 移动速度放慢，效果更明显。
+
+## 提示
+
+距离是关键，太远或太近都看不到变化。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-008-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-008-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+One of the most amusing of all optical illusions is shown here. The snake is waiting to swallow the bird. To make him do it, bring the book up close to your eyes, and you will see the bird fly on a bee-line into the snake's mouth.
+
+<<<KBCARD>>>
+
+# 一币两面（BOTH SIDES）
+
+原书：p.175-176 ｜ 章：OPTICAL TRICKS（视觉错觉魔术） ｜ 卡片编号：OP-009
+
+道具：一枚硬币
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师让一枚硬币旋转起来，转速慢下来时，正反两面似乎同时可见。
+
+## 方法
+
+1. 声明能让观众同时看到硬币的正反两面。
+2. 把硬币在桌面上旋转起来。
+3. 等转速慢下来、硬币将倒未倒时，正面和背面会同时出现在视野里。
+4. 趁硬币还没倒下，指出两面都能看见。
+
+## 提示
+
+旋转要平稳，转速慢到刚能看清两面时效果最好。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-009-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/op-009-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is really an optical illusion. The magician states that he will let a person see both sides of a coin at once. The trick is accomplished by spinning the coin. As its revolutions slow down, both the head and the tail will be plainly seen apparently at the same time.
+Many clever little tricks may be performed with pieces of paper. In fact, some of the best experiments in impromptu conjuring are done with paper. One of the most perplexing of all such tricks is called:

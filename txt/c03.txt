@@ -1,0 +1,510 @@
+# 弹出一枚黑棋子（THE MAGIC KNOCK-OUT）
+
+原书：p.69-70 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-001
+
+道具：十枚跳棋（九红一黑）
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+十枚棋子叠成一柱，魔术师用手指弹出另一枚棋子撞上去，从下数第四枚黑棋应声飞出，整柱棋子却纹丝不动。
+
+## 方法
+
+1. 把十枚棋子叠成一柱，只有从下往上数第四枚是黑棋，其余全是红棋。
+2. 另外拿一枚棋子竖立在桌面上，用一根手指压住它的上沿。
+3. 手指下压，使这枚棋子贴着桌面飞速弹射出去，撞向棋柱。
+4. 撞击之后，从下数第四枚的黑棋被弹出，其余棋子并不倒下。
+5. 黑棋的高度刚好迎上这记撞击，所以飞出去的是它。
+
+## 提示
+
+若用的是特别厚的棋子，被弹出的可能是从下数第三枚，需先试验再确定黑棋位置。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-001-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-001-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Ten checkers are stacked up, and all are red except the fourth from the bottom, which is black. The magician stands another checker on edge, and by pressing down with his finger, snaps it so that it shoots rapidly on edge against the stack of checkers. Instead of the stack falling, or the bottom checker going out, the one black checker, fourth from the bottom, flies from the stack, while the other checkers do not fall. This is a very surprising experiment, and it is hard to believe, even after one has seen it performed. It is becauses the black checker is just high enough to receive the blow from the edge of the checker. Note: If unusually thick checkers are used, it is possible that the third checker from the bottom may be the one ejected. This
+can be determined by experiment, and the black checker should be placed at the proper position.
+
+<<<KBCARD>>>
+
+# 三枚棋子换位（THREE IN A ROW）
+
+原书：p.70 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-002
+
+道具：三枚跳棋（两红一黑）
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+三枚棋子红、黑、红排成一行，魔术师只拿起一枚红棋，就让两枚红棋把黑棋夹在中间，另一枚红棋和黑棋都没有被碰过。
+
+## 方法
+
+1. 在桌上把三枚棋子排成一行：红、黑、红。
+2. 声明条件：只移动一枚红棋，让它落到另一枚红棋和黑棋之间，不许碰第二枚红棋，也不许移动黑棋。
+3. 用食指按定黑棋，另一只手拿起第一枚红棋，用力向黑棋推撞。
+4. 撞击的震动会让第二枚红棋滑开一小段，黑棋因为被按住而不动。
+5. 把第一枚红棋放进滑开的红棋与黑棋之间。
+
+## 提示
+
+推撞要短促有力，桌面要够滑；手指必须按定黑棋。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-002-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Lay three checkers in a row, a black between two reds. Then ask someone to move one red one so that it comes between the other red and the black; yet the second red checker must not be touched, and the black checker must not be moved! These conditions make the trick sound impossible; but the procedure is very simple. Place a forefinger on the black checker, and with the other hand slide the first red checker forcibly against the black. The blow will cause the second red checker to slide away, although the black checker is not moved. Then the first red checker may be placed between the second red and the black.
+
+<<<KBCARD>>>
+
+# 十子叠成五叠（MAKING KINGS）
+
+原书：p.70-71 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-003
+
+道具：十枚跳棋
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+十枚棋子排成一行，魔术师一枚一枚拿起、越过两枚放下，最后十枚棋子变成了整整齐齐的五叠。
+
+## 方法
+
+1. 把十枚棋子排成一行，从左到右在心里编号 1 到 10。
+2. 规则：每次拿起一枚棋子，越过两枚（无论它们还是单枚，还是已经叠成了叠），放到下一枚上面。
+3. 第一步：4 越过 3 和 2，放到 1 上。
+4. 第二步：6 越过 7 和 8，放到 9 上。
+5. 第三步：8 越过 7 和 5，放到 3 上。
+6. 第四步：2 越过 3 和 8，放到 5 上。
+7. 第五步：10 越过 9 和 6，放到 7 上，正好形成五叠。
+
+## 提示
+
+每一步都必须真的越过两枚，次序和编号一旦记错，后面就叠不成。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-003-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-003-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician lays ten checkers in a row, and starts to make kings in a peculiar fashion. He lifts one checker, passes it over two, and sets it on the next checker. He lifts another, passes it over two and sets it on the next checker, and continues thus until he has made five kings with ten checkers. He must always pass the lifted checker over two, whether those two are separate or have been made into a king. People who try to duplicate the quick and certain moves of the magician will generally make a mistake before they accomplish the trick. Here are the correct moves: Pick up 4 and pass it over 3 and 2 setting it on 1; 6 over 7 and 8, placed on 9; 8 over 7 and 5, placed on 3; 2 over the 3 and 8, placed on 5; 10 over the 9 and 6,
+placed on 7. The numbers refer to the positions of the checkers in the row.
+
+<<<KBCARD>>>
+
+# 神秘的数字九（THE MYSTIC NINE）
+
+原书：p.71-72 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-004
+
+道具：至少十二枚跳棋
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众心里想一个数，沿着摆成「9」字形的棋子数一圈再折返回来，最后停在哪枚棋子上，背过身的魔术师也能立刻指出来。
+
+## 方法
+
+1. 用至少十二枚棋子摆出一个阿拉伯数字「9」的形状。
+2. 请观众心里想一个数，这个数必须大于「9」字底部一条上的棋子数。
+3. 让他从「9」字末端那枚开始，沿底部一路数上去，再绕圆圈数到心里想的那个数。
+4. 然后从那枚棋子开始往回数，这次避开「9」的底部，继续绕圆，仍数到同一个数停下。
+5. 魔术师背对着，等他说数完，立刻指出最后停下的那枚棋子。
+6. 诀窍：数清「9」字底部有几枚棋子，再从底部与圆圈的交接处向左沿圆数出同样多枚，那就是落点。
+
+## 提示
+
+改变「9」字底部的棋子数就能重复表演，每次落点都会变。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-004-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-004-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+With a number of checkers make a figure 9. At least a dozen checkers should be used. Tell a person to think of a number which must exceed the number of checkers in the bottom of the figure 9. Then, commencing at the end checker, he is to count mentally up the base of the 9, and around the circle until he reaches the number thought of. Then, starting with that checker, he must reverse his count, this time avoiding the bottom of the 9, and continuing around the circle, until he stops at the number chosen mentally. This is done while the magician's back is turned, but the magician can immediately point out the checker upon which the count is ended. Here is the system If the person counted up to his number, and then back again the way he came, he would end where he began. But instead he takes another course. So the magician simply notes the number of checkers in the bottom part of the 9, and counts that many around the circle to the left of its unction with
+the base. The person's count will always end on that checker, no matter what number he selects. The trick may be repeated by changing the number of checkers in the base of the 9.
+
+<<<KBCARD>>>
+
+# 吸在木门上的棋子（THE MAGNETIC CHECKER）
+
+原书：p.72 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-005
+
+道具：一枚表面光滑的跳棋
+难度：入门
+时长：1 分钟
+场合：任意
+需要助手：否
+
+## 效果
+
+魔术师把一枚棋子按在木门上，松手后棋子竟贴在门上不掉，好像木头有磁性一样。
+
+## 方法
+
+1. 选一枚有一面光滑的棋子。
+2. 把棋子贴在门或木器表面，一边向上用力，一边顺势滑动一小段距离。
+3. 摩擦产生的吸附让棋子粘在木面上，松手也不会掉。
+4. 需要取下时直接拿开即可。
+
+## 提示
+
+不要在高度抛光的上漆木面上做，容易划伤表面。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-005-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes a checker and sets it against the door. The checker remains there, and does not fall. Apparently it is magnetized to the door, thus proving that wood is magnetic! Method: It is best to use a checker with a smooth side for this trick. In setting it against the door, or the wood-work, press it upward, sliding it a short distance. The friction will cause the checker to adhere to the wood. Do not work this trick on any highly polished wood-work, as it may scratch the surface.
+
+<<<KBCARD>>>
+
+# 变色的黑棋子（THE COLOR CHANGING CHECKER）
+
+原书：p.72 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-006
+
+道具：七枚跳棋（全红）、一圈黑色纸条、纸筒
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+一叠七枚棋子中间夹着一枚黑棋，用纸筒罩住再提起，黑棋竟消失了，剩下的全是红棋。
+
+## 方法
+
+1. 准备七枚红色棋子。
+2. 用黑纸剪一个能松套在棋子上的纸圈，套在中间那枚红棋上，看上去就像一枚黑棋。
+3. 把棋子叠成一柱，套纸圈的那枚放在中间，整柱略微有些不齐。
+4. 用纸筒从上方罩住棋子柱，借罩下的动作把柱身扶正。
+5. 提起纸筒时，黑纸圈被筒的内壁一起带上去、藏进筒里，桌上只剩红棋。
+
+## 提示
+
+纸圈要松到能被纸筒带走、又紧到能套住棋子；提起纸筒时要贴桌垂直上提。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-006-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A stack of about seven checkers is set up with a black checker in the midst of red ones. The stack is covered with a paper tube; when the tube is lifted, the black checker is gone, and only red ones remain! Method: Cut a loose ring of black paper that will fit around a checker. ALL of the checkers in the stack are red ones, but the center one has the ring around it, and appears to be black. The stack should be slightly uneven. The paper tube is used to straighten the stack, and the tube when lifted carries away the black ring inside, leaving all red checkers.
+
+<<<KBCARD>>>
+
+# 八子四次归位（MOVING THE CHECKERS）
+
+原书：p.72-73 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-007
+
+道具：八枚跳棋（红黑相间）、两个空位
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+八枚红黑相间的棋子排成一行，魔术师只移四次、每次两枚，就把红棋和黑棋各自归到了一起。
+
+## 方法
+
+1. 把八枚棋子红黑相间排成一行。
+2. 把位置从左到右编号 1 到 8，并在右侧另设 9、10 两个空位。
+3. 第一次：把 2、3 两枚整体移到 9、10。
+4. 第二次：把 5、6 两枚移到 2、3。
+5. 第三次：把 8、9 两枚移到 5、6。
+6. 第四次：把 1、2 两枚移到 8、9。
+7. 四次移动做完，所有红棋都在一起，所有黑棋也都在一起。
+
+## 提示
+
+每次必须连拿相邻的两枚整体平移，编号或空位错一个就排不回来。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-007-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-007-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician places eight checkers in a row, alternating red and black. He makes four quick moves, moving two checkers
+at a time, and at the finish, all the reds are together and so are all the blacks! To learn this quick little trick, number the checkers from I to 8, and assume that there are two other spaces, o and 10, which are not filled with checkers. Then move the checkers thus: 2 and 3 to 9 and 10; 5 and 6 to 2 and 3; 8 and 9 to 5 and 6; 1 and 2 to 8 and 9. All the reds will then be together; and so will all the blacks.
+
+<<<KBCARD>>>
+
+# 十一还是十二（ELEVEN OR TWELVE?）
+
+原书：p.73 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-008
+
+道具：三枚跳棋
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+三枚棋子反复拿起、放下，明明数到了十二，再数一遍却只能数到十一，谁也看不出少在哪里。
+
+## 方法
+
+1. 把三枚棋子放在桌上。
+2. 拿起棋子，数「一、二、三」，再一枚一枚放下，数「四、五、六」。
+3. 再次拿起棋子数「七、八」，但在拿起最后一枚时立刻把它放回桌上，同时数「九」。
+4. 接着放下手里剩下的两枚，数「十、十一」。
+5. 总数就这样变成了十一，而不是十二。
+
+## 提示
+
+观众自己试时会先把棋子一枚枚放上桌再数，所以必然失败；想再演一遍容易露底，最好接着演下一个节目。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-008-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Lay three checkers on the table. Pick them up, counting "one, two, three", and lay them down, one at a time, counting "four, five, six". Pick them up, counting "seven, eight, nine", and lay them down counting "ten, eleven, twelve". This appears quite fair; but when the count is repeated, it ends at eleven instead of twelve, and no one can tell why! Method: Picking up the checkers, count "one, two, three", and laying them down count — "four, five, six". Then pick them up, counting "seven, eight " but as you pick up the last checker, immediately lay it down as you say "nine". Then follow with the two checkers in your hand, counting "ten, eleven". This is very deceptive, and it will completely baffle people. When they want to try it, give them the checkers, and they will start the count by laying the checkers one at a time on the table. This means failure, as the checkers must be on the table at the start. Of course everyone will want to see this trick repeated. To repeat it might give away the secret; so instead, the following trick should be performed
+
+<<<KBCARD>>>
+
+# 九还是十（NINE OR TEN?）
+
+原书：p.73-74 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-009
+
+道具：三枚跳棋
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+同样三枚棋子，观众数来数去只有九，魔术师却能数出十枚。
+
+## 方法
+
+1. 把三枚棋子放在桌上。
+2. 请观众拿起数「一、二、三」，放下数「四、五、六」，再拿起数「七、八、九」。
+3. 轮到魔术师时，先把三枚棋子全部拿在手里。
+4. 一枚一枚放下，数「一、二、三」；然后指着末端那枚棋子数「四」。
+5. 把其余两枚拿起来数「五、六」，随即把桌上剩下那枚也拿起来数「七」。
+6. 再把手里三枚一枚枚放下，数「八、九、十」。
+
+## 提示
+
+嘴里数「四」时只用手指点、不拿起棋子，动作要连贯自然。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-009-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-009-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Three checkers are laid on the table. A person is told to pick them up counting "one, two, three", and to lay them down count-
+ing "four, five, six", and then to pick them up counting "seven, eight, nine'*. But when the magician counts the checkers, his total is ten! Method: The magician starts with the checkers in his hand, and lays them down counting "one, two, three". He points at an end checker and says "four", then picks up the other two counting "five six". He immediately picks up the checker still on the table, saying "seven", and lays down the checkers from his hand, one at a time, counting "eight, nine, ten".
+
+<<<KBCARD>>>
+
+# 红黑左右换位（RIGHT AND LEFT）
+
+原书：p.74-75 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-010
+
+道具：一张画七个方格的纸、三枚黑棋、三枚红棋
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+三枚黑棋在左、三枚红棋在右，中间空一格；按规则一步步移动，最后红黑两队互换了位置，看似根本做不到。
+
+## 方法
+
+1. 在纸上画一排七个方格。
+2. 左边三格放黑棋，右边三格放红棋，中间一格空着。
+3. 规则：黑棋只能向右走，红棋只能向左走，每次只能走一格，可以跳过一枚相邻的棋子。
+4. 第一条秘诀：先用一种颜色走一格，再用另一种颜色跳一次；跳完之后，仍由刚跳的那色继续走。
+5. 看空位决定下一步是跳还是走一格；第九步之后规则不再适用，但后面的走法都很直观。
+
+## 提示
+
+这个换位至少要十五步才能完成，先按口诀慢练，熟了再加快。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-010-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-010-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Take a piece of paper and on it mark seven squares in a row. Place three black checkers in the three squares at the left, and three red checkers in the squares at the right. The trick is to transpose the checkers, putting red on the left and black on the right, in accordance with the following rules: black can move only to the right, red only to the left; each checker can be moved only one square at a time; single jumps are allowed. This is a very perplexing problem, which cannot be performed in less than fifteen moves. There is a system to it, and the magician can execute it quickly and perfectly by following two simple rules: First: Start with any color checker and move it, but after every single move by one color, make a jump with the other color. After a jump, advance with the same color that made the jump. The positions will indicate whether you must make another jump or just a single move. After the ninth move, the rules do not apply, but from that point on the moves are easy and obvious.
+
+<<<KBCARD>>>
+
+# 数丢的第十二枚（THE VANISHING CHECKER）
+
+原书：p.75 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-011
+
+道具：十二枚跳棋
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师数出十二枚棋子，请观众再数一遍却只有十一枚，第十二枚随后从他口袋里变了出来。
+
+## 方法
+
+1. 把十二枚棋子摆在桌上，数给观众看。
+2. 收拢棋子叠起来时，偷偷把一枚握在右手掌心里；右手只伸出拇指和食指来数棋子。
+3. 既然已经数到十二，现在倒着数：把棋子一枚枚放进新的一叠，边放边数「十二、十一、十、九、八、七」。
+4. 左手拿起剩下的几枚，展示给观众，同时说「再加五枚就是十二」。
+5. 把这剩下的棋子和新叠合在一起交给观众；这样一数，十一枚就冒充成了十二枚。
+6. 右手把暗藏的棋子放进口袋，再假装从口袋里取出第十二枚。
+7. 观众数自己手里的棋子，发现只有十一枚。
+
+## 提示
+
+倒数的节奏和「再加五枚」那句话要说得自然，观众才不会跟着重数。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-011-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes twelve checkers and counts them. He counts them a second time, and asks a person them. The magician then produces one of the checkers from his pocket, and when the spectator counts the checkers, he finds that he has only eleven! Method: This is done by a clever method of counting. First count the twelve checkers on the table. In stacking them up, secretly hold one in the right hand, which is closed, only the right thumb and forefinger being extended, to count the stack of checkers. As the checkers have been counted up to twelve, the counting is now reversed. As each checker is laid in a new stack, it is counted thus: "twelve eleven ten nine eight seven ". Then the — left hand picks up the remaining checkers, shows them and says "and five makes twelve". Those checkers are then added to the stack which is held by the spectator. By this count, eleven checkers have been made to appear a* twelve. The magician puts his right hand in his pocket and brings out the odd checker. When the holder counts his checkers he will be surprised to find only eleven.
+
+<<<KBCARD>>>
+
+# 棋盘上的八枚棋（A TRICK WITH A CHECKER-BOARD）
+
+原书：p.75-76 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-012
+
+道具：八枚跳棋、一张棋盘
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+在棋盘上摆八枚棋子，使任意两枚都不在同一横线、竖线或斜线上，别人怎么试都摆不成。
+
+## 方法
+
+1. 记住这串数字：5、2、4、6、8、3、1、7，注意偶数在轮转出现。
+2. 把棋盘放在面前，第一枚棋子放在第一行的第 5 格。
+3. 第二枚放在第二行第 2 格，第三枚放在第三行第 4 格，依此类推。
+4. 八枚按这串数字摆完，任何两枚都不在同一横行、竖列或斜线上。
+
+## 提示
+
+背熟 5-2-4-6-8-3-1-7 这串数字，就能瞬间摆出答案。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-012-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-012-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Eight checkers and the checker-board are used in this trick. The object is to lay eight checkers on the board in such a way that no two will be in the same line, vertical, horizontal or diagonal. People will try this puzzler for a long time with no success; but one who knows the secret can do it in an instant. Simply remember the following numbers: 5, 2, 4, 6, 8, 3, 1, 7. Note how the even numbers run in rotation. Place the checker-board in front of you and lay the first checker on the fifth square of the top row; the next on the second square
+of the second row, and so on, according to your formula. Then the conditions of the trick will be fulfilled.
+
+<<<KBCARD>>>
+
+# 从帽中摸出黑棋（PICKING OUT THE BLACK）
+
+原书：p.76 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-013
+
+道具：一顶帽子、一把红棋、两枚黑棋
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众把红棋和一枚黑棋丢进帽子里，魔术师把手背到身后伸进帽中，一下就摸出了那枚黑棋。
+
+## 方法
+
+1. 让观众任选一枚黑棋，连同所有红棋一起丢进帽子里。
+2. 魔术师事先已把另一枚同样的黑棋藏在手指下面，捏在帽檐内侧，或塞进帽子的内圈带里。
+3. 把帽子端到背后，换手时取出那枚暗藏的黑棋。
+4. 装作刚从帽子里摸出黑棋，随即把帽子倒扣在桌上。
+5. 红棋倒出来时盖住桌上原有的那枚黑棋，真黑棋混入其中，没人怀疑它不是从帽子里拿出来的。
+
+## 提示
+
+两枚黑棋要看起来一模一样；倒帽子时别让观众看清里面。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-013-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+All the red checkers are thrown into a hat, along with a black checker the spectators selecting any black checker that they wish. The magician shakes the hat, and holds it behind his back. Then reaching in, he immediately draws out the black checker from among the red ones. Method: The magician secretry obtains possession of a black checker. This he holds beneath his fingers which are holding the inside of the hat brim or the checker can be put beneath the inside band of the hat. When the hat is behind his back, the magician shifts hands and brings out the duplicate black checker. He immediately turns over the hat on the table, and lets the red checkers fall out upon the remaining black checkers which are lying there. Thus the original black checker joins its companions, and no one suspects that it was not taken from the hat at all!
+
+<<<KBCARD>>>
+
+# 两叠棋子换位（CHANGING CHECKERS）
+
+原书：p.76-78 ｜ 章：CHECKER TRICKS（跳棋魔术） ｜ 卡片编号：CK-014
+
+道具：一叠红棋、一叠黑棋、两张纸卷成的圆筒、两枚一面异色的特制棋子
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+红、黑两叠棋子各用纸筒罩住，相隔数尺放好；魔术师一声令下，掀起纸筒，两叠棋子的位置竟然互换了。
+
+## 方法
+
+1. 在两叠棋子的最底下各放一枚特制棋子：一枚上面是红色、底面涂黑；另一枚上面是黑色、底面涂红。
+2. 把两叠棋子分别用纸卷成的圆筒罩住，筒口上端拧紧，从上方看不见棋子。
+3. 把红叠和黑叠相隔数尺放在桌上。
+4. 把两个纸筒混着转一圈，再借掀筒的动作歪起筒口，让人瞥见最底下那枚棋子的底面。
+5. 这样黑叠看上去是红的、红叠看上去是黑的。
+6. 假装下令让两叠互换，再掀起纸筒，观众看到的就是两叠棋子换了位置。
+
+## 提示
+
+特制棋子的底面颜色要涂得像真棋子；歪筒亮底的那一下要快而自然。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-014-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-014-2.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ck-014-3.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Two stacks of checkers are used in this trick one stack red, the other black. Each stack is wrapped up in a piece of paper, the paper being made into a cylinder which surrounds the stack, and the top being twisted over to hide the checkers from above. The red stack is placed several feet away from the black, and the magician commands them to change places. When he lifts the paper cylinders, the checkers have obeyed the order, the black being where the red were supposed to be, and vice versa. Two special checkers are required for this trick. One is red,
+but with black on the bottom; the other is black, with the bottom colored red. It is best to have the bottoms painted the opposite color, but a circular piece of paper may be glued beneath each checker, instead. The prepared checkers are the bottom ones of the stacks. After each stack is surrounded with a cylinder, the magician closes the tops of the cylinders and mixes them around. Then, to learn which color is in a cylinder, he tilts up the cylinder and lets people glimpse the bottom of the lowermost checker. In this manner, the black stack is identified as red, and the red stack is supposed to be the black. The magician merely commands, lifts the paper cylinders, and shows the marvelous transposition.

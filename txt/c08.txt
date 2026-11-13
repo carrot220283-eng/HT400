@@ -1,0 +1,172 @@
+# 竖立鸡蛋（THE BALANCED EGG）
+
+原书：p.117 ｜ 章：EGG TRICKS（鸡蛋魔术） ｜ 卡片编号：EG-001
+
+道具：鸡蛋、盐、小戒指和一段线
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+一枚鸡蛋在桌上笔直地立稳，怎么也不倒。
+
+## 方法
+
+1. 方法一：先用力摇晃鸡蛋，让蛋黄沉到下部，再小心地把它竖在桌上。
+2. 方法二：在桌布上撒一小撮盐，把鸡蛋立在小盐堆上。
+3. 方法三：桌布下藏一枚系着线的小戒指，把鸡蛋立在小戒指上。
+4. 移走鸡蛋时，另一只手拉动线，把小戒指抽走。
+
+## 提示
+
+三种方法都要轻手轻脚；用盐堆最省事，演完记得把盐擦干净。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-001-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Method i. Shake the egg so that the yolk will settle. Then set the egg carefully upon the table, and as the bottom of the egg is heavier than the top, it will be possible to balance the egg on end. Method 2: Before performing the trick, spill a little salt on the tablecloth and gather it up into a tiny mound. Press the egg carefully on the pile of salt, and it will balance there. Method 3 Have a tiny ring under the table cloth with a thread attached. Balance the egg by setting it on the ring. When you lift the egg away, pull the thread with your other hand so that the ring will be withdrawn.
+
+<<<KBCARD>>>
+
+# 旋转鸡蛋（SPINNING AN EGG）
+
+原书：p.117-118 ｜ 章：EGG TRICKS（鸡蛋魔术） ｜ 卡片编号：EG-002
+
+道具：两三个鸡蛋、一个煮熟的鸡蛋
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众怎么转鸡蛋都转不稳，魔术师拿起一枚轻轻一旋，鸡蛋就像陀螺一样转个不停。
+
+## 方法
+
+1. 先把几枚生鸡蛋摆到桌上，请大家轮流试着转。
+2. 趁众人忙着转蛋，把事先藏好的熟鸡蛋换到手里。
+3. 拿起熟鸡蛋轻轻一旋，它就能平稳地转起来。
+
+## 提示
+
+熟鸡蛋内部是固体，才能稳定旋转；换蛋的动作要自然，别让人看到你换了一枚。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-002-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-002-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Two or three eggs are laid on the table, and people are asked to spin them. They find that the task is next to impossible. The eggs
+start to spin, but topple and fall on their sides. But when the magician twirls an egg, it spins like a top. One of the eggs is hard-boiled. It is kept out of sight until different people are busy spinning eggs; then the magician picks up one of the eggs and takes an opportunity to replace the hardboiled egg in its stead. The hard-boiled egg may be twirled with ease.
+
+<<<KBCARD>>>
+
+# 悬空浮蛋（THE FLOATING EGG）
+
+原书：p.118 ｜ 章：EGG TRICKS（鸡蛋魔术） ｜ 卡片编号：EG-003
+
+道具：一枚鸡蛋、一个水壶、盐
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+鸡蛋放进水壶，不沉底也不浮到水面，而是悬在水中间。
+
+## 方法
+
+1. 壶里先装半壶水，加盐搅到盐完全化开。
+2. 沿壶壁缓缓加入清水，让上层是淡水、下层是盐水。
+3. 把鸡蛋放进去，它就停在水中间浮着。
+
+## 提示
+
+加清水一定要沿壁慢慢倒，别把盐水层冲混；盐要加到足够浓。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-003-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+An egg is dropped into a pitcher of water and it mysteriously floats halfway down, neither coming to the surface nor sinking to the bottom! This is due to the water in the pitcher. The pitcher is half filled with water, which is then salted. More water is poured in, down the sides of the pitcher, so that the bottom half of the pitcher contains salt water and the top half fresh. The egg will then float halfway up.
+
+<<<KBCARD>>>
+
+# 抽杯落蛋（EGGS, SPOOLS, AND GLASSES）
+
+原书：p.118-119 ｜ 章：EGG TRICKS（鸡蛋魔术） ｜ 卡片编号：EG-004
+
+道具：三个玻璃杯、一块薄木板、三个线轴、三枚鸡蛋
+难度：高手
+时长：5 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+三只水杯排成一排，木板上立着线轴与鸡蛋；魔术师猛然抽走中间的倒扣杯，木板和线轴飞落，三枚鸡蛋却刚好落进三杯水里。
+
+## 方法
+
+1. 三只水杯排成一排，上面横搁一块薄木板。
+2. 两边杯口各放一个线轴，线轴上各立一枚鸡蛋。
+3. 中间杯口倒扣一只杯子，杯底再放一个线轴和一枚鸡蛋。
+4. 薄木板靠近倒扣杯的一端，暗藏两个很小的钉尖，卡住那只杯子的杯沿。
+5. 突然抓住倒扣杯往上抽：木板和线轴被带飞，鸡蛋却直落进杯中。
+
+## 提示
+
+两个钉尖要小到看不出来，却能吃住倒扣杯的边；抽杯时要直、要快。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-004-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-004-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a very elaborate trick, which can, however, be easily prepared. Three goblets of water are stood in a row and a thin piece of wood is set upon them. Over each of the two end goblets, a spool is set, and an egg is balanced on each spool. Over the center goblet, another goblet is inverted; a spool is placed on it, and an egg is balanced on the spool. The magician suddenly grasps the inverted goblet and pulls it away. The board and the spools fly to the floor; but the three eggs drop squarely into the goblets of water! On the thin piece of board, there are two tiny projecting nail points, which engage the edge of the inverted goblet in back. These are so tiny that they are not noticeable, but they are very
+important in the trick. For when the inverted goblet pulled away, it carries the board also, and the light spools will fly away. The eggs, however, will fall directly down, of their own accord, into the goblets.
+
+<<<KBCARD>>>
+
+# 鸡蛋变纸屑（EGG TO CONFETTI）
+
+原书：p.119-120 ｜ 章：EGG TRICKS（鸡蛋魔术） ｜ 卡片编号：EG-005
+
+道具：一枚鸡蛋、彩色纸屑、一个小盒
+难度：进阶
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师手里拿着一个鸡蛋，用力一捏，蛋壳碎裂，落下来的却是满把彩色纸屑。
+
+## 方法
+
+1. 在鸡蛋两端各扎一个小孔，把蛋液吹进杯子里。
+2. 把小孔弄大一点，把彩色纸屑灌进空蛋壳。
+3. 表演时用拇指和食指指尖捏住鸡蛋，正好盖住两个小孔。
+4. 用力一捏，蛋壳碎裂，纸屑随壳一起落下，落进盒里。
+
+## 提示
+
+两个小孔要藏在指尖之下；纸屑别塞太满，捏碎时才会撒得漂亮。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-005-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/eg-005-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician shows an ordinary egg, and squeezes in his hand, while he fans it with the other hand. A shower of confetti pours forth, instead of the egg. The egg is a real one, but it is prepared for the trick. Punch a tiny hole in each end of the egg, and you can blow the contents of the egg out into a cup. Enlarge one of the holes so that confetti may be poured into the egg. In performing the trick, hold the egg between the tips of the thumb and forefinger, which cover the holes. When the egg squeezed, the shell is broken, and falls with the confetti, which should be dropped into a box. Note: See also the "Ring in the Egg," page 186.
+There are several tricks in which the hands play a principal part without serving merely as agencies in the manipulation of other objects. Such tricks are sufficiently numerous to require this separate chapter.

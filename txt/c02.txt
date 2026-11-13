@@ -1,0 +1,1922 @@
+# 单向牌堆（THE "ONE-WAY" PACK）
+
+原书：p.31-32 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-001
+
+道具：单向牌背的纸牌一副
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众随便抽一张牌放回，魔术师只扫一眼整副牌的牌背，就能找出那张选牌。
+
+## 方法
+
+1. 先把整副牌按牌背图案的朝向统一摆好。
+2. 展牌请观众抽一张。
+3. 观众抽牌的同时，悄悄把牌堆转 180 度。
+4. 观众把牌插回牌堆，选牌的牌背图案便与其他牌相反。
+5. 可以随意洗牌；再扫视牌背，找出图案方向相反的那张就是选牌。
+
+## 提示
+
+Bicycle 牌通常没有单向牌背，例外是 Emblem Back 图案，最好的就是这种牌。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-001-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-001-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Certain packs of cards have what is known as "one-way'* backs. This is particularly true of high-grade cards. Instead of a sym-
+metrical design on the backs of the cards, these packs have pictures or initials. Such a pack is especially suited to the needs of the magician. He first arranges the cards so that the pictures are all pointed in the same direction. Then he fans the cards and allows a person to select one. As soon as the card has been drawn, the magician quietly turns the pack around. Thus when the chosen card is returned, its design will be reversed. The pack may be shuffled, but as soon as the magician runs through the cards, he will discover the one that is reversed, and will know that it is the chosen card. "Bicycle" cards do not, as a rule, have "one-way" backs. There is one exception, however, in the pattern known as the "Emblem Back." This design is reversible, although it does not appear so at first glance. Such a pack is the best available for this trick.
+
+<<<KBCARD>>>
+
+# 铅笔标记牌堆（THE PENCIL-MARK PACK）
+
+原书：p.32 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-002
+
+道具：普通纸牌一副、铅笔
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众抽牌放回后，魔术师不必翻牌，就能准确地把它找出来。
+
+## 方法
+
+1. 把牌整理齐，在牌堆一端画两三条横穿所有牌的铅笔线。
+2. 展牌请观众抽一张。
+3. 把牌堆转个方向，再让观众把牌插回。
+4. 看标记那一端，铅笔线会出现断口；另一端则出现细小的铅笔点。
+5. 断口和铅笔点所指的位置就是选牌，把牌从那里切开即可。
+
+## 提示
+
+铅笔要削尖，线画得细才不显眼，两端标记要对照着看。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-002-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Any pack of cards may be made "one-way" by a very simple process. Square up the pack and make two or three straight pencil lines at one end of the pack, the lines crossing every card. When a card is selected, the pack is turned around, and the chosen card is returned. A glance at the marked end of the pack will reveal a break in the pencil lines; at the other end of the pack, tiny pencil dots will appear. The breaks at one end and the dots at the other indicate the chosen card, and the pack should be cut at that point.
+
+<<<KBCARD>>>
+
+# 有朝向的牌（POINTED CARDS）
+
+原书：p.32-33 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-003
+
+道具：有明确朝向的牌若干（黑桃 7、红心 9、黑桃 A、红心 A、梅花 A、方块 7 等）、纸牌一副
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众抽牌放回、反复洗牌之后，魔术师仍能一眼找出那张选牌。
+
+## 方法
+
+1. 从牌堆里挑出所有“指向牌”，也就是牌面图案有明确朝向的牌。
+2. 把这些牌按主要朝向统一摆好。
+3. 把它们集中放到牌堆中部，展牌请观众从这些牌里选一张。
+4. 观众抽牌后，把牌堆转 180 度，再让观众把牌放回。
+5. 洗牌后扫一眼牌面，朝向与其他牌相反的那张就是选牌。
+
+## 提示
+
+这类“指向牌”整副牌里只有十来张，展牌时要把它们放在观众容易选到的位置。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-003-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-003-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A glance through a pack of cards will reveal the fact that certain cards are "pointers." Take for example, the seven of spades. It has seven spots and five of them point in one direction. The nine of hearts has five points in one direction. The aces of spades, hearts, and clubs are "pointers." The seven of diamonds is a "pointer," because it has one odd point above the center.
+To make use of this interesting principle, take all the "pointers" from a pack, and arrange them with their principal points in one direction. Group these cards at the center of the pack, and fan the cards so that one of the "pointers" will be selected. Turn the pack around, and let the chosen card be returned. After the pack has been shuffled, a glance at the faces of the cards will reveal the chosen card, for it will be pointing the opposite way from the others.
+
+<<<KBCARD>>>
+
+# 双张底牌（THE DOUBLE CARD）
+
+原书：p.33 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-004
+
+道具：带白边的纸牌一副、备用牌一张、胶水
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众选牌放回、魔术师把牌切上几下，就能立刻找到选牌并把它翻出来。
+
+## 方法
+
+1. 选一副带白边的牌，剪掉那张备用牌（通常随牌附送的杂牌）的白边。
+2. 把剪好的牌粘在牌堆中某一张牌的背面，做成双层厚度的双张牌。
+3. 观众抽牌后把牌整理齐，用拇指在牌堆一端拨牌，指腹会突然感到一段明显的加厚。
+4. 让观众把选牌插回双张牌停下的位置，选牌就落在双张牌的正上方。
+5. 整理牌堆并切牌时，手指自会拿走双张牌以上的牌，选牌便被带到牌堆底部。
+
+## 提示
+
+双张牌要贴在整副牌中间，近距离看也察觉不出厚度差。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-004-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is an ideal form of "card locator" for the magician who performs with his own pack. A pack of cards with white margins should be used. Take the odd card which generally comes with such packs and trim off the white margin. Then paste the trimmed card on the back of one of the cards in the pack. At a very close distance, the double thickness cannot be detected. As soon as a card has been taken from the pack, square up the cards and riffle one end of the pack. Your finger will encounter a sudden stop as soon as the double card falls. Let the chosen card be replaced at that point, and it will be direcdy above the double card. Then the pack may be squared up and cut. Your fingers will naturally lift off the cards above the double card, and thus the chosen card will be brought to the bottom of the pack.
+
+<<<KBCARD>>>
+
+# 短牌（THE SHORT CARD）
+
+原书：p.33-34 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-005
+
+道具：短牌一张（一端剪掉约 1/16 英寸）、小剪刀（折叠款最好）
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+即使借来别人的牌，魔术师照样能准确找出观众放回牌堆的那张选牌。
+
+## 方法
+
+1. 把一张牌的一端剪掉约 1/16 英寸，做成短牌。
+2. 把短牌放进牌堆，让观众选一张牌，再把选牌放在短牌正上方放回牌堆。
+3. 整理牌时手指在牌堆一端一摸，摸到凹进去的短牌就是定位点。
+4. 在借来的牌上表演时，先悄悄藏起一张牌。
+5. 找机会离场，用小剪刀把那张牌剪短，再放回借来的牌堆。
+
+## 提示
+
+随身带一把小折剪，才好在借来的牌堆里做出短牌。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-005-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-005-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The short card serves the same purpose as the double card. It is simply a card which has about a sixteenth of an inch trimmed from one end. It is handled just the same as the double card and serves as a locator when the chosen card is replaced just above it. The short card, however, may be adapted to any pack of cards, if the magician takes the precaution to carry a pair of small scissors (preferably folding ones) in his pocket. By pocketing a card
+from the pack, and finding an opportunity to leave the room, he may trim the end of the card and return it to the borrowed pack.
+
+<<<KBCARD>>>
+
+# 折角的牌（THE BENT CORNER）
+
+原书：p.34 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-006
+
+道具：纸牌一副
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众只是用手指点了一张牌，魔术师把牌洗乱后照样能把它找出来。
+
+## 方法
+
+1. 展牌、牌面朝向观众，请观众用手指点其中一张。
+2. 观众点牌的同时，藏在牌背后的左手拇指把那张牌的角向上折弯。
+3. 洗牌后扫一眼牌堆的角，被折弯的角十分显眼。
+4. 从折角的位置把牌堆切开，选牌就在那里。
+
+## 提示
+
+折角要小，用拇指指甲轻轻一压即可，别让观众听见纸响。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-006-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+In this trick, the magician fans the pack and holds the cards with the faces toward a spectator, inviting him to touch one of the cards. As soon as the spectator does so, the magician's left thumb, which is hidden behind the pack, bends up the corner of the selected card. After the pack has been shuffled, a glance at the corner of the pack reveals the position of the chosen card, and the pack can be cut at that point.
+
+<<<KBCARD>>>
+
+# 假洗牌（FALSE SHUFFLING）
+
+原书：p.34-35 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-007
+
+道具：纸牌一副
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众看着整副牌被当众洗乱，其实魔术师想留住的牌始终没有离开牌顶或牌底。
+
+## 方法
+
+1. 鸽尾洗牌时，用拇指压住顶牌，让它最后落下，位置保持不变。
+2. 普通洗牌：右手拇指与手指夹住牌堆，牌底朝向观众；左手拇指从底部拉走一些牌，左手手指同时带住顶牌；右手再把剩下的牌洗到左手这叠前面，顶牌仍在顶上。
+3. 若选牌本来在底部，右手持牌时让顶牌的牌背朝向观众，其余动作不变。
+4. 要让顶牌变成底牌：左手拇指单独拉走顶牌，其余牌洗在它上面。
+5. 要让底牌变成顶牌：先把右侧身体转向观众，右手持牌、顶牌朝掌心；左手拇指单独把底牌拉下，让它落进左手手指的弯曲处，其余牌从右手洗进左手，选牌就到了顶上。
+
+## 提示
+
+假洗的节奏要与普通洗牌完全一致，慢而自然才不显眼。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-007-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-007-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+False shuffling is the means whereby a card may be kept at the top or the bottom of the pack while the magician is shuffling the cards. A false shuffle should not be shown as a trick in itself. No especial skill is required in false shuffles; anyone who can shuffle a pack of cards in the ordinary manner can execute the false shuffle just as easily. First, suppose that the pack is to be shuffled in the dovetail fashion, by cutting it into two heaps and riffling the ends together. The magician has located the chosen card and has cut the cards to bring it to the top of the pack. In riffling the ends of the pack, he merely retains the top card with his thumb, so that it is the last card to fall and its position is undisturbed. Second, for an ordinary shuffle, to keep the chosen card on top of the pack, grip the pack between the thumb and fingers of the right hand, the thumb at one end and the fingers at the other. Hold the pack with the bottom card facing the audience. Now the left thumb comes up, and pulls away some of the cards from the bottom of the pack. As it does so, the left fingers bring along the top card also. Then the right hand, aided by the left thumb,
+shuffles the remaining cards in front of the first group. The chosen card still remains on top. If the chosen card is originally on the bottom, the right hand holds the pack with the back of the top card toward the audience. Otherwise the shuffle is the same.* Third, there is a very simple shuffle in which the chosen card is undetectably transferred from the top of the pack to the bottom, or vice versa. Hold the pack as previously described, with the top card toward the audience. The left thumb pulls away the top card alone and the remaining cards are then shuffled on top of it, so that the chosen card becomes the bottom card. To bring the bottom card to the top, the magician should first take the precaution of turning his right side toward the audience; then he takes the pack between the fingers and thumb of his right hand, with the top card toward the palm. The left thumb pulls down the bottom card alone, letting it fall into the bend of the left fingers; then the remaining cards are shuffled from the right hand into the left, the desired card then being on top of the pack.
+
+<<<KBCARD>>>
+
+# 切到选牌（CUT TO THE CARD）
+
+原书：p.35-36 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-008
+
+道具：纸牌一副
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师把一张牌牌面朝上插进牌堆中部，再把它当杠杆一撬，选牌竟然就出现在撬起的那半叠底下。
+
+## 方法
+
+1. 观众选牌放回，把牌洗乱。
+2. 魔术师从牌堆里取出另一张牌，展示它不是选牌。
+3. 暗地把牌堆边缘朝向自己，找出之前折过角的选牌位置。
+4. 突然把手中那张牌牌面朝上插进折角牌的正下方。
+5. 把它当杠杆一撬，把上半叠牌翻过来，选牌就落在翻起那叠的底部。
+
+## 提示
+
+插牌和撬牌要一气呵成，观众才来不及看清选牌是怎么出现的。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-008-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-008-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The items previously described in this chapter are not complete card tricks in themselves. They are methods that lead up to clever conclusions which would be impossible without their aid. The following trick, which is a great mystery, is dependent upon a method given before. Effect: A card is chosen and returned to the pack, which is thoroughly shuffled. The magician takes a card from the pack, and exhibits it. It is not the chosen card. With a sudden movement, he thrusts the card face up into the center of the pack, and using it as a lever, lifts off the upper portion of the pack. When * In order to avoid confusion, the reader should study all card tricks with the pack in his hands. He should begin by laying the cards on the table as though ready to be dealt. The uppermost card then known as the TOP card; the lowermost the BOTTOM card. These conditions are always considered the same, no matter in what position the pack may be held.
+he turns the upper portion face up, behold! the chosen card is on the bottom of the upper portion! The quick thrust into the pack has discovered the chosen card. Method: Refer to trick 6 of the present chapter. The trick is performed by the aid of the bent corner. When the magician holds the pack, he turns the edge toward himself and looks for the bent corner, which stands out quite plainly. It is a simple matter to thrust the odd card, face up, just below the card with the bent corner.
+
+<<<KBCARD>>>
+
+# 拼字魔术（THE SPELLING TRICK）
+
+原书：p.36-37 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-009
+
+道具：纸牌一副（不用小丑）
+难度：进阶
+时长：4 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众说出选牌的名字，魔术师把牌一张张拼着字母发下去，最后翻开的正是那张选牌。
+
+## 方法
+
+1. 观众选牌后，左手整理牌，右手拇指把顶牌往右推，同时默数牌数。
+2. 数到十一时稳稳拿起这叠，让选牌插在它下面，再随意多推几张牌做样子。
+3. 这样选牌就成了从顶部数第十二张。
+4. 把牌分成四叠：最上面那叠至少十五张；按先 4 叠 2、再 3 叠 1 的顺序，最后把 2、4 两叠分别放到 1、3 上。
+5. 这种假切看起来打乱了牌序，其实顶部十二张的位置并没有变。
+6. 问出选牌名后，按字母拼读发牌，并灵活选择拼法，让最后一张正好落在第十二张上。
+7. 例如黑桃 A 拼 A-C-E O-F S-P-A-D-E-S；若是梅花 A，先翻错一张再从第二张起拼；方块 A 拼到 D 就翻牌。
+
+## 提示
+
+A、Q、K 等牌名的拼法各不相同，事先把几种拼法练熟，拼错的次数越少越自然。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-009-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-009-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A card is selected from the pack and is reinserted. The magician cuts the pack several times. Then he asks the name of the chosen card. Suppose it is the queen of clubs. He deals off the cards one by one, spelling a letter as he deals each card, thus: "Q-U-E-E-N O-F C-L-U-B-S." He turns up the last card. It is the queen of clubs! Method After a card has been taken from the pack, square up the cards in the left hand and then start to push the top cards to the side so that the chosen card may be inserted. In so doing, count the cards as your left thumb pushes them to the right, and as soon as you have reached eleven, calmly lift that group of cards, and let the chosen card be placed under them. This must be done nonchalantly. After your right hand has lifted the eleven cards, the left thumb should still push along a few more cards in a careless manner, but the break should be made just below the eleventh card. The selected card is 1234 then the twelfth from the top of the pack. Cut the pack into four heaps, and lay them thus: Heap 4 is the top heap, and it should contain at least fifteen cards. Throw heap 4 on heap 2. Then drop heap 3 on heap 1, and
+place heaps 2 and 4 on 1 and 3. This apparently mixes the cards, but it does not change the position of the top twelve.* Then ask the name of the chosen card. No matter what that card may be, you can spell its name in such a way that your count will end on the twelfth card. For example, ace of spades Spell A-C-E O-F S-P-A-D-E-S, and turn up the next card. Ace of clubs Turn the top card of the pack face up and appear surprised to find that it is not the ace of clubs. Toss it aside, and start spelling with the second card: A-C-E O-F C-L-U-B-S, and turn up the next card. Ace of diamonds: Spell A-C-E O-F D-I-A-M-O-N-D. Turn up the last card on the letter D. It will be the ace of diamonds. Queen of diamonds: Spell Q-U-E-E-N D-I-A-M-O-N-D and turn up the card on letter D. King of diamonds: Spell K-I-N-G D-I-A-M-O-N-D-S and turn up the card on the letter S. By employing one of these various methods to suit the chosen card you can always end your spelling on the twelfth card. The joker should not be used in the pack. As soon as the chosen card is named, you can do the spelling mentally, or with your finger tips. With a little practice the trick presents no difficulties.
+
+<<<KBCARD>>>
+
+# 聪明的皇后（THE WISE QUEEN）
+
+原书：p.37-38 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-010
+
+道具：纸牌一副
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师请观众说出最喜欢的一张皇后，把那张 Q 贴在耳边“听”它说话，然后准确报出桌上那张牌是什么。
+
+## 方法
+
+1. 请观众洗牌，问他最喜欢哪一张皇后。
+2. 找出那张 Q 时，顺便偷看整副牌的顶牌并记住。
+3. 把牌面朝下分成三叠：先拿起约三分之二往右放一叠，再把最上面一组放中间，你记住顶牌的那组正好在中间。
+4. 请正对面的观众挑一叠，他多半会挑中间那叠。
+5. 让他把那一叠的顶牌取出，牌面朝下放在桌上。
+6. 拿起 Q 贴在耳边假装交谈，再碰一碰桌上那张牌，报出你记住的牌名。
+7. 若观众挑了别的叠，就换一位观众指定另一叠，或改口说要用剩下那叠，用话术圆过去。
+
+## 提示
+
+关键只在那一眼记下的顶牌，观众挑哪一叠都能靠说辞自然带过。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-010-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-010-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a very effective mystery. spectator is invited to shuffle the pack. The magician takes the cards and asks, "Which is your favorite queen?" Suppose the queen of diamonds is named. The magician runs through the pack and removes the queen of diamonds. Then he lays the pack face down on the table and divides it into three piles. The spectator selects one of the piles and * This procedure known as a "False Cut." It may be employed in other tricks instead of using a "false shuffle."
+removes the top card; he lays it face down on the table without looking at it. The magician remarks that the queen of diamonds is very wise. He holds the queen to his ear, and pretends to converse with it. Then he touches the queen to the card that is on the table, and again holds the queen to his ear. "Ah!" he says, "The queen tells me that that card is the nine of spades." The card is turned up, and it is the nine of spades! Method: In looking through the pack to find the queen of diamonds, the magician calmly glimpses the top card and remembers it. When he cuts the pack, he lifts off about two-thirds, leaving a small heap; then he moves to the right and drops another third; and he drops the top group in the center. He therefore knows the top card of the center heap, which we are assuming to be the nine of spades. When the magician asks a spectator directly in front of him to choose a heap, that person will almost invariably take the center heap, which fits right in with the magician's plans. The top card of the heap is chosen, and the rest of the trick is merely by-play. Should the spectator choose another heap, the magician need not worry, for he has not yet stated what he intends to do. He turns to another person and says, "You take one also," at the same time indicating the other end heap with a wave of his hand. If the spectator takes that heap, the magician says, "Now we have one We heap left. will use it." If the second spectator takes the center heap, the magician immediately forgets the first person, and centering his attention on the second person, tells him to lay aside the top card of his heap.
+
+<<<KBCARD>>>
+
+# 找出选牌（FINDING A CHOSEN CARD）
+
+原书：p.38-39 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-011
+
+道具：纸牌一副
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+半副牌里放进了观众的选牌，魔术师只是翻看这半副牌，立刻就把选牌抽了出来。
+
+## 方法
+
+1. 事先把整副牌分成奇偶两半：一半全是 A、3、5、7、9、J、K，另一半全是偶数牌。
+2. 把两半合起来，不必刻意打乱，观众不会注意到这个分法。
+3. 把牌分成两份，请观众从其中一份抽一张，放进另一份。
+4. 把放入选牌的那一份洗一洗。
+5. 翻开这一份，那唯一“点数奇偶与这半副牌规律不符”的牌就是选牌。
+
+## 提示
+
+先把奇偶两堆分开放好，别让观众看到分牌的动作。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-011-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-011-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A pack of cards is divided into two portions. A spectator selects a card from one half, and places it in the other, which is shuffled.
+The magician looks through the half of the pack and immediately discovers the chosen card! Method: In one half of the pack are all the odd cards— ace, three, five, seven, nine, jack, and king. The other half contains the even cards. No one will notice this. When a card is placed from one section to the other, the magician can immediately discover it when he looks through that portion of the pack.
+
+<<<KBCARD>>>
+
+# 透视牌盒（THE X-RAY CARD CASE）
+
+原书：p.39 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-012
+
+道具：带小孔的牌盒、纸牌一副
+难度：入门
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+观众把一张牌牌面朝下塞进牌盒、盖好盒盖，魔术师把牌盒贴在额头上，就能说出里面是哪张牌。
+
+## 方法
+
+1. 在牌盒背面右下角剪一个小孔。
+2. 请观众把一张牌牌面朝下插进盒里，盖好盒盖。
+3. 把牌盒拿到背后，孔朝下，拇指始终盖住小孔。
+4. 举到额头前时，拇指悄悄移开，从孔里瞥见牌角的花色和点数。
+5. 立刻把牌名说出来。
+
+## 提示
+
+举盒、贴额头的动作要慢而自然，拇指挡孔时别让观众注意到盒子有洞。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-012-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes a pack of cards from the case. He holds the case behind his back and invites anyone to insert a card, face down, in the case, closing the flap of the case so that the card will be entirely concealed. The magician then holds the cardcase to his forehead and instantly names the card that is in the case, although no one has seen it! Method: A small hole is cut in the lower right corner of the back of the card case. The case is held back downwards, behind the back, with the thumb always covering the tiny opening. In raising the case to his forehead, the magician moves his thumb aside and thus catches a glimpse of the index corner of the card inside the case.
+
+<<<KBCARD>>>
+
+# 变色牌堆（THE COLOR-CHANGING PACK）
+
+原书：p.39-40 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-013
+
+道具：红黑两色的纸牌一副、小丑牌一张
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+整副牌先全是红的，魔术师吹一口气、再弹一遍就变成全黑；再吹一口气，红黑两色同时出现，最后整副牌还能交给观众检查。
+
+## 方法
+
+1. 把红牌和黑牌分成两叠，非常仔细地鸽尾交错，使两张红牌之间隔一张黑牌。
+2. 把两叠推到一起，但不要完全推齐，留一点错位。
+3. 把那张小丑放到牌堆底部，也就是最下面一张。
+4. 弹动牌堆一端时只看得到红牌；朝牌堆吹气、把牌从一只手换到另一只手时顺势转 180 度。
+5. 再弹另一端，看到的就全是黑牌。
+6. 再吹气时，手指把两叠完全推齐，第三次弹牌时红黑两色便同时出现。
+
+## 提示
+
+整个过程牌要握紧，两叠牌一旦散开，交替的花色就露馅了。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-013-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-013-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Effect The magician exhibits a pack of cards with the joker on the face (the bottom). He riffles the end of the pack, and shows that it contains red cards only. He blows on the pack, and riffles it again. This time the cards are all black! He blows on the pack once more, and this time the cards become both red and black. The pack may be thoroughly examined. Method: Separate the reds from the black, and dovetail the two
+portions very carefully, so that every odd card is red, and every even card black. Push the two sections together, but stop before the ends are quite flush. Then put the joker on the bottom of the nM kNsKNKN \l joker; pack. The result is this When one end of the pack is riffled, only red cards will be seen. In blowing on the cards, and transferring them from one hand to the other, they are turned around, and when the other end is riffled, only blacks will appear. In blowing on the cards again, the fingers push the two sections flush together; so when the cards are riffled the third time, both colors will be in evidence. The pack must be held quite firmly during the trick.
+
+<<<KBCARD>>>
+
+# 变色的牌（THE COLOR-CHANGING CARD）
+
+原书：p.40-41 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-014
+
+道具：纸牌一副
+难度：进阶
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师翻开顶牌，是方块 6；他把整副牌往地上一扔，落地时那张牌竟变成了黑桃 6。
+
+## 方法
+
+1. 事先把黑桃 6 放在牌堆第二张，顶牌是方块 6。
+2. 把顶牌翻过来展示，观众便相信这是牌堆最上面的一张。
+3. 扔牌之前，把顶上两张当成一张，往牌堆侧面推出约 3/4 英寸。
+4. 把牌堆平平地扔到地上，不要用太大力气，否则牌会散开。
+5. 空气压力使顶上两张翻面，方块 6 牌面朝下落进去，黑桃 6 反而牌面朝上。
+
+## 提示
+
+牌堆要正着扔、力道适中，翻面的效果才干净漂亮。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-014-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-014-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a very smart and surprising trick. The magician turns the top card of the pack face up and shows that it is the six of diamonds. He throws the pack upon the floor, and the card instantly changes into the six of spades. Method: The second card of the pack is the six of spades. Just before dropping the pack, push the two top cards, as though they were one, about three-quarters of an inch over the side of the
+pack. The pack must be thrown squarely upon the floor, and not too violently, or the cards will scatter. The pressure of the air causes the two top cards to turn over, so that the six of diamonds falls face down, while the six of spades comes face up. To the observer, it appears as though the six of diamonds has magically been transformed into the six of spades in the twinkling of an eye.
+
+<<<KBCARD>>>
+
+# 三张 J（THE THREE JACKS）
+
+原书：p.41 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-015
+
+道具：纸牌一副（顶牌预置为三张 J、一张杂牌、第四张 J）
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师把牌一张张发成两叠三张，第一叠每次都是三张 J，连演几遍结果都一样。
+
+## 方法
+
+1. 事先在牌堆顶放三张 J，接着放一张杂牌，再放第四张 J。
+2. 一张一张发成两叠，每叠三张。
+3. 发到第六张时，把这张牌从第二叠下面滑进去，像杠杆一样把第二叠挑起来、放回牌堆顶。
+4. 翻开展示第一叠是三张 J。
+5. 把三张 J 放回牌堆顶，牌序便自动恢复，可以重复表演。
+
+## 提示
+
+每遍动作要保持一致，别因为太熟练而越做越快。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-015-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The majority of tricks do not bear repetition, but here is one that becomes more and more perplexing as it is repeated. It should not be overdone, however. The magician takes the pack and deals two heaps of three cards each, dealing the cards one at a time. He turns up the first hand dealt and shows that it contains three jacks. He gathers up the cards and repeats the deal; again the first hand receives the three jacks. The deal is repeated several times, yet every time the three jacks fall in the first hand. This is apparently a feat of skillful dealing, but in reality, no dexterity is required. Four jacks actually figure in the trick. On the top of the pack are three jacks, then an indifferent card, and then the fourth jack. The cards are dealt one at a time, in two heaps of three each; but when the sixth card is dealt, it must be slid under the second heap, being used as a lever to pick up that heap and put it back on the pack. Then the first heap is shown to contain three jacks, which are replaced on the pack. The cards are then set to repeat the trick.
+
+<<<KBCARD>>>
+
+# 任意位置的牌（CARD AT ANY NUMBER）
+
+原书：p.41-42 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-016
+
+道具：纸牌一副
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众说选牌会出现在第 16 张的位置，魔术师数到 16 却不是；观众自己再数一遍，第 16 张正是那张选牌。
+
+## 方法
+
+1. 先用前面讲过的方法把选牌弄到牌堆顶，再用假洗牌保持住。
+2. 观众说一个数字，比如 16，你就一张张数出 16 张。
+3. 数的时候顺手把数出的牌叠翻过来放回牌堆顶，使它们的顺序颠倒。
+4. 先翻开最后数出的那张，展示它不是选牌，制造一点意外。
+5. 把牌堆交给观众自己数；因为顺序被颠倒，第 16 张正好变成选牌。
+
+## 提示
+
+数牌和翻牌要连成一气，别让观众察觉牌序被动过。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-016-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-016-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Effect After a card has been selected and returned to the pack, the magician states that he will make that card appear any number down from the top of the pack. Suppose that the number sixteen
+is requested. He counts off sixteen cards, and turns up the last one, but it is not the chosen card. Rather surprised at this, the magician hands the pack to the chooser and tells him to count the number for himself. When the spectator counts off sixteen cards, he finds that his card is the sixteenth. Method The selected card is brought to the top of the pack by one of the methods previously explained; and is kept there by a "false shuffle." When a person calls for sixteen, the magician counts off sixteen cards one by one, and replaces them on the pack, before he turns up the last removed. Of course it is not the chosen card; but in counting the cards the magician has reversed their order so that the sixteenth card now is the chosen one, ready foi the person to count to it.
+
+<<<KBCARD>>>
+
+# 口袋里的牌（THE CARD IN THE POCKET）
+
+原书：p.42-43 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-017
+
+道具：纸牌一副
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众背对魔术师数出若干张、记住下一张，魔术师翻看牌堆后把一张牌收进自己口袋；观众再数到那个位置时，选牌已经不见了。
+
+## 方法
+
+1. 把牌交给观众、讲解数牌方法时，先偷偷看一眼顶牌并记住。
+2. 观众背对着你，数出若干张牌、看一眼下一张，再把数过的牌放回牌堆顶。
+3. 观众一张张数牌时牌序被颠倒，你记住的那张牌正好落在选牌上方。
+4. 接回牌堆，翻看时找到自己记住的牌，把紧挨在它下面的那张选牌抽走。
+5. 把选牌放进口袋，把牌堆还给观众。
+6. 观众数到原来位置时发现选牌不见了，你再从口袋里取出选牌。
+
+## 提示
+
+你不需要知道观众数了多少张，只要记住自己那张标记牌。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-017-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-017-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This trick depends upon a variation of the principle just explained. A pack of cards is shuffled, and the magician tells a person to count off any number of cards, say ten, and then look at the next card (the eleventh) after which he is to replace the cards he has counted off, leaving the selected card in its original position. This is done while the magician's back is turned. Then the pack is given to him and, looking through the cards, he removes one and puts it in his pocket. The pack is given back to the spectator, who is told to count down to his card; but when he reaches the eleventh card, he finds that his card is gone. The magician thereupon removes the chosen card from his pocket! It must be remembered that the magician does not know the number of cards counted off by the spectator, and this makes the trick appear very mysterious. Method In giving the pack to the spectator and explaining how he must count off the cards, the magician notes the top card. In counting the cards off one by one, the spectator reverses the order of the cards. When he looks at the eleventh card and puts the
+ten cards back on top, the card which the magician \nows comes directly over the chosen card. The magician merely has to look for his own card and remove the card below
+
+<<<KBCARD>>>
+
+# 翻面的牌（THE TURN-UP CARD）
+
+原书：p.43 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-018
+
+道具：纸牌一副
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+整副牌在桌面上滑出去，选牌忽然在牌堆中间自己翻了个面，牌面朝上躺在牌堆里。
+
+## 方法
+
+1. 先用常用方法把选牌弄到牌堆顶。
+2. 右手横着拿牌堆，拇指把顶牌向前推，手指把这张牌稍稍抬起。
+3. 右手顺势把整副牌在桌面上一甩、滑出去。
+4. 空气压力使顶牌翻面，它落在滑出的牌中间，好像从牌堆中央冒出来一样。
+
+## 提示
+
+推牌和甩牌的力道要轻快，练出这个手感，效果才像真的。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-018-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The Turn-Up Card is a very pretty conclusion for a card trick. The magician simply slides the pack along the table, and the chosen card mysteriously turns over in the middle of the pack, and lies face up. In its original form, this trick was done by having the chosen card on top of the pack, brought there by the magician's customary method. As the pack was dropped, the top card was allowed project, as in the Color-Changing Card, so that it would turn face up on the pack. In the improved method, the magician holds the pack crosswise in his right hand. The right thumb pushes forward the top card and the fingers lift it slightly. Then he slides the cards along the table, in an easy sweep. The air pressure turns over the top card, which falls in the midst of the sliding cards just as though emerged from the center of the pack. There is nothing difficult about this trick, but there is a certain easy knack that, once acquired, makes the trick a perfect illusion.
+
+<<<KBCARD>>>
+
+# 三个窃贼（THE BURGLARS）
+
+原书：p.43-44 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-019
+
+道具：J 三张、K 四张、纸牌一副
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+三张 J 扮成三个窃贼潜入“房子”，一张 K 扮成侦探；最后展开牌堆，三个窃贼挤在牌堆中央，每个旁边都站着侦探。
+
+## 方法
+
+1. 事先在牌堆底悄悄放三张 K 夹一张 J，另在牌堆顶放一张 K。
+2. 展示三张 J 代表三个窃贼，牌堆代表房子。
+3. 说“一个从前门进去”，把一张 J 放到牌堆底；“另一个从后门进去”，把一张 J 放到牌堆顶。
+4. “第三个从窗户进去”，把第三张 J 插进牌堆，位置在正中央偏上一点。
+5. “侦探看见了，也从后门跟进去”，把 K 放到牌堆顶。
+6. “窃贼听见侦探，在屋里乱跑”，把牌堆切三次。
+7. 展开牌堆，中央会出现 K、J、K、J、K、J、K 七张连在一起。
+
+## 提示
+
+第三张 J 插入的高度决定七张牌能否正好聚齐，练习时要记准位置。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-019-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-019-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+There is an old trick called the "Four Burglars," which now so ancient that it is hardly worth performing. There however, new is, a adaptation of the trick which is entirely different in method, and it makes a very interesting experiment in impromptu magic. Three jacks are shown, representing three burglars. A king also used to represent a detective, while the pack represents a house.
+The story goes as follows: "The three burglars decided to rob the house, so one went in the front door." (A jack is placed on the bottom of the pack.) "Another entered the back door." (A jack goes on top.) "The third went in a window." (The third jack is pushed into the center of the pack.) "The detective seeing this, went in the back door also." (The king is placed on top.) "The burglars, hearing the detective, ran around in the house." (Here the pack is cut three times.) The pack is then fanned, and in the center of the pack are found the three burglars, each one guarded by two detectives. That is, in the center of the pack, seven cards are discovered clustered together in the following order: King, jack, king, jack, king, jack, king. Before commencing the trick, secretly place the fourth jack between two kings at the bottom of the pack, and put a king on top of the pack. No one knows of this preparation. When one jack "goes in the window," push it in the pack quite a little above the center. Place the other cards as described. Then when you cut the cards, the three jacks and four kings will be together as described. One cut is sufficient, but two additional cuts add to the effect.
+
+<<<KBCARD>>>
+
+# 国王与皇后（KINGS AND QUEENS）
+
+原书：p.44-45 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-020
+
+道具：K 四张、Q 四张
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+四张 K 和四张 Q 混成一堆、反复切开，魔术师把手放到背后，却能一对一对地拿出同花色的 K 和 Q，最后还一手拿出四张 K、另一手四张 Q。
+
+## 方法
+
+1. 理牌时四张 Q 放在一起、四张 K 放在一起，两组的顺序必须完全相同，比如方块、梅花、黑桃、红心。
+2. 把两组牌合在一起，随便怎么切都不影响效果。
+3. 表演时从顶上拿三四张放到底下，再从底下剥五六张放到顶上，做得连贯自然。
+4. 把牌放到背后，左手持牌，用食指把顶上四张与下面的牌隔开，形成两叠。
+5. 右手从两组各取顶牌，正好是同一花色的一对 K 和 Q；下一对也同样。
+6. 第二段：把配对好的牌按 K、Q、K、Q 的次序排好。
+7. 再放到背后，右手用拇指与食指捏走第一张、食指与中指捏走第二张，奇数张与偶数张便分成两叠，一叠全是 K、另一叠全是 Q。
+
+## 提示
+
+两组的排列顺序必须完全一致，配对时才不会出错。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-020-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-020-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Effect: The four kings and four queens are removed from the pack. They are gathered together in a pile, which is cut and apparently thoroughly mixed. The magician puts the cards behind his back and brings out the king and queen of clubs, then the king and queen of spades, then diamonds, and finally hearts. All the kings and queens are paired! The cards are stacked together again, and the heap is cut. This time the magician brings out the four kings in one hand and the four queens in the other. Method: In arranging the cards, lay the four queens together,
+and the four kings together; take care that the order of suits is the same in each group; say diamonds, clubs, spades, hearts. Put the two groups together. The packet may be cut any number of times, and you can make this more effective by taking off three or four cards from the top and putting them on the bottom, and then peeling off five or six cards from the bottom and placing them on the top, all in one continued movement. Simply put the cards behind your back and hold them in your left hand, your forefinger separating the top four cards from the lower so that you have two packets. With your right hand take the top cards from each group. They will be the king and queen of the same suit. The next two cards will also be of the same suit and so on. For the second part of the trick, put the paired kings and queens in one group, but take care that their order runs king, queen, king, queen, king, queen, king, queen; or queen, king, queen, etc. Put the cards behind your back and draw off the top card between the right thumb and forefinger; the second between the forefinger and second finger. Proceed thus so that the odd cards are in one group, the evens in the other. One group will contain the kings, the other the queens.
+
+<<<KBCARD>>>
+
+# 读心术（MENTAL TELEPATHY）
+
+原书：p.45-46 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-021
+
+道具：纸牌三张、杂牌两张（藏于口袋）、裤子口袋
+难度：入门
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+观众从三张牌里默想一张，魔术师把牌收进口袋，再取出两张放在牌堆上；观众说出所想的牌名后，魔术师从口袋里取出的正是那张。
+
+## 方法
+
+1. 事先在裤袋里藏好两张杂牌。
+2. 给观众展示三张牌，请他想其中一张，再把三张牌放进同一个口袋，同时记下它们的排列顺序。
+3. 手伸进口袋，取出预先藏好的两张杂牌，牌面不给观众看，放在牌堆上，观众会以为这是三张中的两张。
+4. 观众说出牌名，你从口袋里取出三张中正确的那一张。
+5. 口袋里还剩两张牌，可以再重复一次。
+6. 若能从眼神看出他选的是哪张，就改为取出他没想的那两张、随意牌面朝上放下，以掩盖真正的手法。
+
+## 提示
+
+取出的两张杂牌不能亮出牌面，一露就穿帮。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-021-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-021-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician shows three cards and asks a person to think of one of them. He puts the three cards in his trousers pocket. Then he draws out two of the cards and lays them on the pack. "If you have been thinking of your card," announces the magician, "it will be the one that is still in my pocket. Tell everyone the name of your card." "The three of clubs," replies the person who is thinking of the card. The magician reaches in his pocket and brings out the three of clubs.
+In his pocket, the magician has previously hidden two indifferent cards. When he shows three cards, and puts them in his pocket, he notices the order in which they lie. Then he reaches in and brings out the two indifferent cards, but does not show their faces. The audience believes that they are two of the three cards he just put in his pocket. When the spectator names the card of which he is thinking, the magician has simply to bring out the correct one of the three cards that are in his pocket! He then has two cards remaining, so he can repeat the trick. By watching a person's eyes, it is often possible to discover the card he is choosing, in which case the secreted cards do not have to be used; instead, the magician can bring out the two cards that the person is not thinking of, and carelessly drop them face up. This diverts suspicion from the usual method.
+
+<<<KBCARD>>>
+
+# 长途读心（LONG DISTANCE TELEPATHY）
+
+原书：p.46-47 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-022
+
+道具：写有姓名表的卡片、电话、纸牌一副、外地配合者
+难度：进阶
+时长：5 分钟
+场合：宴会
+需要助手：需要
+
+## 效果
+
+观众随便选一张牌，全场一起集中想它，再打电话给魔术师的朋友，对方在电话那头立刻报出选牌。
+
+## 方法
+
+1. 事先做一张姓名表，把每张牌都对应一个人名，按花色分组、组内按字母顺序排好，例如黑桃 8 对应 Mr. Hood。
+2. 把这张表写在卡片上放进自己口袋。
+3. 观众选出牌后，你查表找到对应的人名。
+4. 当众宣布：只要大家集中想看那张牌，任何人都可以打电话给 Mr. Adams，他会说出选牌。
+5. 电话拨通后，把查到的名字（如 Mr. Hood）说给对方。
+6. 对方也持有一份同样的名单，听到这个虚构的名字就知道是哪张牌。
+7. 这个魔术不能重复，可解释说通灵朋友一晚只能“看到”一张牌。
+
+## 提示
+
+名单要按花色分组、组内按字母排序，才能一眼查出对应名字。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-022-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-022-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is an excellent trick to perform in connection with the previous experiment. After your audience is worked up to the height of perplexity, ask them to choose any card from the entire pack. Suppose the ace of hearts is selected. You then state that if all present will concentrate on the ace of hearts, any person may call up your friend Mr. Adams, whose telephone number is Market 141 6 (or whatever the number may be), and he will name the card selected. This is done, and when Mr. Adams comes to the other end of the wire, he promptly names the ace of hearts as the card selected. This trick will never fail to create astonishment: but the secret is very simple. On a card in your pocket, you have a list of names, such as the list on page 27. When you look on the card for the phone number of your friend, you also find the name that goes with the playing card that has been selected by the company. If the eight of spades is
+selected, you tell the audience to call up and ask for Mr. Hood. Mr. Klein is the key name for the jack of clubs, and so on. Diamonds Clubs Hearts Spades Ace Alberts Ames Adams Atkinson Two Brown Bates Billings Black Three. Carter Chester Crown Callahan Four Davis Dodd Dale Dobbins Five Earle Emerson Ellis Engle Six Franks Fisher Farnum Flood Seven Graham Gib son Girard Glover £i ght Harris Hale Herbert Ho od Ninc Irwin Idler lyes Ingersoll Ten James Judson Jansen Jarvis J ack Knight Klein Kaufman Keyser Queen Lewis Lane Lawrenc e Lee King -Morris Moore Myers Mul holland Joker Rice Your friend at the other end of the line has a duplicate so as list, soon as the fictitious name is given to him he knows the chosen card. Note the alphabetical arrangement of the list. The trick cannot be repeated. Your excuse for this is that so much concentration is necessary that your "mind reader" can only visualize one card in the course of an evening; so if the trick were repeated, he would simply repeat the name of the first card chosen.
+
+<<<KBCARD>>>
+
+# 磁性的牌（MAGNETIC CARDS）
+
+原书：p.47-49 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-023
+
+道具：纸牌若干、细头发、活门牌、别针或铅膏（任选其一）
+难度：进阶
+时长：3 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把一叠牌放在掌上，翻过手来牌也不掉，像是被磁铁吸住；一声令下，牌又全部落到地上。
+
+## 方法
+
+1. 方法一：把一根细头发绕手掌中部系成环，先塞一张牌在头发下，再把七八张牌塞进这张牌的边角；手指一张开头发断开，牌便落下。
+2. 方法二：用牌背中央有装饰圆环的牌，从一张废牌上剪下圆环、对折成小活门，粘在另一张牌背面；手指夹住活门就能托住整叠牌，手指稍一张开牌就掉。
+3. 方法三：把一张牌折起一角，用最后两根手指夹住这一角，让牌斜跨掌面；拇指根部压住另一端，其他牌塞进这张牌下面。
+4. 方法四：戴戒指的人可把别针尖插进戒指下面，把牌塞在别针头下，用别针托住整叠牌。
+5. 方法五：从药店买一块铅膏，把掌心和手指涂匀，手看起来没变但很黏；把六七张牌按在桌上，用手压紧再提起，牌会跟着起来，一抖手便落下。
+
+## 提示
+
+无论用哪种方法，手掌都要保持自然舒展，别让观众看出用力的痕迹。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-023-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-023-2.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-023-3.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The effect of the Magnetic Card trick is quite surprising. The magician lays a number of cards on the palm of his hand, and when he turns the hand over, the cards remain attached to as
+though magnetized; until, at the magician's command, they fall to the floor. There are several methods of working this trick, and an explanation of different ways of performing will enable the reader to use the method which best suits him. Method i Tie a fine hair around the center of the hand, so that it forms a loop about the palm. Tuck one card under the hair, and push the other cards seven or eight of them under the corners of the first card. The first card will then support the others. The hair is invisible at a short distance; and a spreading of the hand will break it, releasing the cards at the desired moment. Method 2: Use a pack of cards with an ornamental circle in the center of the back design. Cut one of the circles out of an odd card, bend the circle in half, and paste it to the center of another card so that it forms a flap. The flap is gripped between the fingers, which thus support the card, while other cards may be tucked under the supporting card. When the fingers are spread slightly, the cards will fall. Method 3: Bend up one corner of a card and grip that corner between the last two fingers, so that the card runs diagonally across the palm. Pressure by the base of the thumb, at the other end of the card holds the card in place, so that other cards may be tucked into place. Method 4: If you customarily wear a finger ring, insert the point of a pin under the ring, and tuck a card under the head of the pin, which extends towards the palm. This will support that card, and the other cards may be tucked in under it. # Method 5: Obtain a piece of diachylon (lead plaster) from a drug store, and rub it all over the palm and fingers. The appearance of the hand will not be changed, but the hand will be very sticky. Lay six or seven cards on the table, and press the hand * In tucking cards in under the supporting card, other cards may be inserted under the secondary cards, so that they will partly mask the face of the supporting card.
+firmly upon them. Then lift, and the cards will come up. When the hand is shaken the cards will fall.
+
+<<<KBCARD>>>
+
+# 消失的牌（THE VANISHING CARD）
+
+原书：p.49 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-024
+
+道具：透明赛璐珞牌一张、手帕、玻璃杯、纸牌一副
+难度：入门
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+一张牌被手帕包着推进玻璃杯，手帕一掀，杯子里什么也没有。
+
+## 方法
+
+1. 事先用赛璐珞片剪一张与纸牌同样大小的透明牌，藏进手帕里。
+2. 表演时展示一张普通牌，把它连手帕一起罩在杯口。
+3. 把牌往下一压时，真正的普通牌悄悄落到桌上那叠牌里，手帕下面只剩赛璐珞牌。
+4. 赛璐珞牌看起来、摸起来都像普通的牌；把它推进杯中后掀开手帕，隔着玻璃看不见透明牌，杯子看起来是空的。
+5. 把杯子举起来给所有人看。
+
+## 提示
+
+手帕要够厚够大，才能完全遮住赛璐珞片。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-024-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This trick is performed with a playing card, a tumbler, and a handkerchief. The card is placed beneath the handkerchief, which is held over the glass; and the card is pushed down into the glass. When the handkerchief is removed, the glass is shown empty. The playing card is really a piece of transparent celluloid, cut to the size and shape of a playing card. The celluloid card is hidden beneath the handkerchief, at the outset. When an ordinary card is shown and placed beneath the handkerchief, it is dropped on the table among the remaining cards of the pack, and the celluloid card is held underneath the handkerchief, where it appears and feels like an ordinary card. When the celluloid card goes in the glass, the handkerchief may be removed and the glass held up for all to see; for the celluloid will be invisible through the sides of the glass.
+
+<<<KBCARD>>>
+
+# 自动上升的牌（THE AUTOMATIC RISING CARD）
+
+原书：p.49-50 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-025
+
+道具：纸牌一张、锥形玻璃杯、干肥皂
+难度：进阶
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把一张牌插进玻璃杯，呵令它升起来它却不动；他把牌取出在袖子上擦一擦再插回去，牌就自己从杯里升到他手中。
+
+## 方法
+
+1. 选一张表面光滑的亮面牌，杯子要用上宽下窄的锥形杯。
+2. 用干肥皂在杯内壁擦出两条窄窄的通道，从杯口一直通到杯底，位置彼此相对。
+3. 把牌插进杯里，让它的两个边缘正好落在两条光滑通道上，牌便会自动上升。
+4. 若插的位置不对，牌就不会升。
+5. 肥皂要擦得仔细均匀，让人看不出痕迹。
+
+## 提示
+
+插牌的位置是关键，多练几次记住角度，效果才稳定。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-025-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-025-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+drinking-glass is employed in this trick also. Any card is taken from the pack and is pushed down into the glass. A spectator is told to ask the card to rise. The card, however, does not obey the command. The magician removes the card from the glass, strokes it on his sleeve, and inserts it in the glass, from which it immediately rises to his outstretched hand. Method: Use a smooth-finished glazed card, and a glass with tapering sides. Take a piece of dry soap and rub it on the inside of the glass, making two narrow channels at opposite points, running from the top of the glass to the bottom. When the card is pushed down into the glass so that its edges come in contact with the smooth paths, the card will rise; but if it is not pushed in at
+the correct point, it will not rise. The soap should be applied carefully and evenly; then its presence will not be observable.
+
+<<<KBCARD>>>
+
+# 手背上的牌（THE CARD ON THE HAND）
+
+原书：p.50 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-026
+
+道具：纸牌一副、少量铅膏
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师把半叠牌抛向空中，再把手伸进纷落的牌里，选牌竟然贴在他的手背上，像是被一把抓住。
+
+## 方法
+
+1. 事先在右手手背上贴一小块铅膏。
+2. 用前面的方法把选牌弄到牌堆顶，再把牌切成两叠。
+3. 把下半叠放在掌心，同时让手背短暂地贴一下上半叠，使选牌粘在手背上。
+4. 把手中的下半叠抛向空中，手伸进纷落的牌里，再翻过手来展示手背。
+5. 观众只看到选牌贴在手上，其余的牌纷纷落下。
+
+## 提示
+
+铅膏只要一点点，手背靠上去时动作要轻，别把牌压歪。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-026-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a surprising finish to a card trick. After a chosen card has been brought on top of the pack by any one of the methods described, the pack is cut into two portions. The magician places the lower portion on the palm of his hand and tosses it in the air. He thrusts his hand among the falling cards, and the chosen card appears on the back of his hand, apparendy caught out of the others. Method: The magician has a tiny bit of lead plaster affixed to the back of his hand. When he places the lower heap on the palm of the hand, he momentarily rests the back of the hand on the upper heap. When the hand tosses the lower heap in the air, the chosen card sticks to the back of the hand. The hand is simply turned over amongst the falling cards, and the illusion is complete.
+
+<<<KBCARD>>>
+
+# 通灵牌（THE SPIRIT CARD）
+
+原书：p.50-51 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-027
+
+道具：双层信封、微型牌（方块 4 的小图）、空白小卡、纸牌一副
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+空信封里装进一张小卡片，信封被夹在牌堆中间；观众看到信封下面那张牌是方块 4，随后从信封里倒出的小卡片上画的正是方块 4。
+
+## 方法
+
+1. 做双层信封：剪下另一只信封的正面，塞进一只真信封里，把两个封口粘在一起，外观毫无异样。
+2. 在信封的前夹层里藏一张微型方块 4，最好用照片或印刷卡片，手绘也可以。
+3. 把牌堆的顶牌设为方块 4。
+4. 当众展示信封是空的，把一张与微型牌同尺寸的空白卡丢进去。
+5. 切牌后把信封封好，大胆放在牌堆上半叠上，再把下半叠压到信封上。
+6. 请观众看信封下面那张牌，果然是方块 4。
+7. 取下信封，沿封口处剪开，打开前夹层，倒出微型牌。
+8. 趁大家传看微型牌时把信封收进口袋，换出预先备好的同款信封，随手丢在桌上。
+
+## 提示
+
+换信封的动作要随意自然，别人拿起来检查也发现不了。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-027-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-027-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The Spirit Card is a perfect little mystery that requires a mimimum of skill. An envelope is shown empty, and a tiny piece of cardboard is put in it. Then a pack of cards is cut and the envelope is inserted between the two halves of the pack. The spectators then look at the card just below the envelope. It is the four of diamonds. The envelope is opened, and the tiny card is shaken out. On it is a picture of the four of diamonds! The envelope is then tossed on the table. Method The envelope is a double one, made by cutting off the front of another envelope and inserting it in a genuine envelope. When the two flaps are stuck together, the envelope appears quite innocent.* * It best to use a small envelope with the flap at the end.
+In the front compartment of the envelope, place the tiny four of diamonds (or whatever card you wish to use). The tiny card can be drawn with ink; a tiny photograph or a printed card is preferable if one can be obtained. The top card of the pack is a four of diamonds. Show the envelope apparendy empty, and drop in a blank card of the same size as the miniature that is hidden in the envelope. Cut the pack, and after sealing the envelope, calmly place it on the top portion of the pack, putting the lower portion on the envelope. This is a bold procedure that never fails to pass detection. The spectators look at the card underneath the envelope. Remove the envelope, cut it under the flap, thus opening the front compartment, and let the tiny card fall out. While every one is examining it, and the surprise is great, calmly put the envelope in your pocket. There you have a duplicate envelope, which is unprepared, and which has been sealed and opened. As an afterthought, you bring out the envelope (really the duplicate) and drop it carelessly on the table. No one ever notices this simple exchange, as it is done quite naturally. Do not say anything about the envelope; after a while some one will pick it up and examine
+
+<<<KBCARD>>>
+
+# 口袋里的 A（THE ACES FROM THE POCKET）
+
+原书：p.51-52 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-028
+
+道具：纸牌一副、外套内袋、马甲口袋
+难度：入门
+时长：3 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+众目之下洗乱的牌放进外套内袋，魔术师每次伸手进去都能摸出一张 A；最后整副牌拿出来任人检查。
+
+## 方法
+
+1. 事先从牌堆里取走四张 A，放进右上方的马甲口袋。
+2. 让观众把牌彻底洗乱，大家不会注意到少了 A，因为你还没提到 A。
+3. 把外套内袋翻开展示是空的，把牌放进去。
+4. 每次“摸”一张 A，其实手是伸进马甲口袋。
+5. 用右手把外套衣襟拉高遮住，别人就看不出你的手没伸进内袋。
+6. 四张 A 全部变出后，取出牌堆，让所有人检查。
+
+## 提示
+
+外套要选内袋位置靠近马甲的那种，拉衣襟的动作才自然。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-028-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-028-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Allow a pack of cards to be thoroughly shuffled. Show that the inside pocket of your coat is quite empty, and put the pack in there. State that the aces respond to your sense of touch, and thrust your hand into the pocket. Each time you reach in, you bring out an ace! After the aces have all been produced, the pack is brought out, and all the cards may be examined. Method: Previously remove the aces from the pack, and put them in your upper right vest pocket. Let the pack be shuffled; no one will notice that the aces are missing, as you do not mention them until you have put the pack in your inside pocket.
+Each time you reach for an ace, put your hand in your vest pocket. By holding the coat well over with the right hand, no one can tell that you are not reaching into the inside pocket.
+
+<<<KBCARD>>>
+
+# 翻面的选牌（THE REVERSING CARD）
+
+原书：p.52-53 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-029
+
+道具：带白边的纸牌一副
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众看着一张牌被插进牌堆中部，魔术师一挥手，把牌一张张发下去，忽然出现一张牌面朝上的牌，正是那张选牌。
+
+## 方法
+
+1. 用背面带白边的牌；先秘密把底牌翻成牌面朝上。
+2. 展牌时注意别露出底牌，请观众选一张牌。
+3. 趁大家看牌时转过身，趁机把牌整理齐并翻个面，底牌就到了顶上。
+4. 观众把选牌插进牌堆中部，实际是倒着插进去的；那张翻面的底牌让整副牌看起来正常。
+5. 左手持牌，手指、拇指分在两侧，掌心朝上。
+6. 走近桌子时把手一翻，牌背朝上，顺势把牌放到桌上。
+7. 手在牌上一挥，然后一张张发牌，发到选牌时它会牌面朝上。
+
+## 提示
+
+翻底牌最好事先做好；若留到转身时再做，动作要快而稳。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-029-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-029-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The effect of this trick is not new; but the method has been so simplified that the trick may be performed with very little practice. A card is taken from the pack and noted. It is returned to the magician, who pushes it face down into the pack, holding the pack well squared to show that he cannot keep track of the card. The pack is laid on the table and the magician waves his hand over He deals off the cards one by one, and suddenly he comes to a card that is face up. It is the chosen card! To perform this trick, use a pack that has white margins around the edges of the backs. Secretly turn the bottom card of the pack face up. Then fan the cards, taking care not to show the bottom card, and have a card selected. While those present are looking at the card, turn your back so that you will not see it. This gives you time to square up the pack and turn it over, so that the bottom card is on top * When you put the chosen card back in the center of the pack, it really goes in upside down; the reversed bottom card makes the pack appear normal. Hold the pack in your left hand, the fingers at one side and the thumb at the other, with the palm upwards. As you approach the table, turn your hand over (back up) with a sweeping motion, and lay the pack on the table. Pass your hand over the pack and deal the cards until you come to the chosen card, which will be face up. * The reversal of the bottom card may be left until you turn your back, but safer to attend to beforehand possible.
+
+<<<KBCARD>>>
+
+# 旅行的 A（THE TRAVELING ACE）
+
+原书：p.53 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-030
+
+道具：纸牌一副、梅花 A 与梅花 3
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+梅花 A 被插进牌堆中部，打一下响指、翻开顶牌，梅花 A 又回到了牌堆顶上。
+
+## 方法
+
+1. 展示梅花 A 时把梅花 3 藏在它后面，两张当成一张拿。
+2. 拇指与手指在两侧对压，使两张牌微微向外弯，看不出双层厚度。
+3. 把这两张牌放到牌堆上，再把那张其实夹在后面的梅花 3 拿起来，插进牌堆中部。
+4. 当牌插进约三分之一时，把牌堆向上倾斜，用手指尖压住牌的末端。
+5. 观众只看得到梅花 3 中间那个点，便以为是真的 A 在牌堆里。
+6. 牌完全插进去后打个响指，翻起顶牌，梅花 A 又回到顶上。
+
+## 提示
+
+手指尖要压住牌尾，只露出梅花 3 中间的图案，才不会被看出不是 A。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-030-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Take a pack of cards and show the ace of clubs, which you place on top of the pack for a moment. Then remove the card and push it into the center of the pack; when the card is one-third in, tilt the pack up so that everyone may glimpse the ace. As soon as the ace is fairly in the pack, the cards are snapped, and the bottom card is turned up. It is the ace of clubs, back on top! Method When you show the ace of clubs, the three of clubs is in back of it, the two being held as one. The cards should be bent slightly outwards by pressure of the thumb and fingers at opposite sides. Then the double thickness will not be detected. The cards are laid on the pack, and the three (supposedly the ace) is removed and pushed in the center. When the card is one-third in, tilt up the pack, holding your finger tips over the end of the card. Only the center spot of the trey will be observed; push the card all the way in, and everyone will be satisfied that the ace is actually in the center of the pack.
+
+<<<KBCARD>>>
+
+# 马耳他十字（MALTESE CROSSES）
+
+原书：p.53-54 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-031
+
+道具：纸牌八张（含小丑）
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师把八张牌摆成两个马耳他十字，请观众不断挑牌去牌，最后剩下的一张竟然是小丑。
+
+## 方法
+
+1. 把八张牌按两个马耳他十字摆好，牌面朝下，暗中记住小丑的位置。
+2. 请观众从八张里挑出四张。
+3. 若小丑在观众选的四张里，就拿走另外四张；若不在，就拿走观众选的四张，总之把小丑留在桌上。
+4. 再从剩下的四张里请观众挑两张，用同样的办法把包含小丑的两张留下。
+5. 最后从两张里请观众挑一张。
+6. 若挑中的是小丑，就把另一张拿走，把小丑留在桌上；若不是，就拿走观众挑的那张。
+7. 翻开最后一张，正是小丑。
+
+## 提示
+
+拿牌的动作要随意，像在配合观众的选择，而不是在做手脚。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-031-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-031-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician states that he will play a joke on his audience. He arranges eight cards in two groups so that they form two Maltese crosses. Then he invites a person to choose any four of the cards one cross or the other; or four cards in a line or any combination that pleases him. This is done and the four cards are removed. From the four remaining cards, two are selected; and finally of the two that remain, one is chosen. The final card is turned up, and it proves to be the joker! This is artfully accomplished. The magician knows the position of the joker among the eight cards that are laid face down. If
+the joker is in the four cards first chosen, the magician removes the other four cards. If it is not in the first four, the magician pic\s up the four that are chosen. He repeats this procedure with the four cards that remain, either leaving or picking up the two that are chosen. When the final choice is made, the magician picks up the card if it is not the joker; but if it is the joker, he removes the extra card, leaving the joker on the table. When this trick is performed in a nonchalant manner, its effect is very mystifying.
+
+<<<KBCARD>>>
+
+# 神秘的巧合（A MYSTERIOUS COINCIDENCE）
+
+原书：p.54-55 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-032
+
+道具：纸牌一副、纸条、笔
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师先写下预言交给一位观众，另一位观众随意数出几张牌，再由第一位观众数出同样张数、翻开最后一张，纸上的牌名正是它。
+
+## 方法
+
+1. 请观众洗牌，你自己也洗几下。
+2. 先把牌堆顶上或底上的那张牌记下来。
+3. 把记下的牌名写在纸条上，交给一位观众拿着。
+4. 请另一位观众随意数出若干张牌，再放回牌堆顶。
+5. 数牌时牌序被颠倒，你记下的那张牌就落在他数下的张数位置上。
+6. 请第一位观众数出同样张数，翻开最后一张。
+7. 打开纸条，上面写的正是这张牌。
+
+## 提示
+
+想让底牌变到顶牌，就从底牌处把整叠牌抽走，只洗下面那些牌。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-032-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-032-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician asks that a pack of cards be shuffled. He takes it and shuffles it a little himself. Then he lays the pack on the table, and writes something on a piece of paper which he gives to a person to hold. Another person now deals off any number of cards say eight one by one, immediately replacing them on the pack. Then the first person deals off the same number of cards, and turns up the last one. He is told to look at his slip of paper, and it bears the name of the card he has turned up! After the magician takes the pack to shuffle it, he secretly notes the top card of the pack. Or better, he notes the bottom card, and in shuffling, draws off all the pack from the bottom card and shuffles the cards beneath it, thus bringing the bottom card to the top. That is the card whose name he writes on the slip of paper. When another person deals off some cards one by one, he reverses their order as he lays them faces down on the table. Thus if he deals eight cards, the card the magician has written becomes the eighth card from the top. So when the first spectator deals off the same number of cards, he naturally comes to the card that corresponds to the written message.
+
+<<<KBCARD>>>
+
+# 穿过盘子的牌（A CARD THROUGH THE PLATE）
+
+原书：p.55 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-033
+
+道具：纸牌一副、盘子、帽子、一点肥皂
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+牌堆放在盘子上、盘子放在帽子上，魔术师说一声“过去”，选牌就从牌堆消失，出现在帽子里。
+
+## 方法
+
+1. 观众选牌放回时，把牌面倾斜让观众最后看一眼，同时用拇指把选牌的内角向上折弯。
+2. 洗牌后切牌，找到折角鼓起来的地方切开，选牌就到了牌堆顶。
+3. 事先在盘子底部抹一点肥皂。
+4. 展示盘子、展示帽子，再随意地把盘子放在牌堆上，选牌就粘在盘子底下。
+5. 把盘子放到帽子上时，用指尖或帽檐把选牌碰落，让它掉进帽子。
+6. 把牌堆放到盘子上，随后检查牌堆，选牌已经不见，而在帽子里找到了它。
+
+## 提示
+
+折角别太用力，观众最后看牌时也不能察觉。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-033-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A card is chosen and replaced in the pack. The magician shuffles and cuts the cards. He lays them on the table and exhibits a plate and a hat. He lays the pack of cards on the plate, which is set upon the hat. Then he says "Pass", and when the pack is examined, the chosen card is gone. The plate is lifted and the card is found in the hat! When the chosen card is returned to the pack, the magician tilts up the faces of the cards so that the chooser can have a last look at his card. This gives the magician an opportunity to bend up the inner corner of the chosen card with his thumb, as the pack is held fanned, and the chosen card is not entirely in. He then shuffles the pack, and when he cuts it, he cuts at the spot in the pack where he sees the bent corner forming a hump. This brings the chosen card to the top of the pack. There is a dab of soap on the bottom of the plate. After showing the plate the magician shows the hat, and carelessly lets the plate rest on the pack. Thus the plate picks up the chosen card. In setting the plate on the hat, the chosen card is dislodged, either by the finger or by the brim of the hat, and it falls in the hat. The pack is placed on the plate, and of course the chosen card is missing to be discovered later in the hat.
+
+<<<KBCARD>>>
+
+# 简单的四 A 魔术（AN EASY FOUR ACE TRICK）
+
+原书：p.55-57 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-034
+
+道具：四张 A、纸牌一副
+难度：进阶
+时长：4 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+四张 A 被发成四堆、每堆压上三张牌，观众选走一堆后翻开，四张 A 竟然全都聚在剩下那一堆里。
+
+## 方法
+
+1. 把四张 A 与另外三张杂牌排成扇形展示：前三张 A 后面藏三张杂牌，最前面再放最后一张 A。
+2. 把后面那三张杂牌整理齐，使它和前面那张 A 看起来像一张牌。
+3. 把“四张 A”放到牌堆上，整理齐。
+4. 把顶上的“四张 A”一张张发成一行，其实只有第一张是真 A。
+5. 发牌时让一张真 A“不小心”从牌堆里掉出来，马上捡起，让观众瞥见它的牌面。
+6. 在每张“假 A”上各发三张牌，最先发出的三张正是那三张 A，四张 A 便都聚到同一堆。
+7. 请观众说一个 1 到 4 之间的数字：说二就从左数、说三就从右数，都会点中四 A 那堆；说一或四就请他另说一个数字。
+8. 让观众把手按在选中的那堆上，逐一打响其余几堆，最后翻开那堆，四张 A 都在里面。
+
+## 提示
+
+全程用夸张的表演制造神秘感，观众的注意力就不会落在牌上。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-034-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-034-2.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-034-3.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Everyone has heard of the "Four Ace Trick", and here is an easy way to present this mystery. The four aces are shown in a fan and are replaced on the pack. They are then dealt in a row, and three cards are dealt on each ace. One ace and its three odd cards are chosen. The magician snaps the other piles and throws them on the table. The aces are
+gone, and they are found in the odd pile all the aces together. The first important part of this trick is the method of exhibiting the aces. They are held in a fan faces toward the audience; but behind the third card from the front are situated three indifferent cards. That is, the fan might be: ace of spades, ace of hearts, ace of diamonds, three odd cards, and ace of clubs. The three extra cards are squared up, however, so that they and the ace in front of them appear to be one card. The four aces are exhibited in this fashion, and are placed on the pack and squared up. Then the top four cards are dealt in a row. They are supposed to be the aces, as each card is dealt face down; but only the first card is an ace. In moving the cards around a bit, the real ace should be allowed to fall from the pack, accidentally, being immediately picked up, the audience, however, catching a momentary glimpse of its face. Three cards are dealt on each supposed ace, the first three cards from the top of the pack going on the real ace. Those three cards are the three aces; thus the four aces come together, while each of the other heaps holds four indifferent cards. The four heaps are laid in a row, thus: Four Four Four Four Ordinary Ace Ordinary Ordinary Cards Heap Cards Cards. A spectator is asked to choose a number between one and four. This apparently gives him any choice, but it implies that he should say two, or three. If he says "two", the magician counts from the left of the line; if he says "three", the magician counts from the right, ending his count in either case upon the four ace heap. Should the spectator say "four", the magician replies: "We will use all jour heaps. Give me another number".
+Should the spectator say "one", the magician replies: "We will choose one heap from the four. Let me have another number". But the original question invariably eliminates one and four. All that remains is to command the aces to pass, all four being found in the chosen heap. The magician should do this with much pretence, having a spectator place his hand upon the chosen heap, and snapping each of the odd heaps. He should create the impression that he is doing something really marvelous.
+
+<<<KBCARD>>>
+
+# 木桨魔术（THE PADDLE TRICK）
+
+原书：p.57-58 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-035
+
+道具：芥末木桨、纸牌一副、微型牌
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+木桨被夹在牌堆中间，再掀开上半叠时，木桨上竟出现一张小牌，正是本来压在木桨上方的那张牌。
+
+## 方法
+
+1. 先做一张微型牌，用红黑墨水画即可，把它粘在木桨的一面；与它对应的真牌放在牌堆底。
+2. 把牌堆切一下，展示木桨“两面”：翻面时用拇指和手指把木桨转一圈，实际同一面展示了两次。
+3. 拿起下半叠牌，把木桨插在中间，再把上半叠放上去。
+4. 插入时顺手把木桨转半圈，让粘着小牌的一面朝上，正好对着与它对应的那张牌。
+5. 提走上半叠，木桨上就出现那张小牌，和掀开前看到的那张牌一致。
+
+## 提示
+
+翻桨时要在指间旋转，别让人看出只是同一面。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-035-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-035-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician shows an ordinary mustard paddle which he lays on the table. A pack of cards is cut, and the paddle is laid between the portions of the pack, after both sides of the paddle have been shown. When the top part of the pack is lifted, a tiny card is seen on the surface of the paddle; and that card corresponds to the bottom card of the upper heap that is, the card directly above the paddle! The tiny card, which can easily be made with red or black ink, is affixed to the paddle in the first place. The card that corresponds to it is on the bottom of the pack. The pack is cut; then the paddle is shown apparently on both sides; but in turning the paddle over, it is revolved between the fingers and
+thumb. (See page 37.) Thus one side of the paddle is shown twice. The magician picks up the lower half of the pac\, and places it on the upper, inserting the paddle between. As he does so, he gives the paddle a half turn, bringing the tiny card upward, directly below the card that corresponds to it. This trick has a very surprising conclusion; — it is not difficult to operate, as the paddle turning is very easy simply an adaptation on an old trick known as the "Jumping Peg Paddle". It is possible to obtain paddles with rounded handles for this trick, and they revolve very easily.
+
+<<<KBCARD>>>
+
+# 神秘的纸牌魔术（A MYSTERIOUS CARD TRICK）
+
+原书：p.58-59 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-036
+
+道具：方块 A、梅花 2、红心 3、黑桃 7、裤子口袋、纸牌一副
+难度：进阶
+时长：3 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师从空口袋里随手摸出几张牌，这些牌的花色与点数加起来，正好拼出观众刚说出的那张牌。
+
+## 方法
+
+1. 事先把方块 A、梅花 2、红心 3、黑桃 7 藏进右裤袋，推到口袋角落，翻出袋口也看不见。
+2. 展示右裤袋是空的，请观众选一张牌再放回。
+3. 弹牌、问出选牌的名字。
+4. 先取花色：方块拿方块 A，红心拿红心 3，梅花拿梅花 2，黑桃拿黑桃 7。
+5. 再凑点数：J 算 11、Q 算 12、K 算 13，用 1、2、3、7 相加凑出点数。
+6. 例如方块 Q：先亮方块 A 说“方块”，再取出 7、3、2，三张合计十二，代表 Q。
+
+## 提示
+
+四张牌要推到袋角，翻口袋时它们才不会掉出来。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-036-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-036-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician shows his right trousers pocket empty. A card is selected from the pack, and replaced. The magician riffles the pack and asks for the name of the card. When it is given, he reaches into his pocket and brings out two or three cards which reveal the suit and number of the chosen card. For example: if the three of diamonds is named, the magician brings out the ace of diamonds, giving the suit as diamonds; then he brings out the deuce of clubs, and the total of one and two produce three. Four cards are concealed in the pocket before the trick. They are pushed up into the corner, so the pocket may be turned inside out without revealing them. These cards are the ace of diamonds, two of clubs, three of hearts and seven of spades. With these cards it is an easy matter to reveal the suit and the number of any card after its name has been given, for jack counts eleven, queen twelve, and king thirteen. Thus if the jack of diamonds is named, the magician brings out the ace of diamonds, and says: "Diamond". He follows with the seven, and the three. He adds these three cards and they total eleven, standing for the jack. Had the queen of diamonds been selected, he would show the ace of diamonds and toss it
+aside. Then he would bring out the seven, three and two, showing that those three cards totalled twelve or queen. Another example: six of hearts. Bring out the three of hearts, giving the suit. Bring out the ace and two and add the three cards, which total six. The name of any card in the pack can be revealed in this mysterious manner.
+
+<<<KBCARD>>>
+
+# 牌与硬币（CARD AND COIN TRICK）
+
+原书：p.59 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-037
+
+道具：纸牌一张、硬币一枚
+难度：进阶
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+纸牌平衡在左手食指指尖上，牌上放着一枚硬币；右手食指一弹，纸牌飞出去，硬币却稳稳留在指尖。
+
+## 方法
+
+1. 把纸牌平放在左手食指指尖，再在牌上放一枚硬币，越重越好。
+2. 右手食指抵住纸牌的一边，快速一弹，纸牌便飞出去。
+3. 纸牌飞走的瞬间，硬币落下正好留在指尖上。
+4. 练熟之后，每次都能成功。
+
+## 提示
+
+关键是弹的力道和角度，多练几次就能掌握。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-037-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This is a showy little trick in reality a bit of juggling that looks very difficult yet which can be easily learned. Balance a card on the tip of your left forefinger. Upon it place a coin the heavier, the better. With your right forefinger flip the card, and it will sail away across the room, leaving the coin balanced on your finger. This is very pretty and surprising; once you have the knock you can do it every time.
+
+<<<KBCARD>>>
+
+# 神秘的小丑（THE MYSTERIOUS JOKER）
+
+原书：p.59-60 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-038
+
+道具：蓝背牌一副、红背小丑一张（剪短）、剪刀
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师弹牌展示整副牌都是蓝背，翻过来找小丑却找不到；再一张张翻看牌面时，突然冒出一张红背的小丑。
+
+## 方法
+
+1. 取一张红背牌里的小丑，用剪刀把两端剪短，四角修圆。
+2. 把它插进蓝背牌里。
+3. 弹牌面时，因为小丑短一截，会跟着其他牌一起落下，看不见它。
+4. 弹牌背时同理，红背也不会露出来。
+5. 再找小丑时，翻牌面一张张发牌，突然就出现红背小丑。
+
+## 提示
+
+小丑要剪得略短一点、修圆角，弹牌时才跟得住其他牌。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-038-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-038-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes a pack of cards and riffles it, holding it in his left hand, while the right hand releases the cards one by one. In this way he shows the backs of the cards all blue. Then he turns the pack over and riffles it slowly, looking for the joker. But the joker is not there. "Strange", remarks the magician. "Let's look through again." He holds the pack faces up and deals the cards one by one. Suddenly he comes to the joker! He turns the joker over, and its back is red! Method: Take the joker from a red pack and trim its ends short with a pair of scissors, taking care to round the corners. When the joker is inserted in a blue pack and the front of the cards are riffled, the joker will not be seen, for being short, it falls with one of the other cards.
+Likewise when the backs of the cards are riffled, the joker will be invisible, and its red back will not come into view. The appearance of a red-backed joker in a blue-backed pack is very mystifying.
+
+<<<KBCARD>>>
+
+# 脚下的变色牌（CARD CHANGING UNDER FOOT）
+
+原书：p.60 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-039
+
+道具：红心 A、黑桃 A、纸牌一副
+难度：入门
+时长：1 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+魔术师把红心 A 扔到地上，请观众踩住；观众抬脚一看，牌已经变成了黑桃 A。
+
+## 方法
+
+1. 把红心 A 和黑桃 A 当成一张拿，红心在前，手指在后、拇指在前。
+2. 牌面朝下扔出时，把后面那张黑桃 A 推出去，让它单独落地。
+3. 手仍保持动作，顺手拍一下另一只手里的牌堆，把红心 A 留在牌堆顶上。
+4. 动作要快，所有人的目光都会跟着落下的牌，变色便看不出来。
+
+## 提示
+
+扔牌和拍牌要一气呵成，手不能停。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-039-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Show an ace of hearts and throw it face down on the floor, asking a person to put his foot on it. When he lifts his foot the card turns out to be the ace of spades! Method: Hold the ace of hearts and ace of spades as one, the heart being in front. The fingers are at the back, and the thumb at the front. In throwing the card face down push the back card forward, so that it falls alone. The hand, still in motion, slaps the pack which is in the other hand, leaving the ace of hearts on top. If this is done rapidly, all eyes will follow the falling card and the change will not be detected.
+
+<<<KBCARD>>>
+
+# 重聚的国王与皇后（UNITED KINGS AND QUEENS）
+
+原书：p.60-61 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-040
+
+道具：四张 K、四张 Q、纸牌一副
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师把四张 K 分别从“剧院”的各个门送进牌堆，切牌之后展开，四对同花色的 K 和 Q 都聚在牌堆中央。
+
+## 方法
+
+1. 事先把方块 Q 放在牌堆上，红心 Q 压在它上面；在牌堆底放梅花 Q，黑桃 Q 压在它上面。
+2. 把方块 K 从“楼座”送进去，插在牌堆顶下第二或第三张。
+3. 把黑桃 K 从“后台门”送进去，插在牌堆底上第二或第三张。
+4. 切一下牌，在上半叠上放红心 K，再放梅花 K。
+5. 把下半叠盖到上半叠上完成切牌，四对同花色的牌便会聚到一起。
+
+## 提示
+
+两对 Q 的上下顺序要预先摆好，重聚时才能一一对应。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-040-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-040-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes the four kings. He states that the pack is a theater, where the kings have arranged a theater party. One
+king went in the gallery here he places a king a few cards from the top; while another went in the stage door. Here he inserts a second king a few cards from the bottom. The other two kings went in the main entrance. Here the magician cuts the pack, drops on the two kings, and completes the cut. As a result, each king found his proper seat, with his wife waiting for him. Turning the pack faces up, the magician spreads it and shows all the kings and queens together in the center, the king of spades with the queen of spades, and so on. Method: Place the queen of diamonds on the pack with the queen of hearts above it. On the bottom place the queen of clubs with the queen of spades above it. This is arranged beforehand. The king of diamonds goes in the gallery. Put the card in the top of the pack, either second or third card down. The king of spades goes in the stage door. Push it in the bottom of the pack, either second or third card from the bottom. Then cut the pack, and on the upper portion place the king of hearts, and on that put the king of clubs. Complete the cut, putting the bottom half on the top, and the reunion will be completed.
+
+<<<KBCARD>>>
+
+# 纸牌圆环（THE CIRCLE OF CARDS）
+
+原书：p.61-62 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-041
+
+道具：纸牌一副
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+半副牌被压弯后，在桌上立起来，不收手也不倒，还慢慢围成一个圆环。
+
+## 方法
+
+1. 把半副牌的两端向内压弯，压得很实。
+2. 把另外半副牌的两端向外压弯。
+3. 把两种牌交替排好。
+4. 把牌堆竖着放到桌上，按住靠近自己的一端。
+5. 牌会自己弹出来，开始围成一个圆。
+6. 小心调整每张牌的位置，圆环就好看又稳当。
+
+## 提示
+
+弯牌要弯得均匀，牌才能一张扣一张立成圆。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-041-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-041-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+There is a very pretty pattern which may be formed with cards, by a very simple method. Take half the pack and bend the ends inward, very sharply. Bend the ends of the other half outward. Then sort the cards so that they are arranged alternately. Set the pack on its side, and hold the end closest to you. The cards will spring out and start to form a circle. By carefully arranging their position, you can make them form a neat and artistic circle, which when completed will balance perfecdy. This should be followed by another design, called:
+
+<<<KBCARD>>>
+
+# 玫瑰花饰（THE ROSETTE）
+
+原书：p.62 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-042
+
+道具：纸牌一副
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+刚做好的纸牌圆环被一拍桌子，立刻散开成均匀的玫瑰花形。
+
+## 方法
+
+1. 按上一则的方法做好纸牌圆环。
+2. 在圆环平衡稳定时，告诉观众你要展示一个惊人的变化。
+3. 拍一下桌子。
+4. 牌均匀散开，落成漂亮的玫瑰花形。
+
+## 提示
+
+拍桌子要拍得干脆，牌才会均匀散开。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-042-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+This requires the formation of the circle in the manner just described. While the cards are in the balanced circle, state that you will show a transformation that is very surprising. circle Hit the table, and the cards will fall, evenly distributed, forming a neat rosette.
+
+<<<KBCARD>>>
+
+# 同花色标记找牌（THE CARD FINDER）
+
+原书：p.62 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-043
+
+道具：一副扑克牌
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众把选牌插回牌堆中央，魔术师只切两次牌，再翻看一遍牌堆，就立刻指出了那张选牌。
+
+## 方法
+
+1. 事先快速翻一遍牌堆，把同一花色的许多张牌集中放到牌堆中间。
+2. 请一位观众随意抽一张牌记住。
+3. 把牌扇形展开，让他把牌插回靠近牌堆中央的位置，正好落进那组同花色牌里。
+4. 收齐牌堆，切牌两次。
+5. 浏览牌堆时，那组同花色牌就是标记区；选牌是从中央插回去的，位置与这组牌相邻又格格不入，一眼就能认出。
+
+## 提示
+
+同花色牌要集中成一叠当标记，选牌插回中央后才会显出异常。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-043-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Here is an easy and effective method of discovering a chosen card. Run through the pack, and quickly place a number of cards of one suit in a group at the center. Let a person select a card. Then fan out the pack, and have him replace it near the center. After the pack is squared up and cut twice, you can immediately find the chosen card when you look through the pack. The card is not ta\en from the center but is put bac\ in the center.
+
+<<<KBCARD>>>
+
+# 牌盒里升起的牌（RISING CARD FROM CASE）
+
+原书：p.62-63 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-044
+
+道具：一副扑克牌、牌盒
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+牌装进牌盒后上下摇动，盒盖掀开着，一张指定的牌竟然从盒里慢慢升了起来。
+
+## 方法
+
+1. 先选定一张显眼的牌，比如 joker、黑桃 A，或观众刚才选的牌。
+2. 把这牌放到牌堆里的某个特定位置，再把牌堆装进牌盒。
+3. 翻下盒盖，握住牌盒上下摇动。
+4. 停手后轻轻松开盒盖，那张牌就会从盒中升起来。
+5. 事先用同一只牌盒试验，弄清它会升起哪张：底牌、倒数第二张，还是顶牌；以后把目标牌放在相应位置即可。
+
+## 提示
+
+每只牌盒会升起的位置不同，必须先试验再表演。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-044-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-044-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+By this method, the magician can make a playing card rise from the case. It can either be a joker, ace of spades, or some
+outstanding card, or it can be a chosen card, which the magician has learned by the method just described. The pack is put in the case, and the case is shaken up and down, the cover being turned back. The desired card will rise. The trick is accomplished by simply shaking the pack up and down in the case. This action will cause a card to rise. The magician should experiment and discover which card rises in the particular case he uses. It may be the bottom card, the second from the bottom, or even the top card. He places the desired card at the proper position before he puts the pack in the case.
+
+<<<KBCARD>>>
+
+# 背身记牌与切牌（REVEALING THE CARD）
+
+原书：p.63-64 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-045
+
+道具：一副扑克牌
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+五张牌摊开让观众心里选定一张，魔术师背过身再转回来，听完牌名就把牌堆切到那张牌上，并把它翻出来。
+
+## 方法
+
+1. 洗牌后牌面朝上发五张在桌上，请观众心里选定其中一张。
+2. 魔术师收起这五张牌，转身背对观众，趁机把这五张牌记牢。
+3. 把一张放在牌堆顶，一张放在牌堆底，两张夹在牌堆中间并留一个 break，第五张塞进自己口袋。
+4. 转回身，请观众当众说出选牌的名称，好让其他人见证。
+5. 若他说的是顶牌，就让他自己翻看顶牌；若是底牌，就把牌堆翻过来露出底牌。
+6. 若他说的是中间两张之一，就在 break 处切牌，展示切点上方或下方的牌。
+7. 若他说的是第五张，就从口袋里取出，证明这是自己唯一从牌堆拿走的牌。
+
+## 提示
+
+break 只是把上半叠略微倾斜地搁在下半叠上，收牌不要太整齐，切牌时才能一找就准。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-045-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-045-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A pack of cards is shuffled, and five cards are dealt faces up on the table. A spectator is told to choose one mentally. Then the magician picks up the cards, turns his back for a moment, and studies the cards. He turns around, and states that he can reveal the chosen card. He asks the person to name it. "Five of hearts", is the reply. The magician instantly cuts the pack to the five of hearts. Method: When the magician turns around, he has memorized the five cards. He puts one on top of the pack, one on the bottom, two in the center, leaving the deck slightly broken between them, and he slips the fifth card into his pocket. He does not know the chosen card, but he tells the spectator to name it for the benefit of the other people, so that they can see the trick actually performed. If the chooser names the card that is on top of the pack, the magician tells him to look at the top card. If he names the card on the bottom, the magician turns up the pack revealing that card. If he names one of the two cards in the middle, the magician quickly cuts the pack at the break*, and shows the card * The break between the sections formed by simply laying the upper section at a slight angle upon the lower. This never noticed, as the pack not too well squared; but serves as a guide to the magician and enables him to cut there instantly.
+above the cut or below the cut as the case may be. If he names the fifth card, the magician takes it from his pocket, and demonstrates that it is the only card he removed from the pack. In any event the discovery is effective.
+
+<<<KBCARD>>>
+
+# 奇偶互换的预言（TWO PACKETS）
+
+原书：p.64 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-046
+
+道具：一副扑克牌
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众数清自己那叠牌，魔术师把自己的牌加进去，对方的总数立刻由奇数变偶数、或由偶数变奇数，与预言一致。
+
+## 方法
+
+1. 请观众从牌堆里拿一小叠牌。
+2. 魔术师自己也拿一小叠，并且事先数成奇数张。
+3. 声明：你的总数若是奇数，我的牌能把它变成偶数；若是偶数，我的牌能把它变成奇数。
+4. 让观众数清自己的牌数。
+5. 把魔术师那叠牌加进观众那叠里。
+6. 总数果然按预言互换了奇偶。
+
+## 提示
+
+自己那叠必须始终是奇数张：奇数加奇数得偶数，偶数加奇数得奇数。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-046-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A person takes a small packet of cards, and the magician also takes a small packet. "Count your cards", says the magician. "If your total is odd, my cards will make it even; if your total is even, mine will make it odd". The person counts his cards, and the magician adds his packet. The spectator's total is immediately changed from odd to even, or from even to odd as the magician predicted! Simply deal yourself an odd number of cards, and the trick is sure to work. Odd plus odd will produce even; even plus odd will be odd. Thus you are sure to change his total!
+
+<<<KBCARD>>>
+
+# 红黑自动分牌（RED AND BLACK）
+
+原书：p.64 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-047
+
+道具：两副背纹相同的牌（一副光面、一副压纹）
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众把牌洗乱，魔术师接过来分开发成两堆，翻开一看，一堆全是红牌，另一堆全是黑牌。
+
+## 方法
+
+1. 准备两副背纹完全相同的牌，一副表面有压纹（cushion finish），另一副光面。
+2. 把压纹那副里的黑牌取出，与光面那副里的红牌合成一副，外观看起来毫无异样。
+3. 把牌交给观众洗牌。
+4. 发牌时用手指触摸牌面：光面的是红牌，有细微压纹的是黑牌。
+5. 按手感把红牌和黑牌分别发成两堆，再把两堆翻开。
+
+## 提示
+
+两副牌外观必须一模一样，差别只在牌面手感；发牌速度要匀，摸牌时不要停顿。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-047-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+A pack of cards is shuffled by the audience. The magician takes it and deals it into two heaps. When they are turned up, the reds are in one pile, the blacks in the other! Method Obtain two packs of cards that have the same pattern, but one with cushion finish and the other without. The cards will look exactly alike. Make the red cards smooth ones, and the black cards rough ones. In dealing, you can tell which is which every time you touch a card.
+
+<<<KBCARD>>>
+
+# 不翼而飞的红心六（THE ELUSIVE CARD）
+
+原书：p.64-66 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-048
+
+道具：两副牌（蓝背、红背各一副）、红心 6（真牌，放口袋）、方块 9 与红心 8 备用牌
+难度：进阶
+时长：3 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众在桌上散开的蓝背牌里清楚看到自己的牌，魔术师把牌一收、再牌面朝上发开，那张牌却不见了，随后从他口袋里变了出来。
+
+## 方法
+
+1. 在桌上牌面朝上摆一张方块 9，再摆一张红心 8，让方块 9 的右下角压住红心 8 的左上角，角落的方块点与红心拼成一个「红心 6」的角标。
+2. 把其余蓝背牌围绕这两张牌叠压散开，巧妙遮住接缝，看上去就像红心 6 摆在桌上。
+3. 从红背牌里给每位观众发一张，请他们看自己的牌是否出现在蓝背牌里。
+4. 多数人会说没有而被淘汰，只有拿到红心 6 的人能看到自己的牌。
+5. 魔术师收起那叠蓝牌并捋乱，再牌面朝上发开——红心 6 消失了，只剩方块 9 和红心 8。
+6. 从口袋里取出真正的红心 6 交给观众。
+
+## 提示
+
+红背牌顶上要放那些没在蓝牌里展示的牌，只留红心 6，才能保证只有一个人上钩。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-048-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-048-2.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-048-3.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Two packs of cards are used in this trick. We will call one the blue pack, the other the red.
+About a dozen cards of the blue pack are spread around the table, all mixed together, but each card being partly visible. Each person is given a card from the red pack, and is told to see if his card is in sight among the blue cards spread on the table. One or two persons will say "No", and they are eliminated; but finally a person sees his card in view, so he is chosen for the trick. He shows his card to other people, and they verify the fact that it is present in the blue cards mixed on the table. The magician picks up the dozen blue cards, and riffles them. He deals them faces up. The chosen card is gone! The magician immediately produces it from his pocket! Method: The chosen card is the six of hearts. The blue cards that are spread on the table are carefully arranged. A nine of diamonds is laid face up, and also an eight of hearts. The lower right corner of the nine overlaps the upper left corner of the eight. Thus the nine-spot in the corner and the heart in the corner of the eight make an index of the six of hearts. Other cards are spread all around these, overlapping in such a way that the join is cleverly covered. The pretended 6 shows, also the heart and the two side hearts of the eight. Anyone will suppose that the six of hearts is on display. The real six of hearts, however, is in the magician's pocket!
+On top of the red pack, the magician places cards that are not on display among the blues, with the one exception of the six of hearts. Thus the only person who can possibly see his card on display is the person who holds the six of hearts! He sees his card there at least he thinks he does but as soon as the cards are picked up the elusive six of hearts dissolves. When the cards are dealt, the eight of hearts and the nine of diamonds appear; but no six of hearts. It is in the magician's pocket and is produced from there!
+
+<<<KBCARD>>>
+
+# 纸牌变香烟包（CARDS TO CIGARETTES）
+
+原书：p.66 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-049
+
+道具：扑克牌、一包 20 支纸包香烟、胶水
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师发下几张牌，把剩下的牌一翻，竟变成一包香烟，还从中抖出了几支烟。
+
+## 方法
+
+1. 小心拆开一包 20 支装纸包香烟，把封口的盖片折起来。
+2. 剪掉烟包背面的一部分，把两张牌粘在剪口处，牌面朝向背面，剩余的背纸盖片夹在两张牌之间。
+3. 压平后得到一个扁平的开口烟包，一面看是牌，另一面看是烟包。
+4. 往烟包里放几支香烟。
+5. 表演时先发几张牌，把假烟包混在牌中，让观众看到的是牌面。
+6. 把牌一张张丢开，直到假烟包；右手挡在它前面，左手拇指迅速把它翻面。
+7. 移开右手，露出烟包，抖出几支香烟，然后把烟包放进口袋。
+
+## 提示
+
+翻面那一下要用右手完全挡住；假烟包装上牌后，厚度要和真牌相称。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-049-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes some cards, and deals a few of them on the table. He takes those that remain and changes them to a pack of cigarettes, from which he extracts a cigarette! Open a paper pack of twenty cigarettes, very carefully, and bend the flaps up. Cut out part of the back of the pack, and paste two cards there, the flaps that remain of the back coming between them. The cards are pasted so that the faces are toward the back. Press this package flap, and the result will be a flat, opened pack of cigarettes, with the face of a card on the back. From one side it will look like a card; from the other, like a pack of cigarettes. Put a few cigarettes in the pack, and hold it so people can see the card side, but with several cards in front of it. Toss the cards off until you come to the fake. Hold your right hand in front of it, and quickly reverse it with your left thumb. Take your hand away, and there is the pack of cigarettes, from which you can shake a few cigarettes. Then put the package in your pocket.
+
+<<<KBCARD>>>
+
+# 二次数牌迫选（FORCING A CARD）
+
+原书：p.66-67 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-050
+
+道具：一副扑克牌
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：可选
+
+## 效果
+
+两位观众先后从牌堆顶数出同样张数的牌，第二次数到最后一张，正是一开始放在牌堆顶的那张牌。
+
+## 方法
+
+1. 把想要的牌放在牌堆顶。
+2. 请一位观众从牌堆顶一张一张数出若干张（比如十二张）放到桌上。
+3. 让他把这叠数过的牌放回牌堆顶上——这个动作会把顺序颠倒。
+4. 请第二位观众从牌堆顶数出同样的张数来复核。
+5. 数到最后一张正好是原来那张顶牌，让他记住。
+6. 魔术师把牌堆贴在额头，神秘地说出这张牌，就能结束表演；也可以接着演本章里的其他节目。
+
+## 提示
+
+第一位观众必须把数过的牌原样放回牌堆顶，顺序颠倒后迫选才成立。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-050-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-050-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Here is a simple and effective method of making a person take a desired card.
+The pack is given to a person and he is told to count any number of cards one at a time. He does and off this is then told to replace the cards on the pack— say twelve. Another person is told to verify the count. He does and when he reaches twelve he so, is told to look at the card and remember it. When the first person counted the cards, he reversed order. So when the second person counted their them, he ended on the card that was originally the top card! So all the magician had to do was start with the desired card on the top, and he knew that that card would be the chosen one' The magician can hold the pack to his head and name the forced card in a mysterious manner, thus concluding an trick. Or he can perform one of the following effective tricks:
+
+<<<KBCARD>>>
+
+# 金表里的牌影（THE CARD IN THE WATCH）
+
+原书：p.67 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-051
+
+道具：双底盖金表、一张一英寸高的小牌
+难度：进阶
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+打开双底盖金表，观众看到自己选的牌的影像隐隐映在表壳内侧。
+
+## 方法
+
+1. 准备一张不超过一英寸高的小牌，贴在外壳的内侧。
+2. 用前面讲过的迫选法，从普通牌堆里迫出这张牌。
+3. 打开表的外壳，以一定角度举起来。
+4. 选牌的影像会反射到内壳上，看上去像表壳本来就带着这张牌。
+5. 练熟之后，可以把小牌偷偷塞进借来的表；演完再用蘸湿的食指指尖把它取走。
+
+## 提示
+
+成败在角度：要让小牌的反光正好落进内壳，可先在借来的表上试。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-051-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician opens a gold watch with a double back and a person who has asks selected a card to look at the inner back To his surprise the person sees the image of the card he chose, faintly shining on the case of the watch! Method: Prepare a tiny card not more than an inch high, and stick it on the inside of the outer case. Force that card from an ordinary pack in the manner previously explained. Then open the outer case of the watch and hold it at an angle. The image or the chosen card will be reflected on the inner case. With a little practice the magician can secretly introduce the tiny card into a borrowed watch, and deftly remove it with the tip of his moistened forefinger, after the trick has been concluded.
+
+<<<KBCARD>>>
+
+# 裤袋里的两张牌（A SURPRISE）
+
+原书：p.67-69 ｜ 章：CARD TRICKS（纸牌魔术） ｜ 卡片编号：CT-052
+
+道具：一副扑克牌
+难度：进阶
+时长：2 分钟
+场合：近景
+需要助手：否
+
+## 效果
+
+观众选一张牌，魔术师看都不看，从两个裤袋里各抽一张，恰好凑出这张牌的点数与花色。
+
+## 方法
+
+1. 让观众洗牌，魔术师接过牌堆浏览一遍，记住顶牌。
+2. 另取两张牌：一张与顶牌点数相同，一张与顶牌花色相同。
+3. 把这两张牌分别放进左、右裤袋。
+4. 用本章前面讲的数牌法迫出那张顶牌。
+5. 观众说出选牌后，魔术师不看牌，从两个裤袋各取一张，正好一张是点数、一张是花色。
+
+## 提示
+
+两张「拆分牌」要提前核对并分放左右口袋，取出时不要低头看。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-052-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-052-2.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/ct-052-3.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician takes two cards from the pack and puts one each trousers pocket. A in spectator chooses a card. Suppose the it is
+nine of clubs. Without looking at the card, the magician draws the cards from his pockets. One is a nine, the other is a club. Method: Have the pack shuffled, and run through it noting the top card. Take two cards that correspond to it, as a jack and a diamond for the jack of diamonds, or whatever the case may be. Then force the top card by the counting method described previously in this chapter and the trick will work itself!
+III Checkers are common objects that are suited to many impromptu tricks; yet somehow they have been neglected in the past. There are, however, quite a few good checker tricks in existence, and some of them are explained in this chapter. Every household has its checker-board and set of checkers. They are inexpensive articles that can furnish many minutes of diversion and entertainment.

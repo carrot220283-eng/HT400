@@ -1,0 +1,291 @@
+# 五个奇数凑二十（TOTALLING TWENTY）
+
+原书：p.164 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-001
+
+道具：纸、笔
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+魔术师让人用五个奇数相加凑出二十；人人都以为不可能，他却轻松写成。
+
+## 方法
+
+1. 请观众写下一列五个奇数，并让它们的总和等于二十。
+2. 观众很快会发现这不可能，随即放弃。
+3. 你接过纸，写下 13、5、1、1。
+4. 把这些数相加，总和正好是 20。
+5. 解释：题目要的是五个「奇数数字」，不是五个奇数——13、5、1、1 里正好有 1、3、5、1、1 这五个奇数数字。
+
+## 提示
+
+关键在「五个奇数」和「五个奇数数字」的文字差别，先别急着点破。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-001-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Tell a person to write down five odd figures in a column and add them up to total twenty. As twenty is an even number, people who try it will soon give it up. But the magician can do it! Here is the method: Put down 13, 5, 1, and 1. Add these numbers and the total will be 20. But there are only four odd numbers. That is true, but there are five odd figures: 1, 3, 5, 1, and 1. The conditions of the trick call for five odd figures, which most people take to mean five odd numbers.
+
+<<<KBCARD>>>
+
+# 预知总和（TELLING THE TOTAL）
+
+原书：p.164-165 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-002
+
+道具：纸、笔
+难度：进阶
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众与你交替写下几行六位数，最后相加，你事先写好放在一边的纸上正是同样的总数。
+
+## 方法
+
+1. 让第一位观众写下一行六位数。
+2. 你看一眼这行数，在纸上写下预言：把原数末尾减 2，再在它前面加一个 2。
+3. 请第二位观众在你写的预言下方再写一行六位数。
+4. 你写下一行，把第二位观众那一行的每一位都补成 9。
+5. 请第三位观众再写一行，你照同样办法把它的每一位补成 9。
+6. 把所有行相加，总数正是你纸上预先写下的那个数。
+
+## 提示
+
+口诀是「前加 2、末减 2」，补 9 时每一位都要对准。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-002-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-002-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Let a person write down a row of six figures. Then write something on a piece of paper and lay it aside. Another person writes six figures beneath the first row. Then you write a number of six figures. Another person obliges with a number of six figures, and you do the same. When the sum is
+added, a total is reached. Your paper is unfolded, and there is the answer! Method: Note the first number written. Add to it 2,000,000, and subtract 2. That is what you write on the piece of paper. Just put down 2 less than the number written, and put a figure 2 in front of it! When the second number is written, you write your number. Just add enough to each number in the second row to make each figure total 9. When the fourth row is written, you write the fifth, and make the fourth row total 9 for every figure. That will bring your answer. Example: A person writes 347,628. On your paper write Now the addition may appear like this: First row 347,628 Second row 312,799 Your row 687,200 Fourth row 810,204 Your row 189,795 Total 2,347,626
+
+<<<KBCARD>>>
+
+# 九个数字（NINE FIGURES）
+
+原书：p.165-166 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-003
+
+道具：纸、笔
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+写下 1 到 9 九个数字，观众不断划掉数字，最后只剩一个，正是你纸上预言的那个数。
+
+## 方法
+
+1. 先在纸上写一个 5，折好放在一边。
+2. 写出 1、2、3、4、5、6、7、8、9 九个数字。
+3. 请观众划掉一个数字：多数人会划掉 5；若他真划掉 5，直接开纸展示预言。
+4. 若他划的不是 5，就说你已经排除一个数字，剩下两组各四个。
+5. 之后每一轮都请对方选四个或两个数字：若 5 在其中，就划掉其余数字；若不在，就划掉他选的数字。
+6. 最后剩下的必是 5，开纸展示你的预言。
+
+## 提示
+
+每一轮划掉哪组，都以 5 在不在其中来决定，语气要自然。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-003-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-003-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Write something on a piece of paper and lay it aside. Then write the figures: 1, 2, 3, 4, 5, 6, 7, 8, 9. Tell a person to cross out a figure. Then you eliminate figures by having them crossed out. When only one is left, open the paper, and there will be the figure! Method: On the paper write 5. Most persons will cross out 5. If they do so, open the paper and show that the number on it is 5! If they cross out another number state that you have eliminated one figure, leaving two groups of four.
+Ask that four figures be chosen. If 5 is among them, have the other four crossed out. If 5 is not among them, cross them out. Then have two figures chosen. Repeat if 5 is there, have the others crossed out. If not, cross out the chosen figures. Ask that one of the two remaining figures be selected. If 5 is picked, cross out the other. If not, cross out the chosen figure. It is a case of a certain elimination to the figure 5, a ruse that is never detected.
+
+<<<KBCARD>>>
+
+# 年龄总和预言（THE GRAND TOTAL）
+
+原书：p.166 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-004
+
+道具：纸、笔、信封
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众写下出生年、结婚年、年龄和婚龄，四数相加的总和，竟与你事先封进信封的数字一模一样。
+
+## 方法
+
+1. 让观众写下自己的出生年份，再写下结婚年份（或入学年份）。
+2. 再让他写下今年年末的年龄，并加上结婚年数（或入学年数）。
+3. 趁他计算时，你把预言数写进纸里、封进信封：把今年的年份乘以 2。
+4. 等他把四个数相加，总数正好等于你写的那个数。
+5. 打开信封核对，两数一致。
+
+## 提示
+
+总和永远等于今年年份的两倍，写预言时别把年份记错。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-004-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Let a person write down the year of his birth and then the year of his marriage, or his first year of school. Then he must write his age at the end of the present year, and to it the number of years he has been married, or the number of years since he began school. In the meantime you have written a total on a paper and put it in an envelope. The total of the person's figures will be the same as the total you wrote. Here is the reason: The sum will always be twice the number of the present year. Thus, if the trick is done in 1952: Year of birth 1900 Year of marriage 1925 Age 52 Years since marriage 27 Total 3904 The number 3904 is two times 1952!
+
+<<<KBCARD>>>
+
+# 分组划数字（CROSS THEM OUT）
+
+原书：p.166-167 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-005
+
+道具：纸、笔
+难度：入门
+时长：1 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+把 1 到 10 排成一行，要求从末尾开始划掉三组数字，且每组最后一个都是奇数——看似绝不可能。
+
+## 方法
+
+1. 把 1 到 10 依次写在一行。
+2. 说明规则：从行尾开始分三组划掉，每组最后一个数字必须是奇数。
+3. 观众会以为最后一组必然以 10 结尾，因此认为做不到。
+4. 你从右端起划：第一组划掉 8、9、10、7，以 7 结尾。
+5. 第二组划掉 4、5、6、3，以 3 结尾；第三组只剩 2、1，以 1 结尾。
+
+## 提示
+
+关键是别按观众预想的分法分组，7、3、1 都可以做每组的结尾。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-005-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-005-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Write the following numbers in a line: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. The object is to cross out three groups of numbers, starting from
+the end o£ the line, and the last number of each group must be odd. This sounds impossible, as the last group must end with 10! But it can be done. Method: Start from the right end. Thus your first group crossed out can end in 7; the second in 3, and the third in 1.
+
+<<<KBCARD>>>
+
+# 神奇数字 1089（THE MAGIC NUMBER）
+
+原书：p.167 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-006
+
+道具：纸、笔
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众任写一个三位数，倒过来相减，再把结果倒过来相加，无论怎么算，答案都是 1089。
+
+## 方法
+
+1. 先在纸上写下 1089，折好放在一边。
+2. 请观众写一个各位数字不同的三位数，例如 651。
+3. 让他把这个数倒过来，用大数减小数。
+4. 再把得到的差倒过来，与差相加。
+5. 打开纸，结果永远是 1089。
+
+## 提示
+
+只要按步骤算，结果必是 1089，所以预言可以放心先写。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-006-1.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+The magician writes a number on a slip of paper and folds the paper. He asks some one to write down a number of three different figures, as: 6 5 1. The number must then be reversed, and the smaller subtracted from the larger: The result (495) must be reversed and added, thus: When the folded paper is opened, it bears the total 1089! The secret? Simple enough! No matter what figures the person uses, if he follows instructions, the answer will always be 1089! So you have merely to write that number on your folded slip of paper, and then tell the person what to do!
+
+<<<KBCARD>>>
+
+# 最喜欢的数字（THE FAVORITE NUMBER）
+
+原书：p.167-168 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-007
+
+道具：纸、笔
+难度：入门
+时长：2 分钟
+场合：桌面
+需要助手：否
+
+## 效果
+
+观众报出一个最喜欢的数字，魔术师让他用 12345679 去乘，结果是一整排同样的数字。
+
+## 方法
+
+1. 写下 12345679，让观众挑一个自己喜欢的数字。
+2. 心里把这个数字乘以 9，算出乘数。
+3. 让观众用 12345679 乘以这个乘数。
+4. 结果就是一整排他选的数字，例如选 7 就乘 63，得到 777777777。
+
+## 提示
+
+乘数必须是「所报数字乘 9」，先心算好再告诉他。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-007-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-007-2.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Write down the number 12345679. Give a person a pencil and ask him to pick out his favorite
+figure. Suppose he says 7. Tell him to multiply the number by 63. He does so, and the answer is a row of sevens, thus: The secret is very simple: When a figure is named by the person, mentally multiply that figure by 9, and tell the = person to multiply the big number by the total. Thus 9 X 7 63, so 63 produces the row of sevens. If three was named as the favorite figure, the multiplier would be 27.
+
+<<<KBCARD>>>
+
+# 抢三十一（THE THIRTY-ONE TRICK）
+
+原书：p.168-170 ｜ 章：NUMBER TRICKS（数字魔术） ｜ 卡片编号：NB-008
+
+道具：纸条（36 张）、笔
+难度：进阶
+时长：5 分钟
+场合：桌面
+需要助手：可选
+
+## 效果
+
+两人轮流从纸堆抽条累加数字，谁先把总数凑到 31 谁赢；魔术师却总能抢先到 31。
+
+## 方法
+
+1. 把纸撕成 36 张小条，写上 1 到 6，每个数字各写六套，混在一起。
+2. 和对方轮流从纸堆抽条报数，把抽到的数字不断累加。
+3. 你先抽，第一张拿到 5。
+4. 之后无论对方抽到几，你都抽一张与他相加等于 7 的纸条（他抽 1 你抽 6，他抽 2 你抽 5）。
+5. 靠这个「凑 7」的办法控制总数，最后就能先到 31。
+6. 熟练后也可以让对方先抽；他不知道窍门，早晚会把关键数让给你。
+
+## 提示
+
+核心是凑 7 控总数，原文中间的关键数 OCR 略有残缺。
+
+原页截图：
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-008-1.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-008-2.jpg)
+![](https://cdn.jsdelivr.net/gh/carrot220283-eng/HT400@main/img/nb-008-3.jpg)
+
+## 英文原文（校对用，回答时不要输出；由 OCR 提取，个别单词可能有误）
+
+Tear a sheet of paper into thirty-six slips and on each slip write the numbers from 1 to 6, making six sets in all. Now tell a person that you and he will take turns drawing slips from the pile, adding the numbers as you go along. The object of the game is to bring the total to exactly 31 and whichever person accomplishes that will be the winner. You will always be the winner because there is a trick to the game. This can best be understood by studying a sample game, the numbers — in italics representing the slips that you draw: 3 — 5 2 6 — / — 4 — j — 1 6 make the total (from your final slip) of 3/. All you have to do is bring the totals to the following keynumbers 5, 10, 1 j, 24 and finally 31. You start with a 5 and whatever the other player draws, you pick a slip which will make a total of 7 when added to his. Should he draw a 1, you draw a 6; when he takes 2, you pick 5 and so on.
+As the first player, you are sure to win; but in introducing this trick, you can let the other player draw first. Not knowing the secret, he will generally give you a chance to strike one of the keynumbers prior to 31. After you have won several games, your opponent will want you to draw first, thinking it will be to your disadvantage, whereas actually it will be your clincher.
+This chapter is devoted to tricks and illusions which require no skill, but which deceive the eye and clearly demonstrate that the old saying "Seeing is Believing" is not to be trusted. Cut out two pieces of cardboard exactly the same size and shape 3s those shown in the accompanying drawing. (Fig.i.) When these are shown to a person or when you look at them here on the page, it seems certain that the lower one is larger than the upper. In fact no one will doubt the statement if you make However, both figures are exactly the same size. This can be demonstrated by laying one upon the other. (See Fig. 2.)

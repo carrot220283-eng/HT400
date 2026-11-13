@@ -1,0 +1,7470 @@
+[
+ {
+  "id": "BT-001",
+  "title_cn": "浮现的球",
+  "title_en": "THE APPEARING BALL",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   21,
+   22
+  ],
+  "props": [
+   "木球（内嵌小钉）",
+   "一英寸细线",
+   "戒指"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-002",
+  "title_cn": "消失的小球",
+  "title_en": "THE VANISHING BALL",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   22,
+   22
+  ],
+  "props": [
+   "小球（内嵌小钉）",
+   "黑色弹力绳",
+   "马甲口袋"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-003",
+  "title_cn": "缩小的金属球",
+  "title_en": "THE DIMINISHING BALL",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   22,
+   23
+  ],
+  "props": [
+   "镀镍金属球（直径约一英寸）",
+   "纸筒（约三英寸，内壁涂黑）",
+   "微型金属球（可选）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-004",
+  "title_cn": "自己滚动的球",
+  "title_en": "THE SELF-ROLLING BALL",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   23,
+   23
+  ],
+  "props": [
+   "高尔夫球（或木球）",
+   "小戒指",
+   "细线",
+   "桌布"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "宴会",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "BT-005",
+  "title_cn": "空中飞球",
+  "title_en": "THE AERIAL BALL",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   23,
+   23
+  ],
+  "props": [
+   "乒乓球",
+   "黑色细线（结成环）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-006",
+  "title_cn": "叠立的高尔夫球",
+  "title_en": "BALANCED GOLF BALLS",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   23,
+   24
+  ],
+  "props": [
+   "两个高尔夫球",
+   "少量铅膏（或蜡）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-007",
+  "title_cn": "神秘的小球",
+  "title_en": "THE MYSTERIOUS BALL",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   24,
+   24
+  ],
+  "props": [
+   "小球",
+   "手帕",
+   "托儿"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "BT-008",
+  "title_cn": "会拦球的纸筒",
+  "title_en": "THE BALL TUBE",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   24,
+   25
+  ],
+  "props": [
+   "邮寄纸筒",
+   "轻质小球",
+   "黑色细线",
+   "小珠子",
+   "彩色纸条"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-009",
+  "title_cn": "三个纸球",
+  "title_en": "THE THREE PAPER BALLS",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   25,
+   26
+  ],
+  "props": [
+   "小纸球若干",
+   "方糖（可选）",
+   "纸屑团（布置用）"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-010",
+  "title_cn": "纸球与帽子",
+  "title_en": "THE BALLS AND THE HATS",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   26,
+   28
+  ],
+  "props": [
+   "纸球四颗（高尔夫球大小）",
+   "帽子两顶",
+   "大纸球（可选）"
+  ],
+  "difficulty": "进阶",
+  "duration": "4 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-011",
+  "title_cn": "漂浮的纸球",
+  "title_en": "THE FLOATING PAPER BALL",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   28,
+   28
+  ],
+  "props": [
+   "纸球",
+   "黑色丝线"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-012",
+  "title_cn": "红白蓝三色球",
+  "title_en": "RED, WHITE AND BLUE",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   28,
+   29
+  ],
+  "props": [
+   "纸球九个（红白蓝各三）",
+   "帽子三顶"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-013",
+  "title_cn": "倍增的纸球",
+  "title_en": "MULTIPLYING PAPER BALLS",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   29,
+   30
+  ],
+  "props": [
+   "纸球三颗"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "BT-014",
+  "title_cn": "三颗弹珠的魔术",
+  "title_en": "THE THREE MARBLE TRICK",
+  "chapter": "BALL TRICKS",
+  "chapter_cn": "球类魔术",
+  "pages": [
+   30,
+   31
+  ],
+  "props": [
+   "弹珠四颗"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-001",
+  "title_cn": "单向牌堆",
+  "title_en": "THE \"ONE-WAY\" PACK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   31,
+   32
+  ],
+  "props": [
+   "单向牌背的纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-002",
+  "title_cn": "铅笔标记牌堆",
+  "title_en": "THE PENCIL-MARK PACK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   32,
+   32
+  ],
+  "props": [
+   "普通纸牌一副",
+   "铅笔"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-003",
+  "title_cn": "有朝向的牌",
+  "title_en": "POINTED CARDS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   32,
+   33
+  ],
+  "props": [
+   "有明确朝向的牌若干（黑桃 7、红心 9、黑桃 A、红心 A、梅花 A、方块 7 等）",
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-004",
+  "title_cn": "双张底牌",
+  "title_en": "THE DOUBLE CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   33,
+   33
+  ],
+  "props": [
+   "带白边的纸牌一副",
+   "备用牌一张",
+   "胶水"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-005",
+  "title_cn": "短牌",
+  "title_en": "THE SHORT CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   33,
+   34
+  ],
+  "props": [
+   "短牌一张（一端剪掉约 1/16 英寸）",
+   "小剪刀（折叠款最好）"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-006",
+  "title_cn": "折角的牌",
+  "title_en": "THE BENT CORNER",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   34,
+   34
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-007",
+  "title_cn": "假洗牌",
+  "title_en": "FALSE SHUFFLING",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   34,
+   35
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-008",
+  "title_cn": "切到选牌",
+  "title_en": "CUT TO THE CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   35,
+   36
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-009",
+  "title_cn": "拼字魔术",
+  "title_en": "THE SPELLING TRICK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   36,
+   37
+  ],
+  "props": [
+   "纸牌一副（不用小丑）"
+  ],
+  "difficulty": "进阶",
+  "duration": "4 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-010",
+  "title_cn": "聪明的皇后",
+  "title_en": "THE WISE QUEEN",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   37,
+   38
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-011",
+  "title_cn": "找出选牌",
+  "title_en": "FINDING A CHOSEN CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   38,
+   39
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-012",
+  "title_cn": "透视牌盒",
+  "title_en": "THE X-RAY CARD CASE",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   39,
+   39
+  ],
+  "props": [
+   "带小孔的牌盒",
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-013",
+  "title_cn": "变色牌堆",
+  "title_en": "THE COLOR-CHANGING PACK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   39,
+   40
+  ],
+  "props": [
+   "红黑两色的纸牌一副",
+   "小丑牌一张"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-014",
+  "title_cn": "变色的牌",
+  "title_en": "THE COLOR-CHANGING CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   40,
+   41
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-015",
+  "title_cn": "三张 J",
+  "title_en": "THE THREE JACKS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   41,
+   41
+  ],
+  "props": [
+   "纸牌一副（顶牌预置为三张 J、一张杂牌、第四张 J）"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-016",
+  "title_cn": "任意位置的牌",
+  "title_en": "CARD AT ANY NUMBER",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   41,
+   42
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-017",
+  "title_cn": "口袋里的牌",
+  "title_en": "THE CARD IN THE POCKET",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   42,
+   43
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-018",
+  "title_cn": "翻面的牌",
+  "title_en": "THE TURN-UP CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   43,
+   43
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-019",
+  "title_cn": "三个窃贼",
+  "title_en": "THE BURGLARS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   43,
+   44
+  ],
+  "props": [
+   "J 三张",
+   "K 四张",
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-020",
+  "title_cn": "国王与皇后",
+  "title_en": "KINGS AND QUEENS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   44,
+   45
+  ],
+  "props": [
+   "K 四张",
+   "Q 四张"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-021",
+  "title_cn": "读心术",
+  "title_en": "MENTAL TELEPATHY",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   45,
+   46
+  ],
+  "props": [
+   "纸牌三张",
+   "杂牌两张（藏于口袋）",
+   "裤子口袋"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-022",
+  "title_cn": "长途读心",
+  "title_en": "LONG DISTANCE TELEPATHY",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   46,
+   47
+  ],
+  "props": [
+   "写有姓名表的卡片",
+   "电话",
+   "纸牌一副",
+   "外地配合者"
+  ],
+  "difficulty": "进阶",
+  "duration": "5 分钟",
+  "setting": "宴会",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "CT-023",
+  "title_cn": "磁性的牌",
+  "title_en": "MAGNETIC CARDS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   47,
+   49
+  ],
+  "props": [
+   "纸牌若干",
+   "细头发、活门牌、别针或铅膏（任选其一）"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-024",
+  "title_cn": "消失的牌",
+  "title_en": "THE VANISHING CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   49,
+   49
+  ],
+  "props": [
+   "透明赛璐珞牌一张",
+   "手帕",
+   "玻璃杯",
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-025",
+  "title_cn": "自动上升的牌",
+  "title_en": "THE AUTOMATIC RISING CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   49,
+   50
+  ],
+  "props": [
+   "纸牌一张",
+   "锥形玻璃杯",
+   "干肥皂"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-026",
+  "title_cn": "手背上的牌",
+  "title_en": "THE CARD ON THE HAND",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   50,
+   50
+  ],
+  "props": [
+   "纸牌一副",
+   "少量铅膏"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-027",
+  "title_cn": "通灵牌",
+  "title_en": "THE SPIRIT CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   50,
+   51
+  ],
+  "props": [
+   "双层信封",
+   "微型牌（方块 4 的小图）",
+   "空白小卡",
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-028",
+  "title_cn": "口袋里的 A",
+  "title_en": "THE ACES FROM THE POCKET",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   51,
+   52
+  ],
+  "props": [
+   "纸牌一副",
+   "外套内袋",
+   "马甲口袋"
+  ],
+  "difficulty": "入门",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-029",
+  "title_cn": "翻面的选牌",
+  "title_en": "THE REVERSING CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   52,
+   53
+  ],
+  "props": [
+   "带白边的纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-030",
+  "title_cn": "旅行的 A",
+  "title_en": "THE TRAVELING ACE",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   53,
+   53
+  ],
+  "props": [
+   "纸牌一副",
+   "梅花 A 与梅花 3"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-031",
+  "title_cn": "马耳他十字",
+  "title_en": "MALTESE CROSSES",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   53,
+   54
+  ],
+  "props": [
+   "纸牌八张（含小丑）"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-032",
+  "title_cn": "神秘的巧合",
+  "title_en": "A MYSTERIOUS COINCIDENCE",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   54,
+   55
+  ],
+  "props": [
+   "纸牌一副",
+   "纸条",
+   "笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-033",
+  "title_cn": "穿过盘子的牌",
+  "title_en": "A CARD THROUGH THE PLATE",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   55,
+   55
+  ],
+  "props": [
+   "纸牌一副",
+   "盘子",
+   "帽子",
+   "一点肥皂"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-034",
+  "title_cn": "简单的四 A 魔术",
+  "title_en": "AN EASY FOUR ACE TRICK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   55,
+   57
+  ],
+  "props": [
+   "四张 A",
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "4 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-035",
+  "title_cn": "木桨魔术",
+  "title_en": "THE PADDLE TRICK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   57,
+   58
+  ],
+  "props": [
+   "芥末木桨",
+   "纸牌一副",
+   "微型牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-036",
+  "title_cn": "神秘的纸牌魔术",
+  "title_en": "A MYSTERIOUS CARD TRICK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   58,
+   59
+  ],
+  "props": [
+   "方块 A、梅花 2、红心 3、黑桃 7",
+   "裤子口袋",
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-037",
+  "title_cn": "牌与硬币",
+  "title_en": "CARD AND COIN TRICK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   59,
+   59
+  ],
+  "props": [
+   "纸牌一张",
+   "硬币一枚"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-038",
+  "title_cn": "神秘的小丑",
+  "title_en": "THE MYSTERIOUS JOKER",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   59,
+   60
+  ],
+  "props": [
+   "蓝背牌一副",
+   "红背小丑一张（剪短）",
+   "剪刀"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-039",
+  "title_cn": "脚下的变色牌",
+  "title_en": "CARD CHANGING UNDER FOOT",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   60,
+   60
+  ],
+  "props": [
+   "红心 A",
+   "黑桃 A",
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-040",
+  "title_cn": "重聚的国王与皇后",
+  "title_en": "UNITED KINGS AND QUEENS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   60,
+   61
+  ],
+  "props": [
+   "四张 K",
+   "四张 Q",
+   "纸牌一副"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-041",
+  "title_cn": "纸牌圆环",
+  "title_en": "THE CIRCLE OF CARDS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   61,
+   62
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-042",
+  "title_cn": "玫瑰花饰",
+  "title_en": "THE ROSETTE",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   62,
+   62
+  ],
+  "props": [
+   "纸牌一副"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-043",
+  "title_cn": "同花色标记找牌",
+  "title_en": "THE CARD FINDER",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   62,
+   62
+  ],
+  "props": [
+   "一副扑克牌"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-044",
+  "title_cn": "牌盒里升起的牌",
+  "title_en": "RISING CARD FROM CASE",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   62,
+   63
+  ],
+  "props": [
+   "一副扑克牌",
+   "牌盒"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-045",
+  "title_cn": "背身记牌与切牌",
+  "title_en": "REVEALING THE CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   63,
+   64
+  ],
+  "props": [
+   "一副扑克牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-046",
+  "title_cn": "奇偶互换的预言",
+  "title_en": "TWO PACKETS",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   64,
+   64
+  ],
+  "props": [
+   "一副扑克牌"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-047",
+  "title_cn": "红黑自动分牌",
+  "title_en": "RED AND BLACK",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   64,
+   64
+  ],
+  "props": [
+   "两副背纹相同的牌（一副光面、一副压纹）"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-048",
+  "title_cn": "不翼而飞的红心六",
+  "title_en": "THE ELUSIVE CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   64,
+   66
+  ],
+  "props": [
+   "两副牌（蓝背、红背各一副）",
+   "红心 6（真牌，放口袋）",
+   "方块 9 与红心 8 备用牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-049",
+  "title_cn": "纸牌变香烟包",
+  "title_en": "CARDS TO CIGARETTES",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   66,
+   66
+  ],
+  "props": [
+   "扑克牌",
+   "一包 20 支纸包香烟",
+   "胶水"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-050",
+  "title_cn": "二次数牌迫选",
+  "title_en": "FORCING A CARD",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   66,
+   67
+  ],
+  "props": [
+   "一副扑克牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "CT-051",
+  "title_cn": "金表里的牌影",
+  "title_en": "THE CARD IN THE WATCH",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   67,
+   67
+  ],
+  "props": [
+   "双底盖金表",
+   "一张一英寸高的小牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CT-052",
+  "title_cn": "裤袋里的两张牌",
+  "title_en": "A SURPRISE",
+  "chapter": "CARD TRICKS",
+  "chapter_cn": "纸牌魔术",
+  "pages": [
+   67,
+   69
+  ],
+  "props": [
+   "一副扑克牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-001",
+  "title_cn": "弹出一枚黑棋子",
+  "title_en": "THE MAGIC KNOCK-OUT",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   69,
+   70
+  ],
+  "props": [
+   "十枚跳棋（九红一黑）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-002",
+  "title_cn": "三枚棋子换位",
+  "title_en": "THREE IN A ROW",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   70,
+   70
+  ],
+  "props": [
+   "三枚跳棋（两红一黑）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-003",
+  "title_cn": "十子叠成五叠",
+  "title_en": "MAKING KINGS",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   70,
+   71
+  ],
+  "props": [
+   "十枚跳棋"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-004",
+  "title_cn": "神秘的数字九",
+  "title_en": "THE MYSTIC NINE",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   71,
+   72
+  ],
+  "props": [
+   "至少十二枚跳棋"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-005",
+  "title_cn": "吸在木门上的棋子",
+  "title_en": "THE MAGNETIC CHECKER",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   72,
+   72
+  ],
+  "props": [
+   "一枚表面光滑的跳棋"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-006",
+  "title_cn": "变色的黑棋子",
+  "title_en": "THE COLOR CHANGING CHECKER",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   72,
+   72
+  ],
+  "props": [
+   "七枚跳棋（全红）",
+   "一圈黑色纸条",
+   "纸筒"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-007",
+  "title_cn": "八子四次归位",
+  "title_en": "MOVING THE CHECKERS",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   72,
+   73
+  ],
+  "props": [
+   "八枚跳棋（红黑相间）",
+   "两个空位"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-008",
+  "title_cn": "十一还是十二",
+  "title_en": "ELEVEN OR TWELVE?",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   73,
+   73
+  ],
+  "props": [
+   "三枚跳棋"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-009",
+  "title_cn": "九还是十",
+  "title_en": "NINE OR TEN?",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   73,
+   74
+  ],
+  "props": [
+   "三枚跳棋"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-010",
+  "title_cn": "红黑左右换位",
+  "title_en": "RIGHT AND LEFT",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   74,
+   75
+  ],
+  "props": [
+   "一张画七个方格的纸",
+   "三枚黑棋",
+   "三枚红棋"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-011",
+  "title_cn": "数丢的第十二枚",
+  "title_en": "THE VANISHING CHECKER",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   75,
+   75
+  ],
+  "props": [
+   "十二枚跳棋"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-012",
+  "title_cn": "棋盘上的八枚棋",
+  "title_en": "A TRICK WITH A CHECKER-BOARD",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   75,
+   76
+  ],
+  "props": [
+   "八枚跳棋",
+   "一张棋盘"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-013",
+  "title_cn": "从帽中摸出黑棋",
+  "title_en": "PICKING OUT THE BLACK",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   76,
+   76
+  ],
+  "props": [
+   "一顶帽子",
+   "一把红棋",
+   "两枚黑棋"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CK-014",
+  "title_cn": "两叠棋子换位",
+  "title_en": "CHANGING CHECKERS",
+  "chapter": "CHECKER TRICKS",
+  "chapter_cn": "跳棋魔术",
+  "pages": [
+   76,
+   78
+  ],
+  "props": [
+   "一叠红棋",
+   "一叠黑棋",
+   "两张纸卷成的圆筒",
+   "两枚一面异色的特制棋子"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-001",
+  "title_cn": "雪茄烟标消失",
+  "title_en": "DISAPPEARING CIGAR BAND",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   78,
+   78
+  ],
+  "props": [
+   "一枚雪茄烟标（剪半）",
+   "一支雪茄",
+   "胶水"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-002",
+  "title_cn": "立在帽顶的雪茄",
+  "title_en": "CIGAR BALANCED ON HAT",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   78,
+   78
+  ],
+  "props": [
+   "一支雪茄",
+   "一顶圆顶礼帽",
+   "一根大头针"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-003",
+  "title_cn": "帽上旋转的雪茄",
+  "title_en": "THE REVOLVING CIGAR",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   78,
+   79
+  ],
+  "props": [
+   "一支雪茄",
+   "一顶礼帽",
+   "一根短针"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-004",
+  "title_cn": "掉头的香烟",
+  "title_en": "THE REVERSING CIGARETTE",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   79,
+   79
+  ],
+  "props": [
+   "一支带软木烟嘴的香烟",
+   "一支更细的香烟"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-005",
+  "title_cn": "粘在指尖的雪茄",
+  "title_en": "THE MAGNETIC CIGAR",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   79,
+   79
+  ],
+  "props": [
+   "一支雪茄",
+   "一根小针"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-006",
+  "title_cn": "看不见的香烟",
+  "title_en": "THE INVISIBLE CIGARETTE",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   79,
+   80
+  ],
+  "props": [
+   "一盒火柴",
+   "一支香烟"
+  ],
+  "difficulty": "高手",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-007",
+  "title_cn": "自动升起的香烟",
+  "title_en": "THE AUTOMATIC CIGARETTE",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   80,
+   81
+  ],
+  "props": [
+   "一包香烟（不装满）"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-008",
+  "title_cn": "拉长的香烟",
+  "title_en": "STRETCHING A CIGARETTE",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   81,
+   82
+  ],
+  "props": [
+   "一支长支香烟",
+   "一支同品牌普通香烟"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-009",
+  "title_cn": "被吸下来的香烟",
+  "title_en": "THE TIPPY CIGARETTE",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   82,
+   82
+  ],
+  "props": [
+   "两支香烟"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-010",
+  "title_cn": "手心掐灭香烟",
+  "title_en": "THE CIGARETTE IN THE HAND",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   82,
+   82
+  ],
+  "props": [
+   "一支香烟",
+   "一枚 thimble（拇指套）"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CG-011",
+  "title_cn": "空烟盒里出香烟",
+  "title_en": "CIGARETTES IN THE CASE",
+  "chapter": "CIGAR AND CIGARETTE TRICKS",
+  "chapter_cn": "雪茄与香烟魔术",
+  "pages": [
+   82,
+   83
+  ],
+  "props": [
+   "一只香烟盒",
+   "两支香烟"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-001",
+  "title_cn": "火柴盒里的硬币消失",
+  "title_en": "MATCH BOX COIN VANISH",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   83,
+   83
+  ],
+  "props": [
+   "一枚硬币",
+   "一只火柴盒"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-002",
+  "title_cn": "羊毛球里的硬币",
+  "title_en": "COIN IN BALL OF WOOL",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   83,
+   84
+  ],
+  "props": [
+   "一枚做过记号的硬币",
+   "一团羊毛球",
+   "一个能让硬币滑过的硬筒"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-003",
+  "title_cn": "戒指盖走硬币",
+  "title_en": "RING AND VANISHING COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   84,
+   84
+  ],
+  "props": [
+   "直径约一英寸半的戒指",
+   "一张纸",
+   "一块方形硬纸板"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-004",
+  "title_cn": "懂行人也看不出",
+  "title_en": "THE \"WISENHEIMER\" COIN TRICK",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   84,
+   85
+  ],
+  "props": [
+   "戒指",
+   "一块方形硬纸板",
+   "一小块木头",
+   "一条与纸板同宽的硬纸板",
+   "蜡或铅膏"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-005",
+  "title_cn": "三枚变六枚",
+  "title_en": "THREE APPEARING COINS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   85,
+   85
+  ],
+  "props": [
+   "六枚硬币"
+  ],
+  "difficulty": "高手",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-006",
+  "title_cn": "弹回袖里的硬币",
+  "title_en": "THE FADE-AWAY COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   85,
+   86
+  ],
+  "props": [
+   "半美元硬币",
+   "带孔金属圆片",
+   "蜡或铅膏",
+   "松紧绳",
+   "安全别针"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-007",
+  "title_cn": "旋空消失的硬币",
+  "title_en": "THE WHIRL-AWAY COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   86,
+   86
+  ],
+  "props": [
+   "一枚硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-008",
+  "title_cn": "掌心换硬币",
+  "title_en": "THE CHANGING COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   86,
+   87
+  ],
+  "props": [
+   "一枚二角五分硬币",
+   "一枚五分镍币"
+  ],
+  "difficulty": "高手",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "CN-009",
+  "title_cn": "三枚变四枚",
+  "title_en": "THE MULTIPLYING COINS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   87,
+   87
+  ],
+  "props": [
+   "三枚铜币",
+   "一枚暗藏的铜币",
+   "一点肥皂"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-010",
+  "title_cn": "奇偶猜数",
+  "title_en": "ODD AND EVEN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   87,
+   87
+  ],
+  "props": [
+   "若干硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-011",
+  "title_cn": "吸在门上的硬币",
+  "title_en": "THE COIN ON THE DOOR",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   87,
+   88
+  ],
+  "props": [
+   "一枚二角五分或半美元硬币",
+   "一枚普通硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-012",
+  "title_cn": "硬币盒穿手",
+  "title_en": "A COIN BOX",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   88,
+   89
+  ],
+  "props": [
+   "圆柱形小盒",
+   "六枚同尺寸硬币",
+   "一张圆纸片"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-013",
+  "title_cn": "连抓三枚硬币",
+  "title_en": "CATCHING THREE COINS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   89,
+   90
+  ],
+  "props": [
+   "三枚硬币"
+  ],
+  "difficulty": "高手",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-014",
+  "title_cn": "掌间消失的硬币",
+  "title_en": "COIN VANISHES FROM HANDS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   90,
+   90
+  ],
+  "props": [
+   "一枚硬币",
+   "一点软肥皂"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-015",
+  "title_cn": "八枚硬币正反归类",
+  "title_en": "HEADS AND TAILS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   90,
+   90
+  ],
+  "props": [
+   "八枚硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-016",
+  "title_cn": "做记号的硬币",
+  "title_en": "THE MARKED COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   90,
+   91
+  ],
+  "props": [
+   "一枚硬币",
+   "一支铅笔",
+   "一顶帽子",
+   "若干同值硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-017",
+  "title_cn": "硬币穿过卡片",
+  "title_en": "COIN, CARDS, AND RINGS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   91,
+   91
+  ],
+  "props": [
+   "一枚硬币",
+   "两张扑克牌",
+   "两个金属圆环",
+   "一根头发",
+   "一点铅膏"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-018",
+  "title_cn": "硬币穿过桌子",
+  "title_en": "COIN THROUGH THE TABLE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   91,
+   92
+  ],
+  "props": [
+   "四枚硬币",
+   "一点肥皂",
+   "一块手帕或餐巾"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-019",
+  "title_cn": "正反由你定",
+  "title_en": "HEADS OR TAILS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   92,
+   92
+  ],
+  "props": [
+   "一枚硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-020",
+  "title_cn": "手帕结里的硬币",
+  "title_en": "THE COIN IN THE KNOT",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   92,
+   94
+  ],
+  "props": [
+   "一枚硬币（复制币）",
+   "一块手帕",
+   "一根粗橡皮筋"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-021",
+  "title_cn": "硬币穿杯入盘",
+  "title_en": "COIN, GLASS, AND PLATE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   94,
+   94
+  ],
+  "props": [
+   "半美元硬币",
+   "一枚暗藏的硬币",
+   "玻璃杯",
+   "盘子",
+   "纸筒",
+   "铅笔",
+   "一张纸（做隔层）"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-022",
+  "title_cn": "敲桌骗币",
+  "title_en": "A COIN JOKE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   94,
+   95
+  ],
+  "props": [
+   "硬币",
+   "木桌（或窗台）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-023",
+  "title_cn": "硬币瞬间消失",
+  "title_en": "A QUICK COIN VANISH",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   95,
+   95
+  ],
+  "props": [
+   "借来的硬币",
+   "带钩金属夹（文具店可购）"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-024",
+  "title_cn": "会说话的硬币",
+  "title_en": "THE TALKING COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   95,
+   95
+  ],
+  "props": [
+   "硬币",
+   "玻璃杯",
+   "一根黑色细丝线",
+   "一小块粘膏"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-025",
+  "title_cn": "盒中币失踪",
+  "title_en": "BOX AND COIN TRICK",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   95,
+   96
+  ],
+  "props": [
+   "硬币",
+   "圆筒纸盒（直径与硬币相仿、稍深）",
+   "与盒内同色的纸"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-026",
+  "title_cn": "硬币穿过衣袖",
+  "title_en": "THE COIN THROUGH THE SLEEVE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   96,
+   96
+  ],
+  "props": [
+   "两枚相同的硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-027",
+  "title_cn": "肘上消币",
+  "title_en": "THE COIN AT THE ELBOW",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   96,
+   97
+  ],
+  "props": [
+   "硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-028",
+  "title_cn": "手帕出币",
+  "title_en": "AN APPEARING COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   97,
+   97
+  ],
+  "props": [
+   "宽边手帕",
+   "一角硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-029",
+  "title_cn": "额上立币",
+  "title_en": "A BALANCED COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   97,
+   97
+  ],
+  "props": [
+   "硬币",
+   "一点蜡或肥皂",
+   "一根头发"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-030",
+  "title_cn": "额上粘币",
+  "title_en": "THE COIN ON THE FOREHEAD",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   97,
+   97
+  ],
+  "props": [
+   "硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-031",
+  "title_cn": "硬币弹跳",
+  "title_en": "THE BOUNCING COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   97,
+   98
+  ],
+  "props": [
+   "硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-032",
+  "title_cn": "听命的硬币",
+  "title_en": "AN OBEDIENT COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   98,
+   98
+  ],
+  "props": [
+   "玻璃杯",
+   "两枚半美元硬币",
+   "一角硬币",
+   "桌布"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-033",
+  "title_cn": "足下游币",
+  "title_en": "TRAVELING COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   98,
+   98
+  ],
+  "props": [
+   "两枚相同的硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-034",
+  "title_cn": "针尖提币",
+  "title_en": "COIN AND PINS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   98,
+   99
+  ],
+  "props": [
+   "滚齿边硬币",
+   "两根大头针"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-035",
+  "title_cn": "肘上落币",
+  "title_en": "COINS FROM ELBOW",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   99,
+   99
+  ],
+  "props": [
+   "一摞硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-036",
+  "title_cn": "接币落空",
+  "title_en": "A COIN DISAPPEARANCE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   99,
+   100
+  ],
+  "props": [
+   "硬币",
+   "外套（袖口可翻折）"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-037",
+  "title_cn": "五币相触",
+  "title_en": "FIVE COIN PROBLEM",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   100,
+   100
+  ],
+  "props": [
+   "五枚便士硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-038",
+  "title_cn": "吹气取币",
+  "title_en": "COIN FROM GLASS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   100,
+   101
+  ],
+  "props": [
+   "高脚酒杯（杯口收窄）",
+   "一角硬币",
+   "半美元硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-039",
+  "title_cn": "三币比距",
+  "title_en": "A COIN CATCH",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   101,
+   101
+  ],
+  "props": [
+   "三枚硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-040",
+  "title_cn": "腕上钱响",
+  "title_en": "VANISHING MONEY",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   101,
+   102
+  ],
+  "props": [
+   "几枚硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-041",
+  "title_cn": "杯下失币",
+  "title_en": "COIN AND TUMBLER",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   102,
+   102
+  ],
+  "props": [
+   "硬币",
+   "平底杯",
+   "与桌布同色的白纸"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-042",
+  "title_cn": "硬币穿桌",
+  "title_en": "COIN THROUGH TABLE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   102,
+   102
+  ],
+  "props": [
+   "硬币",
+   "两枚硬币（一明一暗）",
+   "玻璃杯",
+   "一点软肥皂或蜡"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-043",
+  "title_cn": "火中取币",
+  "title_en": "COIN FROM CANDLE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   102,
+   103
+  ],
+  "props": [
+   "蜡烛",
+   "一角硬币（或便士）",
+   "火柴"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-044",
+  "title_cn": "合掌夺币",
+  "title_en": "SNATCHING THE COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   103,
+   103
+  ],
+  "props": [
+   "硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-045",
+  "title_cn": "指间藏币",
+  "title_en": "A QUICK COIN VANISH",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   103,
+   104
+  ],
+  "props": [
+   "一角硬币（或便士）"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-046",
+  "title_cn": "吹纸贴币",
+  "title_en": "COIN, TUBE AND PAPER",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   104,
+   105
+  ],
+  "props": [
+   "硬币",
+   "小纸片",
+   "纸筒"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-047",
+  "title_cn": "纸与币同落",
+  "title_en": "THE PAPER AND THE COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   105,
+   105
+  ],
+  "props": [
+   "半美元硬币",
+   "小纸片（比硬币小）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-048",
+  "title_cn": "隔纸读年",
+  "title_en": "GUESSING THE DATE",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   105,
+   105
+  ],
+  "props": [
+   "硬币",
+   "纸片",
+   "铅笔"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-049",
+  "title_cn": "抛出必正",
+  "title_en": "HEADS UP!",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   105,
+   106
+  ],
+  "props": [
+   "半美元硬币",
+   "一角硬币",
+   "一点蜡或双面胶"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-050",
+  "title_cn": "硬币穿帕",
+  "title_en": "COIN THROUGH HANDKERCHIEF",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   106,
+   106
+  ],
+  "props": [
+   "两条手帕",
+   "硬币",
+   "细铁丝圈"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-051",
+  "title_cn": "飞钉上天花板",
+  "title_en": "TACK IN THE CEILING",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   106,
+   107
+  ],
+  "props": [
+   "图钉",
+   "半美元硬币",
+   "薄棉纸"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-052",
+  "title_cn": "硬币穿盘",
+  "title_en": "COINS, PLATE AND GLASS",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   107,
+   108
+  ],
+  "props": [
+   "几枚硬币（含一枚 25 美分）",
+   "盘子",
+   "玻璃杯",
+   "一枚暗藏的 25 美分",
+   "一点肥皂或蜡"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-053",
+  "title_cn": "杯底读币",
+  "title_en": "THE HIDDEN COIN",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   108,
+   108
+  ],
+  "props": [
+   "杯子（杯柄可转动）",
+   "各种面额的硬币",
+   "一名暗桩"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "CN-054",
+  "title_cn": "腕上翻币",
+  "title_en": "COIN ON THE WRIST",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   108,
+   109
+  ],
+  "props": [
+   "一角硬币"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-055",
+  "title_cn": "奇偶必错",
+  "title_en": "ODD OR EVEN?",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   109,
+   109
+  ],
+  "props": [
+   "一角硬币",
+   "五分硬币",
+   "五枚一分硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CN-056",
+  "title_cn": "四币归一处",
+  "title_en": "THE FOUR COIN TRICK",
+  "chapter": "COIN TRICKS",
+  "chapter_cn": "硬币魔术",
+  "pages": [
+   109,
+   111
+  ],
+  "props": [
+   "四枚相同的硬币",
+   "两张扑克牌"
+  ],
+  "difficulty": "高手",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CO-001",
+  "title_cn": "弹跳立塞",
+  "title_en": "THE BOUNCING CORK",
+  "chapter": "CORK TRICKS",
+  "chapter_cn": "软木塞魔术",
+  "pages": [
+   111,
+   111
+  ],
+  "props": [
+   "大软木塞"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CO-002",
+  "title_cn": "竖立浮塞",
+  "title_en": "UPRIGHT CORKS",
+  "chapter": "CORK TRICKS",
+  "chapter_cn": "软木塞魔术",
+  "pages": [
+   111,
+   111
+  ],
+  "props": [
+   "几枚软木塞",
+   "一碗水"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CO-003",
+  "title_cn": "双塞巧解",
+  "title_en": "TWO CORKS",
+  "chapter": "CORK TRICKS",
+  "chapter_cn": "软木塞魔术",
+  "pages": [
+   111,
+   112
+  ],
+  "props": [
+   "两个大软木塞"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "CO-004",
+  "title_cn": "吹塞入瓶",
+  "title_en": "CORK AND BOTTLE",
+  "chapter": "CORK TRICKS",
+  "chapter_cn": "软木塞魔术",
+  "pages": [
+   112,
+   113
+  ],
+  "props": [
+   "小软木塞",
+   "大瓶口瓶子"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "DD-001",
+  "title_cn": "磁力骰子",
+  "title_en": "THE MAGNETIC DICE",
+  "chapter": "DICE AND DOMINO TRICKS",
+  "chapter_cn": "骰子与多米诺魔术",
+  "pages": [
+   113,
+   113
+  ],
+  "props": [
+   "两枚骰子",
+   "一点水"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "DD-002",
+  "title_cn": "报出总点数",
+  "title_en": "NAMING THE TOTAL",
+  "chapter": "DICE AND DOMINO TRICKS",
+  "chapter_cn": "骰子与多米诺魔术",
+  "pages": [
+   113,
+   114
+  ],
+  "props": [
+   "两枚骰子"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "DD-003",
+  "title_cn": "预言两端",
+  "title_en": "THE END NUMBERS",
+  "chapter": "DICE AND DOMINO TRICKS",
+  "chapter_cn": "骰子与多米诺魔术",
+  "pages": [
+   114,
+   114
+  ],
+  "props": [
+   "一副多米诺骨牌",
+   "纸笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "DD-004",
+  "title_cn": "排不完的局",
+  "title_en": "THE INCOMPLETE GAME",
+  "chapter": "DICE AND DOMINO TRICKS",
+  "chapter_cn": "骰子与多米诺魔术",
+  "pages": [
+   114,
+   114
+  ],
+  "props": [
+   "一副多米诺骨牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "5 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "DD-005",
+  "title_cn": "十六牌读数",
+  "title_en": "SIXTEEN DOMINOES",
+  "chapter": "DICE AND DOMINO TRICKS",
+  "chapter_cn": "骰子与多米诺魔术",
+  "pages": [
+   114,
+   115
+  ],
+  "props": [
+   "十六张多米诺骨牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "DD-006",
+  "title_cn": "隔杯报点",
+  "title_en": "TOTALLING THREE DICE",
+  "chapter": "DICE AND DOMINO TRICKS",
+  "chapter_cn": "骰子与多米诺魔术",
+  "pages": [
+   115,
+   115
+  ],
+  "props": [
+   "三枚骰子",
+   "一个平底杯"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "DD-007",
+  "title_cn": "骰盅吸骰",
+  "title_en": "DICE IN CUP",
+  "chapter": "DICE AND DOMINO TRICKS",
+  "chapter_cn": "骰子与多米诺魔术",
+  "pages": [
+   115,
+   117
+  ],
+  "props": [
+   "两枚骰子",
+   "骰盅或纸杯",
+   "一根木火柴"
+  ],
+  "difficulty": "高手",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "EG-001",
+  "title_cn": "竖立鸡蛋",
+  "title_en": "THE BALANCED EGG",
+  "chapter": "EGG TRICKS",
+  "chapter_cn": "鸡蛋魔术",
+  "pages": [
+   117,
+   117
+  ],
+  "props": [
+   "鸡蛋",
+   "盐",
+   "小戒指和一段线"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "EG-002",
+  "title_cn": "旋转鸡蛋",
+  "title_en": "SPINNING AN EGG",
+  "chapter": "EGG TRICKS",
+  "chapter_cn": "鸡蛋魔术",
+  "pages": [
+   117,
+   118
+  ],
+  "props": [
+   "两三个鸡蛋",
+   "一个煮熟的鸡蛋"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "EG-003",
+  "title_cn": "悬空浮蛋",
+  "title_en": "THE FLOATING EGG",
+  "chapter": "EGG TRICKS",
+  "chapter_cn": "鸡蛋魔术",
+  "pages": [
+   118,
+   118
+  ],
+  "props": [
+   "一枚鸡蛋",
+   "一个水壶",
+   "盐"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "EG-004",
+  "title_cn": "抽杯落蛋",
+  "title_en": "EGGS, SPOOLS, AND GLASSES",
+  "chapter": "EGG TRICKS",
+  "chapter_cn": "鸡蛋魔术",
+  "pages": [
+   118,
+   119
+  ],
+  "props": [
+   "三个玻璃杯",
+   "一块薄木板",
+   "三个线轴",
+   "三枚鸡蛋"
+  ],
+  "difficulty": "高手",
+  "duration": "5 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "EG-005",
+  "title_cn": "鸡蛋变纸屑",
+  "title_en": "EGG TO CONFETTI",
+  "chapter": "EGG TRICKS",
+  "chapter_cn": "鸡蛋魔术",
+  "pages": [
+   119,
+   120
+  ],
+  "props": [
+   "一枚鸡蛋",
+   "彩色纸屑",
+   "一个小盒"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-001",
+  "title_cn": "木乃伊手指",
+  "title_en": "THE MUMMIFIED FINGER",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   120,
+   121
+  ],
+  "props": [
+   "小纸盒",
+   "棉花",
+   "滑石粉或粉笔灰"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-002",
+  "title_cn": "拉长的手指",
+  "title_en": "THE EXTENDED FINGER",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   121,
+   122
+  ],
+  "props": [
+   "双手"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-003",
+  "title_cn": "取下拇指",
+  "title_en": "THE REMOVABLE THUMB",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   122,
+   123
+  ],
+  "props": [
+   "双手"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-004",
+  "title_cn": "可拆下的手指",
+  "title_en": "THE DETACHABLE FINGER",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   123,
+   123
+  ],
+  "props": [
+   "双手"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-005",
+  "title_cn": "拉长拇指",
+  "title_en": "STRETCHING THE THUMB",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   123,
+   124
+  ],
+  "props": [
+   "双手"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-006",
+  "title_cn": "十一根手指",
+  "title_en": "ELEVEN FINGERS",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   124,
+   125
+  ],
+  "props": [
+   "双手"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-007",
+  "title_cn": "柔软的手",
+  "title_en": "FLEXIBLE HANDS",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   125,
+   125
+  ],
+  "props": [
+   "双手"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-008",
+  "title_cn": "不分开的掌声",
+  "title_en": "CLAPPING THE HANDS",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   125,
+   126
+  ],
+  "props": [
+   "双手"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-009",
+  "title_cn": "铁指关节",
+  "title_en": "TOUGH KNUCKLES",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   126,
+   126
+  ],
+  "props": [
+   "桌子"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HD-010",
+  "title_cn": "触觉错觉",
+  "title_en": "AN ILLUSION OF TOUCH",
+  "chapter": "HAND TRICKS",
+  "chapter_cn": "手部魔术",
+  "pages": [
+   126,
+   127
+  ],
+  "props": [
+   "小球或铅笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-001",
+  "title_cn": "直立的手帕",
+  "title_en": "THE BALANCED HANDKERCHIEF",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   127,
+   128
+  ],
+  "props": [
+   "手帕",
+   "鲸须或软铁丝"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-002",
+  "title_cn": "一变二的结",
+  "title_en": "THE DOUBLING KNOT",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   128,
+   128
+  ],
+  "props": [
+   "丝质手帕"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-003",
+  "title_cn": "凭空出现的结",
+  "title_en": "THE APPEARING KNOT",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   128,
+   129
+  ],
+  "props": [
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-004",
+  "title_cn": "烧不坏的手帕",
+  "title_en": "NON-BURNING HANDKERCHIEF",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   129,
+   129
+  ],
+  "props": [
+   "手帕",
+   "蜡烛",
+   "硼砂溶液"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-005",
+  "title_cn": "散掉的结",
+  "title_en": "THE FLYAWAY KNOT",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   129,
+   130
+  ],
+  "props": [
+   "手帕"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-006",
+  "title_cn": "抽走的结",
+  "title_en": "THE DRAW-AWAY KNOT",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   130,
+   131
+  ],
+  "props": [
+   "丝质手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-007",
+  "title_cn": "空中结帕",
+  "title_en": "UNITED AND UNTIED",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   131,
+   131
+  ],
+  "props": [
+   "两条手帕",
+   "橡皮筋"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-008",
+  "title_cn": "手帕里的火柴",
+  "title_en": "MATCH IN HANDKERCHIEF",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   131,
+   131
+  ],
+  "props": [
+   "手帕",
+   "火柴",
+   "备用火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-009",
+  "title_cn": "眼前消失的手帕",
+  "title_en": "THE DISAPPEARING HANDKERCHIEF",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   131,
+   132
+  ],
+  "props": [
+   "小手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-010",
+  "title_cn": "膝盖上的假结",
+  "title_en": "THE FADEAWAY KNOT TRICK",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   132,
+   133
+  ],
+  "props": [
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-011",
+  "title_cn": "被催眠的手帕",
+  "title_en": "THE HYPNOTIZED HANDKERCHIEF",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   133,
+   134
+  ],
+  "props": [
+   "手帕（熨过）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-012",
+  "title_cn": "飞行的丝巾",
+  "title_en": "THE FLYING HANDKERCHIEF",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   134,
+   134
+  ],
+  "props": [
+   "丝巾"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-013",
+  "title_cn": "完美解开的结",
+  "title_en": "THE PERFECT DISSOLVING KNOT",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   134,
+   135
+  ],
+  "props": [
+   "两条丝巾"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-014",
+  "title_cn": "瞬间打上的结",
+  "title_en": "A SUDDEN KNOT",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   135,
+   136
+  ],
+  "props": [
+   "丝巾"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "HK-015",
+  "title_cn": "瞬间脱绑",
+  "title_en": "AN ESCAPE",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   136,
+   137
+  ],
+  "props": [
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "HK-016",
+  "title_cn": "绳上的手帕",
+  "title_en": "HANDKERCHIEF ON THE STRING",
+  "chapter": "HANDKERCHIEF TRICKS",
+  "chapter_cn": "手帕魔术",
+  "pages": [
+   137,
+   138
+  ],
+  "props": [
+   "绳子",
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "LQ-001",
+  "title_cn": "墨水变清水",
+  "title_en": "INK TO WATER",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   138,
+   139
+  ],
+  "props": [
+   "玻璃杯",
+   "黑绸衬筒",
+   "黑线和小纽扣",
+   "双面扑克牌"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-002",
+  "title_cn": "清水变墨水",
+  "title_en": "WATER TO INK",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   139,
+   139
+  ],
+  "props": [
+   "玻璃杯",
+   "墨水药片",
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-003",
+  "title_cn": "清水变酒",
+  "title_en": "WATER TO WINE",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   139,
+   139
+  ],
+  "props": [
+   "玻璃杯",
+   "高锰酸钾晶体",
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-004",
+  "title_cn": "酒变回水",
+  "title_en": "WINE TO WATER",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   139,
+   139
+  ],
+  "props": [
+   "两只玻璃杯",
+   "高锰酸钾",
+   "双氧水"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-005",
+  "title_cn": "两只高脚杯",
+  "title_en": "TWO GOBLETS",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   139,
+   140
+  ],
+  "props": [
+   "两只小高脚杯",
+   "水"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-006",
+  "title_cn": "不用化学的酒与水",
+  "title_en": "WINE AND WATER (WITHOUT CHEMICALS)",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   140,
+   141
+  ],
+  "props": [
+   "玻璃杯",
+   "红色赛璐珞片",
+   "绿色赛璐珞片",
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-007",
+  "title_cn": "干手取币",
+  "title_en": "THE DRY BOWL",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   141,
+   141
+  ],
+  "props": [
+   "浅碗",
+   "硬币",
+   "玻璃杯",
+   "纸",
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-008",
+  "title_cn": "违抗重力",
+  "title_en": "GRAVITY DEFIED",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   141,
+   142
+  ],
+  "props": [
+   "平底杯",
+   "纸",
+   "透明赛璐珞圆片"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-009",
+  "title_cn": "不湿的手",
+  "title_en": "THE DRY HAND",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   142,
+   142
+  ],
+  "props": [
+   "一碗水",
+   "硬脂酸锌粉"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-010",
+  "title_cn": "消失的水",
+  "title_en": "DISAPPEARING WATER",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   142,
+   143
+  ],
+  "props": [
+   "玻璃杯",
+   "纸条",
+   "吸管"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "LQ-011",
+  "title_cn": "口袋里的水杯",
+  "title_en": "GLASS OF WATER FROM POCKET",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   143,
+   143
+  ],
+  "props": [
+   "玻璃杯",
+   "橡胶盖片",
+   "橡皮筋"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "LQ-012",
+  "title_cn": "旋杯不洒",
+  "title_en": "THE WHIRLING GLASS",
+  "chapter": "LIQUID TRICKS",
+  "chapter_cn": "液体魔术",
+  "pages": [
+   143,
+   145
+  ],
+  "props": [
+   "玻璃杯",
+   "水"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-001",
+  "title_cn": "消失的火柴",
+  "title_en": "THE VANISHING MATCHES",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   145,
+   145
+  ],
+  "props": [
+   "装满的火柴盒",
+   "空火柴盒",
+   "半满的火柴盒"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-002",
+  "title_cn": "火柴盒三张牌",
+  "title_en": "MONTE WITH MATCHES",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   145,
+   146
+  ],
+  "props": [
+   "三个火柴盒",
+   "火柴",
+   "橡皮筋"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-003",
+  "title_cn": "牌穿火柴盒",
+  "title_en": "CUTTING THROUGH A MATCH-BOX",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   146,
+   146
+  ],
+  "props": [
+   "火柴盒",
+   "扑克牌",
+   "纸块或卡纸块"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-004",
+  "title_cn": "出现的火柴",
+  "title_en": "APPEARING MATCHES",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   146,
+   147
+  ],
+  "props": [
+   "火柴盒",
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-005",
+  "title_cn": "火柴穿桌",
+  "title_en": "MATCHES THROUGH THE TABLE",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   147,
+   148
+  ],
+  "props": [
+   "火柴盒",
+   "火柴",
+   "假内屉"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-006",
+  "title_cn": "粘袖子的火柴盒",
+  "title_en": "THE ADHESIVE MATCH-BOX",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   148,
+   148
+  ],
+  "props": [
+   "侧面带砂纸的蓝头火柴盒"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-007",
+  "title_cn": "缩小的火柴盒",
+  "title_en": "THE DIMINISHING MATCH-BOX",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   148,
+   149
+  ],
+  "props": [
+   "普通火柴盒",
+   "半尺寸小火柴盒",
+   "火柴"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MB-008",
+  "title_cn": "火柴里拉出丝带",
+  "title_en": "RIBBON FROM THE MATCH",
+  "chapter": "MATCH BOX TRICKS",
+  "chapter_cn": "火柴盒魔术",
+  "pages": [
+   149,
+   150
+  ],
+  "props": [
+   "火柴盒",
+   "火柴",
+   "卷好的丝带"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-001",
+  "title_cn": "四个三角形",
+  "title_en": "FOUR TRIANGLES",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   150,
+   150
+  ],
+  "props": [
+   "六根火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-002",
+  "title_cn": "火柴互穿",
+  "title_en": "PENETRATING MATCHES",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   150,
+   151
+  ],
+  "props": [
+   "两根硫火柴"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-003",
+  "title_cn": "消失的火光",
+  "title_en": "THE MISSING LIGHT",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   151,
+   151
+  ],
+  "props": [
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-004",
+  "title_cn": "鞋底划火柴",
+  "title_en": "MYSTIC SAFETY MATCHES",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   151,
+   151
+  ],
+  "props": [
+   "安全火柴",
+   "火柴盒"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-005",
+  "title_cn": "一根根消失",
+  "title_en": "ONE AT A TIME",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   151,
+   152
+  ],
+  "props": [
+   "两三根火柴",
+   "戒指"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-006",
+  "title_cn": "立在拇指上",
+  "title_en": "BALANCING A MATCH",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   152,
+   152
+  ],
+  "props": [
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-007",
+  "title_cn": "一划就灭的火柴",
+  "title_en": "BURN-OUT MATCHES",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   152,
+   152
+  ],
+  "props": [
+   "火柴",
+   "硅酸钠（水玻璃）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-008",
+  "title_cn": "火柴方阵",
+  "title_en": "THE MATCH SQUARE",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   152,
+   153
+  ],
+  "props": [
+   "四根火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-009",
+  "title_cn": "口袋里的火",
+  "title_en": "LIGHTED MATCH FROM POCKET",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   153,
+   154
+  ],
+  "props": [
+   "空安全火柴盒",
+   "火柴",
+   "假蜡烛（进阶版）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-010",
+  "title_cn": "自己点燃的火柴",
+  "title_en": "SELF-LIGHTING MATCH",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   154,
+   154
+  ],
+  "props": [
+   "火柴盒",
+   "火柴",
+   "砂纸小方块"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-011",
+  "title_cn": "一根变两根",
+  "title_en": "THE MULTIPLYING MATCH",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   154,
+   155
+  ],
+  "props": [
+   "蓝头火柴",
+   "刀片"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-012",
+  "title_cn": "站立的火柴",
+  "title_en": "THE STANDING MATCH",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   155,
+   155
+  ],
+  "props": [
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-013",
+  "title_cn": "火柴射击",
+  "title_en": "SHOOTING THE MATCH",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   155,
+   156
+  ],
+  "props": [
+   "火柴数根",
+   "火柴盒"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-014",
+  "title_cn": "十一的一半",
+  "title_en": "SIX AND ELEVEN",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   156,
+   156
+  ],
+  "props": [
+   "六根火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-015",
+  "title_cn": "红头变蓝头",
+  "title_en": "RED AND BLUE",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   156,
+   156
+  ],
+  "props": [
+   "蓝头火柴",
+   "红火柴头",
+   "一点蜡"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-016",
+  "title_cn": "纸火柴复原",
+  "title_en": "APPEARING PAPER MATCHES",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   156,
+   157
+  ],
+  "props": [
+   "一包纸火柴",
+   "口袋"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-017",
+  "title_cn": "十字变正方形",
+  "title_en": "CROSS TO SQUARE",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   157,
+   158
+  ],
+  "props": [
+   "两根火柴"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MT-018",
+  "title_cn": "火柴变香烟",
+  "title_en": "MATCH TO CIGARETTE",
+  "chapter": "MATCH TRICKS",
+  "chapter_cn": "火柴魔术",
+  "pages": [
+   158,
+   159
+  ],
+  "props": [
+   "火柴",
+   "香烟"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-001",
+  "title_cn": "会跳的直尺",
+  "title_en": "THE JUMPING RULER",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   159,
+   159
+  ],
+  "props": [
+   "直尺",
+   "橡皮筋"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-002",
+  "title_cn": "线轴换位",
+  "title_en": "CHANGING SPOOLS",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   159,
+   160
+  ],
+  "props": [
+   "两个线轴（一黑一红）",
+   "细绳",
+   "与线同色的纸条",
+   "手帕"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-003",
+  "title_cn": "扣眼现花",
+  "title_en": "THE FLOWER IN THE BUTTONHOLE",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   160,
+   160
+  ],
+  "props": [
+   "人造花（玫瑰）",
+   "黑色松紧绳"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-004",
+  "title_cn": "三颗珠子",
+  "title_en": "THE THREE BEADS",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   160,
+   161
+  ],
+  "props": [
+   "红白蓝三颗珠子",
+   "铁丝环"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-005",
+  "title_cn": "弯腰捡钱",
+  "title_en": "A DIFFICULT JOB",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   161,
+   161
+  ],
+  "props": [
+   "一张美元纸币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-006",
+  "title_cn": "神秘螺旋桨",
+  "title_en": "THE MYSTIC PROPELLOR",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   161,
+   161
+  ],
+  "props": [
+   "木制小螺旋桨（带短杆）",
+   "铅笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-007",
+  "title_cn": "别针穿头",
+  "title_en": "PIN THROUGH THE HEAD",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   161,
+   162
+  ],
+  "props": [
+   "别针",
+   "一小块胶布"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-008",
+  "title_cn": "别针穿手指",
+  "title_en": "PIN THROUGH FINGER",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   162,
+   162
+  ],
+  "props": [
+   "大号安全别针"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-009",
+  "title_cn": "会翻面的钥匙",
+  "title_en": "THE TURNOVER KEY",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   162,
+   162
+  ],
+  "props": [
+   "普通门钥匙"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-010",
+  "title_cn": "消失的蜡烛",
+  "title_en": "THE VANISHING CANDLE",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   162,
+   163
+  ],
+  "props": [
+   "假蜡烛（上光纸卷成，一端嵌真蜡烛头）",
+   "一张纸",
+   "手帕"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "MS-011",
+  "title_cn": "海绵方块分体",
+  "title_en": "THE RUBBER CUBE",
+  "chapter": "MISCELLANEOUS TRICKS",
+  "chapter_cn": "杂项魔术",
+  "pages": [
+   163,
+   164
+  ],
+  "props": [
+   "红色海绵橡胶方块",
+   "小剪刀"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-001",
+  "title_cn": "五个奇数凑二十",
+  "title_en": "TOTALLING TWENTY",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   164,
+   164
+  ],
+  "props": [
+   "纸",
+   "笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-002",
+  "title_cn": "预知总和",
+  "title_en": "TELLING THE TOTAL",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   164,
+   165
+  ],
+  "props": [
+   "纸",
+   "笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-003",
+  "title_cn": "九个数字",
+  "title_en": "NINE FIGURES",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   165,
+   166
+  ],
+  "props": [
+   "纸",
+   "笔"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-004",
+  "title_cn": "年龄总和预言",
+  "title_en": "THE GRAND TOTAL",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   166,
+   166
+  ],
+  "props": [
+   "纸",
+   "笔",
+   "信封"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-005",
+  "title_cn": "分组划数字",
+  "title_en": "CROSS THEM OUT",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   166,
+   167
+  ],
+  "props": [
+   "纸",
+   "笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-006",
+  "title_cn": "神奇数字 1089",
+  "title_en": "THE MAGIC NUMBER",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   167,
+   167
+  ],
+  "props": [
+   "纸",
+   "笔"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-007",
+  "title_cn": "最喜欢的数字",
+  "title_en": "THE FAVORITE NUMBER",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   167,
+   168
+  ],
+  "props": [
+   "纸",
+   "笔"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "NB-008",
+  "title_cn": "抢三十一",
+  "title_en": "THE THIRTY-ONE TRICK",
+  "chapter": "NUMBER TRICKS",
+  "chapter_cn": "数字魔术",
+  "pages": [
+   168,
+   170
+  ],
+  "props": [
+   "纸条（36 张）",
+   "笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "5 分钟",
+  "setting": "桌面",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "OP-001",
+  "title_cn": "杯中的硬币",
+  "title_en": "THE COIN IN THE GLASS",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   170,
+   171
+  ],
+  "props": [
+   "玻璃杯",
+   "水",
+   "小盘子",
+   "一角硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-002",
+  "title_cn": "神秘圆圈",
+  "title_en": "MYSTIC CIRCLES",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   171,
+   172
+  ],
+  "props": [
+   "印有圆圈图案的纸",
+   "圆规或硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-003",
+  "title_cn": "不见的硬币",
+  "title_en": "A MISSING COIN",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   172,
+   172
+  ],
+  "props": [
+   "玻璃杯",
+   "水",
+   "小盘子",
+   "硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-004",
+  "title_cn": "照镜画图",
+  "title_en": "DRAWING WITH A MIRROR",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   172,
+   172
+  ],
+  "props": [
+   "镜子",
+   "纸",
+   "笔",
+   "挡板"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-005",
+  "title_cn": "看穿实心物",
+  "title_en": "SEEING THROUGH SOLID",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   172,
+   173
+  ],
+  "props": [
+   "纸筒（约一英寸粗）",
+   "火柴盒或扑克牌"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-006",
+  "title_cn": "墙上的幽灵",
+  "title_en": "A GHOST",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   173,
+   173
+  ],
+  "props": [
+   "印有图案的图",
+   "强光"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-007",
+  "title_cn": "奇怪的线条",
+  "title_en": "STRANGE LINES",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   173,
+   174
+  ],
+  "props": [
+   "印有线条图案的纸",
+   "直尺或卡片"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-008",
+  "title_cn": "蛇吞鸟",
+  "title_en": "THE SNAKE AND THE BIRD",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   174,
+   175
+  ],
+  "props": [
+   "印有蛇与鸟图案的书页"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "OP-009",
+  "title_cn": "一币两面",
+  "title_en": "BOTH SIDES",
+  "chapter": "OPTICAL TRICKS",
+  "chapter_cn": "视觉错觉魔术",
+  "pages": [
+   175,
+   176
+  ],
+  "props": [
+   "一枚硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-001",
+  "title_cn": "卷烟纸复原",
+  "title_en": "THE TORN AND RESTORED CIGARETTE PAPER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   176,
+   177
+  ],
+  "props": [
+   "两张卷烟纸",
+   "替身纸团"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-002",
+  "title_cn": "复原的纸餐巾",
+  "title_en": "THE RESTORED PAPER NAPKIN",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   177,
+   178
+  ],
+  "props": [
+   "三到四张纸餐巾"
+  ],
+  "difficulty": "高手",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-003",
+  "title_cn": "名人名字再现",
+  "title_en": "THE CELEBRITY TRICK",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   178,
+   178
+  ],
+  "props": [
+   "一叠卷烟纸",
+   "一支很短的铅笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-004",
+  "title_cn": "拉不断的餐巾",
+  "title_en": "THE TOUGH NAPKIN",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   178,
+   179
+  ],
+  "props": [
+   "纸餐巾",
+   "一杯水"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-005",
+  "title_cn": "纸桥承杯",
+  "title_en": "THE PAPER BRIDGE",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   179,
+   179
+  ],
+  "props": [
+   "信纸",
+   "两个玻璃杯",
+   "第三个玻璃杯"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-006",
+  "title_cn": "找出记号纸",
+  "title_en": "THE MARKED PAPER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   179,
+   180
+  ],
+  "props": [
+   "一叠卷烟纸",
+   "笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-007",
+  "title_cn": "三张纸条",
+  "title_en": "THREE PAPER SLIPS",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   180,
+   180
+  ],
+  "props": [
+   "一张小纸",
+   "帽子"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-008",
+  "title_cn": "纸团换盒",
+  "title_en": "TRAVELING TISSUE PAPER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   180,
+   181
+  ],
+  "props": [
+   "两个火柴盒",
+   "红蓝两张薄纸",
+   "红蓝铅笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-009",
+  "title_cn": "纸屑如雪",
+  "title_en": "THE SHOWER OF PAPER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   181,
+   182
+  ],
+  "props": [
+   "薄纸",
+   "一杯水",
+   "扇子",
+   "书",
+   "小橡皮筋"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-010",
+  "title_cn": "纸币增殖",
+  "title_en": "PRODUCTION OF PAPER MONEY",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   182,
+   182
+  ],
+  "props": [
+   "一张美元纸币",
+   "十来张折叠纸币",
+   "袖口"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-011",
+  "title_cn": "慷慨的报酬",
+  "title_en": "A GENEROUS OFFER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   182,
+   182
+  ],
+  "props": [
+   "一张方纸",
+   "一枚两角五分硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-012",
+  "title_cn": "吹走纸片",
+  "title_en": "BLOW THEM AWAY",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   182,
+   183
+  ],
+  "props": [
+   "三张纸片"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-013",
+  "title_cn": "黑白纸复原",
+  "title_en": "A PAPER TEARING TRICK",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   183,
+   184
+  ],
+  "props": [
+   "黑白薄纸",
+   "浆糊",
+   "桌上物件"
+  ],
+  "difficulty": "高手",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-014",
+  "title_cn": "看着容易",
+  "title_en": "IT LOOKS EASY",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   184,
+   184
+  ],
+  "props": [
+   "一张纸"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-015",
+  "title_cn": "灰烬复原",
+  "title_en": "FROM THE ASHES",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   184,
+   184
+  ],
+  "props": [
+   "薄纸条",
+   "铁丝",
+   "蜡烛",
+   "戒指",
+   "另一条同样的纸"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-016",
+  "title_cn": "硬币穿纸",
+  "title_en": "PENNY THROUGH PAPER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   184,
+   185
+  ],
+  "props": [
+   "小方纸",
+   "硬币"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-017",
+  "title_cn": "隔门不见",
+  "title_en": "OUT OF SIGHT",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   185,
+   186
+  ],
+  "props": [
+   "一张报纸",
+   "一扇门"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "任意",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "PR-018",
+  "title_cn": "一吹倒书",
+  "title_en": "THE MAGIC BLOW",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   186,
+   186
+  ],
+  "props": [
+   "一本厚书",
+   "另一本书",
+   "大纸袋"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-019",
+  "title_cn": "纸蛇复活",
+  "title_en": "A PAPER SNAKE",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   186,
+   187
+  ],
+  "props": [
+   "吸管外包装纸",
+   "盘子",
+   "水"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-020",
+  "title_cn": "吃纸吐彩带",
+  "title_en": "THE PAPER RIBBON TRICK",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   187,
+   187
+  ],
+  "props": [
+   "纸彩带卷（throw out coil）",
+   "几张薄纸"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "宴会",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-021",
+  "title_cn": "卡片上的答案",
+  "title_en": "THE MESSAGE ON THE CARD",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   187,
+   188
+  ],
+  "props": [
+   "卡片",
+   "信封",
+   "宽橡皮筋",
+   "笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-022",
+  "title_cn": "纸上有什么",
+  "title_en": "WHAT'S ON THE PAPER?",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   188,
+   188
+  ],
+  "props": [
+   "一张纸",
+   "一支笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-023",
+  "title_cn": "三张纸牌",
+  "title_en": "THREE CARDS",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   188,
+   189
+  ],
+  "props": [
+   "红、白、蓝三张牌（蓝牌实为一面蓝一面红的双面牌）",
+   "一张真蓝牌",
+   "借来的帽子"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-024",
+  "title_cn": "穿透的纸",
+  "title_en": "PENETRATING PAPER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   189,
+   190
+  ],
+  "props": [
+   "端部开口的信封",
+   "硬质彩纸",
+   "铅笔",
+   "丝带",
+   "小刀"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-025",
+  "title_cn": "剪纸成袋",
+  "title_en": "THE PAPER BAG",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   190,
+   190
+  ],
+  "props": [
+   "一张纸",
+   "剪刀"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PR-026",
+  "title_cn": "纸变梯子",
+  "title_en": "THE PAPER LADDER",
+  "chapter": "PAPER TRICKS",
+  "chapter_cn": "纸类魔术",
+  "pages": [
+   190,
+   192
+  ],
+  "props": [
+   "几张大纸（最好颜色各异）"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-001",
+  "title_cn": "磁力铅笔",
+  "title_en": "THE MAGNETIC PENCIL",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   192,
+   192
+  ],
+  "props": [
+   "深色铅笔",
+   "一段黑色细线",
+   "深色外套"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-002",
+  "title_cn": "消失的铅笔",
+  "title_en": "THE \"VANISHING\" PENCIL",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   192,
+   193
+  ],
+  "props": [
+   "空心纸管（用上光彩纸卷成）",
+   "真铅笔尖",
+   "橡皮头",
+   "一张纸"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-003",
+  "title_cn": "掉头的铅笔",
+  "title_en": "TURNABOUT PENCIL",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   193,
+   193
+  ],
+  "props": [
+   "铅笔（两头削尖）",
+   "上光纸",
+   "胶水",
+   "一根粗纸筒"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-004",
+  "title_cn": "说出花色",
+  "title_en": "NAMING THE SUIT",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   193,
+   194
+  ],
+  "props": [
+   "四支不同外观的铅笔（各对应一种花色）",
+   "一张纸",
+   "一位助手"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "任意",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "PC-005",
+  "title_cn": "钱包里抽铅笔",
+  "title_en": "PENCIL FROM POCKETBOOK",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   194,
+   194
+  ],
+  "props": [
+   "小钱包或钱袋",
+   "一支长铅笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-006",
+  "title_cn": "纸币断铅笔",
+  "title_en": "BREAKING THE PENCIL",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   194,
+   194
+  ],
+  "props": [
+   "一支铅笔",
+   "一张纸币（一元或更大面额）"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-007",
+  "title_cn": "手帕下的铅笔",
+  "title_en": "PENCIL UNDER HANDKERCHIEF",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   194,
+   195
+  ],
+  "props": [
+   "一支铅笔",
+   "一块手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-008",
+  "title_cn": "戒指爬铅笔",
+  "title_en": "RISING RING ON PENCIL",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   195,
+   195
+  ],
+  "props": [
+   "带可卸橡皮头的铅笔",
+   "一段黑线",
+   "借来的戒指"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-009",
+  "title_cn": "自动升起的铅笔",
+  "title_en": "THE RISING PENCIL",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   195,
+   196
+  ],
+  "props": [
+   "带可卸橡皮头的铅笔",
+   "一段黑线"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "PC-010",
+  "title_cn": "喷水的铅笔",
+  "title_en": "THE FOUNTAIN PENCIL",
+  "chapter": "PENCIL TRICKS",
+  "chapter_cn": "铅笔魔术",
+  "pages": [
+   196,
+   197
+  ],
+  "props": [
+   "借来的铅笔",
+   "带小孔的空心橡胶球",
+   "水",
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-001",
+  "title_cn": "幽灵铁环",
+  "title_en": "THE PHANTOM RING",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   197,
+   198
+  ],
+  "props": [
+   "两只金属环（直径约三英寸，能套过手掌）",
+   "一段绳子"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-002",
+  "title_cn": "改良幽灵铁环",
+  "title_en": "THE IMPROVED PHANTOM RING",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   198,
+   198
+  ],
+  "props": [
+   "软橡胶环（可用吸尘器配件）",
+   "一段绳子"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-003",
+  "title_cn": "绳上系环",
+  "title_en": "RING TIED ON STRING",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   198,
+   198
+  ],
+  "props": [
+   "一只戒指（大小不限）",
+   "一段足够长的绳子"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-004",
+  "title_cn": "戒指上手指",
+  "title_en": "THE RING ON THE FINGER",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   198,
+   199
+  ],
+  "props": [
+   "一枚戒指",
+   "一根绳子",
+   "一块屏风"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-005",
+  "title_cn": "环与绳",
+  "title_en": "THE RING AND THE STRING",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   199,
+   199
+  ],
+  "props": [
+   "一段绳子（结成环）",
+   "一只戒指"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-006",
+  "title_cn": "解开的铁环",
+  "title_en": "THE RELEASED RINGS",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   199,
+   200
+  ],
+  "props": [
+   "一只戒指",
+   "几只其他圆环",
+   "一根绳子",
+   "一块手帕"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-007",
+  "title_cn": "消失的戒指",
+  "title_en": "THE VANISHING RING",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   200,
+   200
+  ],
+  "props": [
+   "一块大手帕（角上缝着一只环）",
+   "一只借来的戒指"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-008",
+  "title_cn": "戒指进鸡蛋",
+  "title_en": "THE RING IN THE EGG",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   200,
+   201
+  ],
+  "props": [
+   "一只鸡蛋",
+   "一只蛋盅（底部有蜡或石蜡）",
+   "一枚纽扣钩",
+   "借来的戒指"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-009",
+  "title_cn": "绳上取环",
+  "title_en": "THE RING FROM THE STRING",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   201,
+   202
+  ],
+  "props": [
+   "一只戒指（或中国铜钱、金属垫圈）",
+   "一只相同的戒指",
+   "一根绳子",
+   "一块布"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-010",
+  "title_cn": "纸板环",
+  "title_en": "THE CARDBOARD RING TRICK",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   202,
+   202
+  ],
+  "props": [
+   "硬纸板剪的圆环",
+   "一只相同的纸环",
+   "一根绳子",
+   "一块手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-011",
+  "title_cn": "六枚铜钱凭空出现",
+  "title_en": "INSTANTANEOUS APPEARANCE OF SIX RINGS",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   202,
+   203
+  ],
+  "props": [
+   "六枚金属垫圈或中国铜钱",
+   "一段白或粉色细线"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "RG-012",
+  "title_cn": "落下的戒指",
+  "title_en": "THE DROPPING RING",
+  "chapter": "RING TRICKS",
+  "chapter_cn": "戒指魔术",
+  "pages": [
+   203,
+   204
+  ],
+  "props": [
+   "一枚戒指或餐巾环",
+   "一段绳子"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-001",
+  "title_cn": "两块石板的信息",
+  "title_en": "TWO MESSAGES",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   204,
+   205
+  ],
+  "props": [
+   "两块石板",
+   "一块与石板同色的黑色硬纸板 flap"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-002",
+  "title_cn": "口袋小石板",
+  "title_en": "POCKET SPIRIT SLATES",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   205,
+   206
+  ],
+  "props": [
+   "两块微型石板（约 2×1 英寸，硬纸板制）",
+   "一块黑色硬纸板 flap",
+   "一根橡皮筋"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-003",
+  "title_cn": "单块显字石板",
+  "title_en": "SINGLE SPIRIT SLATE",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   206,
+   206
+  ],
+  "props": [
+   "一块较大的石板",
+   "一张黑色薄纸（作 flap）",
+   "一只纸袋",
+   "少量蜡或肥皂"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-004",
+  "title_cn": "通灵铃铛",
+  "title_en": "THE SPIRIT BELL",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   206,
+   207
+  ],
+  "props": [
+   "一只带柄的小铃铛",
+   "一块手帕",
+   "一段黑线"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-005",
+  "title_cn": "通灵布",
+  "title_en": "THE SPIRIT CLOTH",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   207,
+   207
+  ],
+  "props": [
+   "一块布",
+   "一根弯别针",
+   "铃铛等桌上小物件"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-006",
+  "title_cn": "选中的答案",
+  "title_en": "CHOOSING A QUESTION",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   207,
+   208
+  ],
+  "props": [
+   "一只布袋（中间有隔层）",
+   "几张写着不同名字的卡片",
+   "一个信封"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-007",
+  "title_cn": "书页上的答案",
+  "title_en": "A SPIRIT ANSWER",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   208,
+   209
+  ],
+  "props": [
+   "一本封面朴素的厚书",
+   "两张卡片",
+   "一个信封"
+  ],
+  "difficulty": "高手",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-008",
+  "title_cn": "桌子浮起",
+  "title_en": "SPIRIT TABLE LIFTING",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   209,
+   209
+  ],
+  "props": [
+   "一张轻便的桌子"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "宴会",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-009",
+  "title_cn": "单手提起桌子",
+  "title_en": "ONE HAND TABLE LIFTING",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   209,
+   210
+  ],
+  "props": [
+   "一张轻便的桌子（桌面钉一枚小图钉）",
+   "一枚带小凹槽的戒指"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-010",
+  "title_cn": "报纸显字",
+  "title_en": "AN EASY SLATE MESSAGE",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   210,
+   210
+  ],
+  "props": [
+   "一块石板",
+   "一张报纸（一面预先反写字迹）"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-011",
+  "title_cn": "额头上的问题",
+  "title_en": "A SPIRIT QUESTION",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   210,
+   210
+  ],
+  "props": [
+   "一只特制火柴盒（底部与抽屉一端各开小口）",
+   "一张纸",
+   "一支笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-012",
+  "title_cn": "黑暗中的响声",
+  "title_en": "STRANGE MANIFESTATIONS",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   210,
+   211
+  ],
+  "props": [
+   "一只铃铛",
+   "一只号角",
+   "可以关灯的场地"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-013",
+  "title_cn": "通灵锣声",
+  "title_en": "A SPIRIT GONG",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   211,
+   211
+  ],
+  "props": [
+   "一只金属铜锣或玻璃碗",
+   "一块手帕",
+   "几粒小铅弹"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-014",
+  "title_cn": "说出电话号码",
+  "title_en": "STRANGE TELEPATHY",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   211,
+   212
+  ],
+  "props": [
+   "一本带索引标签的电话簿",
+   "可以挡在身后的屏风或门",
+   "眼罩"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "宴会",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "SP-015",
+  "title_cn": "神秘的回答",
+  "title_en": "MYSTERIOUS ANSWERS",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   212,
+   212
+  ],
+  "props": [
+   "一本书",
+   "纸和笔",
+   "一两位同伙"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "宴会",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "SP-016",
+  "title_cn": "触摸读心",
+  "title_en": "MIND READING",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   212,
+   213
+  ],
+  "props": [
+   "硬币、戒指、别针等小物件",
+   "眼罩",
+   "一本书"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "宴会",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "SP-017",
+  "title_cn": "黑暗中的铁环",
+  "title_en": "THE MYSTIC RING",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   213,
+   214
+  ],
+  "props": [
+   "一只大号金属环",
+   "可以关灯的场地"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-018",
+  "title_cn": "石板上写答案",
+  "title_en": "A CLEVER SLATE WRITING TRICK",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   214,
+   214
+  ],
+  "props": [
+   "一块石板",
+   "粉笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-019",
+  "title_cn": "捆带的石板",
+  "title_en": "THE TAPED SLATES",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   214,
+   215
+  ],
+  "props": [
+   "两块石板",
+   "一条带子或丝带",
+   "粉笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-020",
+  "title_cn": "三块石板",
+  "title_en": "THE THREE SPIRIT SLATES",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   215,
+   216
+  ],
+  "props": [
+   "三块石板",
+   "一块黑色硬纸板或硅酸盐 flap"
+  ],
+  "difficulty": "高手",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-021",
+  "title_cn": "灵体名字",
+  "title_en": "THE SPIRIT NAME",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   216,
+   217
+  ],
+  "props": [
+   "一张纸",
+   "一支笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-022",
+  "title_cn": "灵手",
+  "title_en": "THE SPIRIT HAND",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   217,
+   217
+  ],
+  "props": [
+   "无特殊道具",
+   "一把椅子"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-023",
+  "title_cn": "太阳穴传数字",
+  "title_en": "CONTACT TELEPATHY",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   217,
+   218
+  ],
+  "props": [
+   "一把椅子",
+   "一只眼罩"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "宴会",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "SP-024",
+  "title_cn": "读封好的信",
+  "title_en": "READING SEALED MESSAGE",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   218,
+   218
+  ],
+  "props": [
+   "一只信封",
+   "一张纸条",
+   "一支笔"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-025",
+  "title_cn": "改良信封读信",
+  "title_en": "IMPROVED ENVELOPE TEST",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   218,
+   219
+  ],
+  "props": [
+   "一叠信封",
+   "一个小铁盒（如烟盒）",
+   "一块海绵",
+   "酒精"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SP-026",
+  "title_cn": "绳绑逃脱",
+  "title_en": "THE GREAT ROPE TIE",
+  "chapter": "SPIRIT TRICKS",
+  "chapter_cn": "灵异魔术",
+  "pages": [
+   219,
+   220
+  ],
+  "props": [
+   "一把椅子",
+   "一根长绳",
+   "一面屏风",
+   "一只铃铛",
+   "几件小物品"
+  ],
+  "difficulty": "高手",
+  "duration": "3 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SR-001",
+  "title_cn": "解下绳圈",
+  "title_en": "THE REMOVABLE STRING",
+  "chapter": "STRING TRICKS",
+  "chapter_cn": "绳类魔术",
+  "pages": [
+   220,
+   220
+  ],
+  "props": [
+   "一根长绳（打成圈）",
+   "一件马甲"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SR-002",
+  "title_cn": "复原的细绳",
+  "title_en": "A RESTORED STRING",
+  "chapter": "STRING TRICKS",
+  "chapter_cn": "绳类魔术",
+  "pages": [
+   220,
+   221
+  ],
+  "props": [
+   "一根细绳",
+   "一根吸管",
+   "一小段吸管",
+   "一把剪刀"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SR-003",
+  "title_cn": "剪绳取剪刀",
+  "title_en": "SCISSORS AND STRING",
+  "chapter": "STRING TRICKS",
+  "chapter_cn": "绳类魔术",
+  "pages": [
+   221,
+   221
+  ],
+  "props": [
+   "绳子",
+   "剪刀"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SR-004",
+  "title_cn": "线钓冰块",
+  "title_en": "STRING AND ICE CUBE",
+  "chapter": "STRING TRICKS",
+  "chapter_cn": "绳类魔术",
+  "pages": [
+   221,
+   221
+  ],
+  "props": [
+   "冰块",
+   "玻璃杯",
+   "清水",
+   "细线",
+   "盐"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SR-005",
+  "title_cn": "中间剪绳",
+  "title_en": "CUT THE CENTER",
+  "chapter": "STRING TRICKS",
+  "chapter_cn": "绳类魔术",
+  "pages": [
+   221,
+   222
+  ],
+  "props": [
+   "中国瓷杯",
+   "绳子",
+   "剪刀"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "任意",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "SR-006",
+  "title_cn": "套上又脱开的绳环",
+  "title_en": "ON AND OFF LOOP",
+  "chapter": "STRING TRICKS",
+  "chapter_cn": "绳类魔术",
+  "pages": [
+   222,
+   223
+  ],
+  "props": [
+   "一根绳子",
+   "左右手"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SG-001",
+  "title_cn": "浮起的方糖",
+  "title_en": "FLOATING SUGAR",
+  "chapter": "SUGAR TRICKS",
+  "chapter_cn": "方糖魔术",
+  "pages": [
+   223,
+   223
+  ],
+  "props": [
+   "方糖",
+   "火棉胶液",
+   "玻璃杯",
+   "清水"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SG-002",
+  "title_cn": "点得着的方糖",
+  "title_en": "BURNING SUGAR",
+  "chapter": "SUGAR TRICKS",
+  "chapter_cn": "方糖魔术",
+  "pages": [
+   223,
+   223
+  ],
+  "props": [
+   "方糖",
+   "火柴",
+   "香烟灰"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SG-003",
+  "title_cn": "喷糖成云",
+  "title_en": "THE CLOUD OF SUGAR",
+  "chapter": "SUGAR TRICKS",
+  "chapter_cn": "方糖魔术",
+  "pages": [
+   223,
+   224
+  ],
+  "props": [
+   "干燥的糖",
+   "大胶囊",
+   "勺子"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "舞台",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SG-004",
+  "title_cn": "掌上字迹",
+  "title_en": "THE MYSTIC LETTER",
+  "chapter": "SUGAR TRICKS",
+  "chapter_cn": "方糖魔术",
+  "pages": [
+   224,
+   225
+  ],
+  "props": [
+   "方糖",
+   "玻璃杯",
+   "清水"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SG-005",
+  "title_cn": "会搬家的方糖",
+  "title_en": "TRAVELING LUMPS OF SUGAR",
+  "chapter": "SUGAR TRICKS",
+  "chapter_cn": "方糖魔术",
+  "pages": [
+   225,
+   226
+  ],
+  "props": [
+   "四块方糖",
+   "一块备用方糖"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "SG-006",
+  "title_cn": "方糖穿桌",
+  "title_en": "SUGAR THROUGH TABLE",
+  "chapter": "SUGAR TRICKS",
+  "chapter_cn": "方糖魔术",
+  "pages": [
+   226,
+   228
+  ],
+  "props": [
+   "包好的方糖",
+   "空糖纸",
+   "玻璃杯",
+   "清水"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-001",
+  "title_cn": "吸手的餐刀",
+  "title_en": "THE MAGNETIC KNIFE",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   228,
+   228
+  ],
+  "props": [
+   "餐刀",
+   "左手手掌"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-002",
+  "title_cn": "听话的汤匙",
+  "title_en": "THE OBEDIENT SPOON",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   228,
+   229
+  ],
+  "props": [
+   "金属汤匙"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-003",
+  "title_cn": "会跳的火苗",
+  "title_en": "THE JUMPING CANDLE FLAME",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   229,
+   229
+  ],
+  "props": [
+   "蜡烛",
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-004",
+  "title_cn": "盐不见了",
+  "title_en": "VANISHING SALT",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   229,
+   229
+  ],
+  "props": [
+   "餐巾环",
+   "盐",
+   "白色圆纸片",
+   "硬纸板"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-005",
+  "title_cn": "会听令的葡萄籽",
+  "title_en": "THE ENCHANTED SEED",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   229,
+   230
+  ],
+  "props": [
+   "葡萄籽",
+   "姜汁汽水",
+   "玻璃杯"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-006",
+  "title_cn": "橙子变苹果",
+  "title_en": "THE ORANGE TO THE APPLE",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   230,
+   230
+  ],
+  "props": [
+   "橙子",
+   "苹果",
+   "餐巾"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-007",
+  "title_cn": "餐刀消失",
+  "title_en": "THE VANISHING KNIFE",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   230,
+   231
+  ],
+  "props": [
+   "餐刀",
+   "两条餐巾"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-008",
+  "title_cn": "吞刀",
+  "title_en": "SWALLOWING A KNIFE",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   231,
+   231
+  ],
+  "props": [
+   "餐刀"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-009",
+  "title_cn": "一刀挑起五刀",
+  "title_en": "FIVE KNIFE TRICK",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   231,
+   232
+  ],
+  "props": [
+   "五把餐刀"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-010",
+  "title_cn": "三刀架桥",
+  "title_en": "THE BRIDGE OF KNIVES",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   232,
+   232
+  ],
+  "props": [
+   "三把餐刀",
+   "三个平底杯"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-011",
+  "title_cn": "吹气穿瓶",
+  "title_en": "BLOWING THROUGH A BOTTLE",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   232,
+   232
+  ],
+  "props": [
+   "圆瓶",
+   "蜡烛",
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-012",
+  "title_cn": "橙子里抽彩带",
+  "title_en": "THE RIBBON FROM THE ORANGE",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   232,
+   233
+  ],
+  "props": [
+   "小橙子",
+   "彩色纸带",
+   "大针",
+   "餐刀"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-013",
+  "title_cn": "吸管提瓶",
+  "title_en": "BOTTLE AND STRAW",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   233,
+   233
+  ],
+  "props": [
+   "瓶子",
+   "吸管"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TB-014",
+  "title_cn": "杯中取刀",
+  "title_en": "KNIFE FROM THE GLASS",
+  "chapter": "TABLE TRICKS",
+  "chapter_cn": "桌面魔术",
+  "pages": [
+   233,
+   234
+  ],
+  "props": [
+   "小刀",
+   "手帕",
+   "玻璃杯"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-001",
+  "title_cn": "拇指套消失",
+  "title_en": "A VANISHING THIMBLE",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   234,
+   234
+  ],
+  "props": [
+   "拇指套"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-002",
+  "title_cn": "变色拇指套",
+  "title_en": "COLOR-CHANGING THIMBLE",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   234,
+   235
+  ],
+  "props": [
+   "红色拇指套",
+   "蓝色拇指套"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-003",
+  "title_cn": "跳来跳去的拇指套",
+  "title_en": "THE JUMPING THIMBLE",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   235,
+   235
+  ],
+  "props": [
+   "金属拇指套（切成两半）"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-004",
+  "title_cn": "纸里变出拇指套",
+  "title_en": "THIMBLE FROM PAPER",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   235,
+   236
+  ],
+  "props": [
+   "小纸片",
+   "拇指套"
+  ],
+  "difficulty": "进阶",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-005",
+  "title_cn": "拇指套穿手帕",
+  "title_en": "THIMBLE THROUGH HANDKERCHIEF",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   236,
+   237
+  ],
+  "props": [
+   "手帕",
+   "两个拇指套（一大一小）"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-006",
+  "title_cn": "完全穿透",
+  "title_en": "COMPLETE PENETRATION",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   237,
+   238
+  ],
+  "props": [
+   "手帕",
+   "拇指套"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-007",
+  "title_cn": "浮沉的拇指套",
+  "title_en": "THE FLOATING THIMBLE",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   238,
+   238
+  ],
+  "props": [
+   "两个拇指套（一重一轻）",
+   "水碗",
+   "手帕"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-008",
+  "title_cn": "手帕穿过拇指套",
+  "title_en": "HANDKERCHIEF THROUGH THIMBLE",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   238,
+   239
+  ],
+  "props": [
+   "丝手帕",
+   "两个拇指套"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-009",
+  "title_cn": "磁性拇指套",
+  "title_en": "MAGNETIC THIMBLES",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   239,
+   239
+  ],
+  "props": [
+   "两个拇指套",
+   "海绵橡胶小球"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TH-010",
+  "title_cn": "告密的拇指套",
+  "title_en": "THE TELL-TALE THIMBLES",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   239,
+   240
+  ],
+  "props": [
+   "三个拇指套",
+   "小纸球",
+   "一根短头发"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "TH-011",
+  "title_cn": "红白蓝三球",
+  "title_en": "RED, WHITE AND BLUE",
+  "chapter": "THIMBLE TRICKS",
+  "chapter_cn": "拇指套魔术",
+  "pages": [
+   240,
+   241
+  ],
+  "props": [
+   "三个拇指套",
+   "红白蓝三色纸球",
+   "长头发"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "TM-001",
+  "title_cn": "满出杯口的水",
+  "title_en": "THE OVER-FULL TUMBLER",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   241,
+   241
+  ],
+  "props": [
+   "玻璃杯",
+   "水壶",
+   "清水"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-002",
+  "title_cn": "越倒越少的水",
+  "title_en": "A TWO TUMBLER TRICK",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   241,
+   242
+  ],
+  "props": [
+   "两个玻璃杯",
+   "托盘",
+   "清水"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-003",
+  "title_cn": "倒烟",
+  "title_en": "POURING SMOKE",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   242,
+   242
+  ],
+  "props": [
+   "两个玻璃杯",
+   "雪茄"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-004",
+  "title_cn": "摔不碎的玻璃杯",
+  "title_en": "NON-BREAKABLE GLASS",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   242,
+   243
+  ],
+  "props": [
+   "厚玻璃杯",
+   "枕头"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-005",
+  "title_cn": "奇妙的侦测",
+  "title_en": "A SURPRISING DETECTION",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   243,
+   243
+  ],
+  "props": [
+   "玻璃杯",
+   "小物件"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "TM-006",
+  "title_cn": "一手举起六只杯",
+  "title_en": "LIFTING SIX GLASSES",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   243,
+   243
+  ],
+  "props": [
+   "六只玻璃杯"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-007",
+  "title_cn": "抽不动的杯子",
+  "title_en": "THE NON-FALLING GLASS",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   243,
+   244
+  ],
+  "props": [
+   "一杯水",
+   "手帕"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-008",
+  "title_cn": "会吸手的玻璃杯",
+  "title_en": "THE MAGNETIC TUMBLER",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   244,
+   244
+  ],
+  "props": [
+   "玻璃杯",
+   "清水",
+   "纸片",
+   "火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-009",
+  "title_cn": "神秘的指针",
+  "title_en": "THE MYSTIC POINTER",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   244,
+   244
+  ],
+  "props": [
+   "玻璃杯",
+   "十字纸片",
+   "缝衣针",
+   "软木塞",
+   "手帕"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-010",
+  "title_cn": "杯顶取币",
+  "title_en": "THE TOP OF THE TUMBLER",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   244,
+   245
+  ],
+  "props": [
+   "玻璃杯",
+   "硬币",
+   "两根火柴"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "桌面",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "TM-011",
+  "title_cn": "盘子上的玻璃杯",
+  "title_en": "GLASS BALANCED ON PLATE",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   245,
+   245
+  ],
+  "props": [
+   "盘子",
+   "玻璃杯"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-012",
+  "title_cn": "斜立的玻璃杯",
+  "title_en": "THE BALANCED TUMBLER",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   245,
+   246
+  ],
+  "props": [
+   "玻璃杯",
+   "清水",
+   "火柴",
+   "餐巾"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-013",
+  "title_cn": "会旅行的玻璃杯",
+  "title_en": "THE TRAVELING GLASS",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   246,
+   247
+  ],
+  "props": [
+   "玻璃杯",
+   "硬币",
+   "报纸",
+   "餐巾"
+  ],
+  "difficulty": "高手",
+  "duration": "5 分钟",
+  "setting": "宴会",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "TM-014",
+  "title_cn": "帽子与水杯",
+  "title_en": "THE GLASS AND THE HAT",
+  "chapter": "TUMBLER TRICKS",
+  "chapter_cn": "平底杯魔术",
+  "pages": [
+   247,
+   248
+  ],
+  "props": [
+   "礼帽（毛毡帽）",
+   "硬币",
+   "一杯水"
+  ],
+  "difficulty": "高手",
+  "duration": "4 分钟",
+  "setting": "宴会",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "WT-001",
+  "title_cn": "停住的怀表",
+  "title_en": "THE STOP WATCH",
+  "chapter": "WATCH TRICKS",
+  "chapter_cn": "手表魔术",
+  "pages": [
+   248,
+   248
+  ],
+  "props": [
+   "怀表",
+   "磁铁"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "WT-002",
+  "title_cn": "数字六",
+  "title_en": "NUMBER SIX",
+  "chapter": "WATCH TRICKS",
+  "chapter_cn": "手表魔术",
+  "pages": [
+   248,
+   249
+  ],
+  "props": [
+   "一块表"
+  ],
+  "difficulty": "入门",
+  "duration": "1 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "WT-003",
+  "title_cn": "读出时间",
+  "title_en": "TELLING THE TIME",
+  "chapter": "WATCH TRICKS",
+  "chapter_cn": "手表魔术",
+  "pages": [
+   249,
+   249
+  ],
+  "props": [
+   "一块表",
+   "桌子"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "需要"
+ },
+ {
+  "id": "WT-004",
+  "title_cn": "神秘的闹钟",
+  "title_en": "THE MYSTIC ALARM CLOCK",
+  "chapter": "WATCH TRICKS",
+  "chapter_cn": "手表魔术",
+  "pages": [
+   249,
+   250
+  ],
+  "props": [
+   "闹钟"
+  ],
+  "difficulty": "进阶",
+  "duration": "2 分钟",
+  "setting": "桌面",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "WT-005",
+  "title_cn": "手帕里取出怀表",
+  "title_en": "THE WATCH FROM THE HANDKERCHIEF",
+  "chapter": "WATCH TRICKS",
+  "chapter_cn": "手表魔术",
+  "pages": [
+   250,
+   250
+  ],
+  "props": [
+   "大手帕",
+   "金属环",
+   "怀表",
+   "餐巾"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "桌面",
+  "needs_assistant": "可选"
+ },
+ {
+  "id": "WT-006",
+  "title_cn": "掉进袖子",
+  "title_en": "DOWN THE SLEEVE",
+  "chapter": "WATCH TRICKS",
+  "chapter_cn": "手表魔术",
+  "pages": [
+   250,
+   250
+  ],
+  "props": [
+   "怀表",
+   "有胸袋的外套"
+  ],
+  "difficulty": "入门",
+  "duration": "2 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ },
+ {
+  "id": "WT-007",
+  "title_cn": "敲表盘",
+  "title_en": "TAP THE DIAL",
+  "chapter": "WATCH TRICKS",
+  "chapter_cn": "手表魔术",
+  "pages": [
+   250,
+   250
+  ],
+  "props": [
+   "怀表",
+   "铅笔"
+  ],
+  "difficulty": "进阶",
+  "duration": "3 分钟",
+  "setting": "近景",
+  "needs_assistant": "否"
+ }
+]
